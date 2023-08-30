@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Old Tanks</title>
+	<meta name="description" content="Old Tanks Online"/>
+	
+	<script src="https://old-tanks.github.io/oldtanksru/client/js/swfobject.js"></script>
+	<script>
+		var oldtanksloader = "https://old-tanks.github.io/oldtanksru/client/TanksNEW.swf?rnd="+Math.random();
+		var flashvars = {
+		};
+		var params = {
+			menu: "false",
+			scale: "noScale",
+			allowFullscreen: "true",
+			allowScriptAccess: "always",
+			bgcolor: "",
+			wmode: "direct" // can cause issues with FP settings & webcam
+		};
+		var attributes = {
+			id:"FastOld"
+		};
+		swfobject.embedSWF(
+			oldtanksloader, 
+			"altContent", "100%", "100%", "21.0.0", 
+			"https://old-tanks.github.io/oldtanksru/client/expressInstall.swf", 
+			flashvars, params, attributes);
+	</script>
+	<style type="text/css" media="screen">
+/*<![CDATA[*/
+* {
+	padding:0ox;
+	margin:0px;
+}
+
+html, body {
+	height: 100%;
+	overflow:  hidden;
+	margin: 0;
+	padding:0;
+	border:0;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(https://old-tanks.github.io/oldtanksru/client/images/bg.jpg);
+	color: #fff;
+}
+a {
+	color: #fff;
+}
+oldtanksru{
+	text-align:center;
+	min-width:1000px;
+	min-height:600px;
+	width:expression(document.body.clientWidth < 1000? "1000px": document.body.clientWidth );
+	height:expression(document.body.clientHeight < 600? "600px": document.body.clientHeight );
+}
+#altContent {
+	width:600px;
+	margin:auto;
+	padding-top:240px;
+	text-align:left;
+	background-image:url(https://old-tanks.github.io/oldtanksru/client/images/fp.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom ;
+	height:120px;
+}
+#altContent p {
+	padding-left:120px;
+	padding-top:10px;
+}
+/*]]>*/
+	</style>
+</head>
+<body>
+	<div id="altContent">
+<p>Adobe Flash Player version 10.0.22.87 or higher is required. <br/>Installation may take a minute. <a href="http://oldtanks.rf.gd/en/flash">Install</a></p>
+<p>Для игры требуется Adobe Flash Player версии 10.0.22.87 или выше. <br/>Установка займет около минуты. <a href="http://oldtanks.rf.gd/ru/flash">Установить</a></p>
+	</div>
+</body>
+</html>
