@@ -3,24 +3,24 @@
     "name": "Old Tanks",
     "path_client": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
-    "link_client": "http://old-tanks.github.io/FastOldTanks/client.zip",
-    "links_resources": "http://old-tanks.github.io/FastOldTanks/data.zip.001;http://old-tanks.github.io/FastOldTanks/data.zip.002;http://old-tanks.github.io/FastOldTanks/data.zip.003;http://old-tanks.github.io/FastOldTanks/data.zip.004",
+    "link_client": "https://old-tanks.github.io/FastOldTanks/client.zip",
+    "links_resources": "https://old-tanks.github.io/FastOldTanks/data.zip.001;https://old-tanks.github.io/FastOldTanks/data.zip.002;https://old-tanks.github.io/FastOldTanks/data.zip.003;https://old-tanks.github.io/FastOldTanks/data.zip.004",
     "version": "69"
   },
   {
     "name": "Tanki Online 2010-12",
     "path_client": "AppData/Roaming/oldtankionline/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
-    "link_client": "http://old-tanks.github.io/TankiOnline2010-12/client.zip",
-    "links_resources": "http://old-tanks.github.io/TankiOnline2010-12/resources.zip.001;http://old-tanks.github.io/TankiOnline2010-12/resources.zip.002;http://old-tanks.github.io/TankiOnline2010-12/resources.zip.003;http://old-tanks.github.io/TankiOnline2010-12/resources.zip.004",
+    "link_client": "https://old-tanks.github.io/TankiOnline2010-12/client.zip",
+    "links_resources": "https://old-tanks.github.io/TankiOnline2010-12/resources.zip.001;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.002;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.003;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.004",
     "version": "45"
   },
   {
     "name": "Tanki Online",
     "path_client": "AppData/Local/Programs/Tanki Online",
     "path_resources": "AppData/Roaming/tankionline",
-    "link_client": "http://old-tanks.github.io/TankiOnline/client.zip",
-    "links_resources": "http://old-tanks.github.io/TankiOnline/tankionline.zip",
+    "link_client": "https://old-tanks.github.io/TankiOnline/client.zip",
+    "links_resources": "https://old-tanks.github.io/TankiOnline/tankionline.zip",
     "version": "2045"
   }
 ]
