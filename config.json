@@ -3,24 +3,24 @@
     "name": "Old Tanks",
     "path_client": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
-    "link_client": "https://old-tanks.github.io/FastOldTanks/client.zip",
-    "links_resources": "https://old-tanks.github.io/FastOldTanks/data.zip.001;https://old-tanks.github.io/FastOldTanks/data.zip.002;https://old-tanks.github.io/FastOldTanks/data.zip.003;https://old-tanks.github.io/FastOldTanks/data.zip.004",
-    "version": "69"
+    "link_client": "https://drive.google.com/u/0/uc?id=1mBlDN4FjLsIiZYlnnSf3oPqBTsUi_7t5&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=1aoZApKxLmXM9KBYWjkJAq7JHPjCr_BzQ&export=download",
+    "version": "70"
   },
   {
     "name": "Tanki Online 2010-12",
     "path_client": "AppData/Roaming/oldtankionline/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
-    "link_client": "https://old-tanks.github.io/TankiOnline2010-12/client.zip",
-    "links_resources": "https://old-tanks.github.io/TankiOnline2010-12/resources.zip.001;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.002;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.003;https://old-tanks.github.io/TankiOnline2010-12/resources.zip.004",
-    "version": "45"
+    "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "version": "46"
   },
   {
     "name": "Tanki Online",
     "path_client": "AppData/Local/Programs/Tanki Online",
     "path_resources": "AppData/Roaming/tankionline",
-    "link_client": "https://old-tanks.github.io/TankiOnline/client.zip",
-    "links_resources": "https://old-tanks.github.io/TankiOnline/tankionline.zip",
-    "version": "2045"
+    "link_client": "https://drive.google.com/u/0/uc?id=1WDpn9sxepFTfecgOtLVVPlVr2WzS9TFc&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=12L1iACmrvkNNrTGrZFoE05-Bmvf77ghz&export=download",
+    "version": "2048"
   }
 ]
