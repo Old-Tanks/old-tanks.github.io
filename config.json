@@ -5,6 +5,7 @@
     "path_resources": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1TAwfCiYH8wspGi_L2xOBV7H9m-ZqmdVe&export=download",
     "link_resources": "https://drive.google.com/u/0/uc?id=1aoZApKxLmXM9KBYWjkJAq7JHPjCr_BzQ&export=download",
+    "logo_link": "http://oldtanks.rf.gd/",
     "logo": "https://old-tanks.github.io/logo_oldto.png",
     "background": "https://old-tanks.github.io/bg_oldto.jpg",
     "version": "72"
@@ -15,6 +16,7 @@
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
     "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "logo_link": "http://tankionline.rf.gd/index_old_rus.html",
     "logo": "https://old-tanks.github.io/logo_tanki2009.png",
     "background": "https://old-tanks.github.io/bg_09.jpg",
     "version": "48"
@@ -25,6 +27,7 @@
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
     "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "logo_link": "http://tankionline.rf.gd/2011/",
     "logo": "https://old-tanks.github.io/logo_tanki2010.png",
     "background": "https://old-tanks.github.io/bg_11.jpg",
     "version": "46"
@@ -35,6 +38,7 @@
     "path_resources": "AppData/Roaming/oldtankionline2013/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
     "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "logo_link": "http://tankionline.rf.gd/2012",
     "logo": "https://old-tanks.github.io/logo_tanki2012.png",
     "background": "https://old-tanks.github.io/bg_13.jpg",
     "version": "46"
@@ -45,6 +49,7 @@
     "path_resources": "AppData/Roaming/tankionline",
     "link_client": "https://drive.google.com/u/0/uc?id=1WDpn9sxepFTfecgOtLVVPlVr2WzS9TFc&export=download",
     "link_resources": "https://drive.google.com/u/0/uc?id=12L1iACmrvkNNrTGrZFoE05-Bmvf77ghz&export=download",
+    "logo_link": "http://tankionline.com/",
     "logo": "https://old-tanks.github.io/logo_tankionline.png",
     "background": "https://old-tanks.github.io/bg_14.jpg",
     "version": "2048"
