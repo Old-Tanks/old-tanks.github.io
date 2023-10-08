@@ -1,6 +1,7 @@
 [
   {
     "name": "Old Tanks",
+    "start_client_ru": "Old Tanks.exe",
     "path_client": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtanks.ru.client.Standlone/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1TAwfCiYH8wspGi_L2xOBV7H9m-ZqmdVe&export=download",
@@ -12,6 +13,7 @@
   },
   {
     "name": "Tanki Online 2009",
+    "start_client_ru": "Tanki Online.exe",
     "path_client": "AppData/Roaming/oldtankionline/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
@@ -23,6 +25,7 @@
   },
   {
     "name": "Tanki Online 2010-12",
+    "start_client_ru": "Tanki Online 2010-12.exe AlternativaLoader.swf?locale=ru",
     "path_client": "AppData/Roaming/oldtankionline/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
@@ -34,6 +37,7 @@
   },
   {
     "name": "Tanki Online 2012-13",
+    "start_client_ru": "Tanki Online.exe AlternativaLoader.swf?locale=ru",
     "path_client": "AppData/Roaming/oldtankionline2013/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline2013/Local Store/cache",
     "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
@@ -45,6 +49,7 @@
   },
   {
     "name": "Tanki Online",
+    "start_client_ru": "Tanki Online.exe",
     "path_client": "AppData/Local/Programs/Tanki Online",
     "path_resources": "AppData/Roaming/tankionline",
     "link_client": "https://drive.google.com/u/0/uc?id=1WDpn9sxepFTfecgOtLVVPlVr2WzS9TFc&export=download",
