@@ -14,10 +14,10 @@
   {
     "name": "Tanki Online 2009",
     "start_client_ru": "\"Tanki Online.exe\"",
-    "path_client": "AppData/Roaming/oldtankionline/Local Store/cache",
-    "path_resources": "AppData/Roaming/oldtankionline/Local Store/cache",
-    "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
-    "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "path_client": "AppData/Roaming/oldtankionline09/Local Store/cache",
+    "path_resources": "AppData/Roaming/oldtankionline09/Local Store/cache",
+    "link_client": "https://drive.google.com/u/0/uc?id=1-CRe8o3BWRGQQ9cZ-dRXlm-MJTq-Z4tI&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=1-AqB_erWuSBRIRJPj9S3iynphaOuj3Vc&export=download",
     "logo_link": "http://tankionline.rf.gd/index_old_rus.html",
     "logo": "https://old-tanks.github.io/logo_tanki2009.png",
     "background": "https://old-tanks.github.io/bg_09.jpg",
@@ -36,16 +36,28 @@
     "version": "46"
   },
   {
+    "name": "Tanki Online 2012",
+    "start_client_ru": "\"Tanki Online.exe\"AlternativaLoader.swf?locale=ru",
+    "path_client": "AppData/Roaming/oldtankionline2012/Local Store/cache",
+    "path_resources": "AppData/Roaming/oldtankionline2012/Local Store/cache",
+    "link_client": "https://drive.google.com/u/0/uc?id=1-WYxIZZ2hzORJf4a-vhgSXWnw2rUGv4P&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=1-J2hMsEv4B06tJyrj9IpuQ5dgZ0VIqq8&export=download",
+    "logo_link": "http://tankionline.rf.gd/2012",
+    "logo": "https://old-tanks.github.io/logo_tanki2012.png",
+    "background": "https://old-tanks.github.io/bg_13.jpg",
+    "version": "36"
+  },
+  {
     "name": "Tanki Online 2012-13",
     "start_client_ru": "\"Tanki Online.exe\"AlternativaLoader.swf?locale=ru",
     "path_client": "AppData/Roaming/oldtankionline2013/Local Store/cache",
     "path_resources": "AppData/Roaming/oldtankionline2013/Local Store/cache",
-    "link_client": "https://drive.google.com/u/0/uc?id=1NnfvJkLndRj5FVoK-LkADFOmATNTYSbf&export=download",
-    "link_resources": "https://drive.google.com/u/0/uc?id=1jBS6hqkUWH1gJy-dI0ROUGOsgtdftBHZ&export=download",
+    "link_client": "https://drive.google.com/u/0/uc?id=1-WYxIZZ2hzORJf4a-vhgSXWnw2rUGv4P&export=download",
+    "link_resources": "https://drive.google.com/u/0/uc?id=1-J2hMsEv4B06tJyrj9IpuQ5dgZ0VIqq8&export=download",
     "logo_link": "http://tankionline.rf.gd/2012",
     "logo": "https://old-tanks.github.io/logo_tanki2012.png",
     "background": "https://old-tanks.github.io/bg_13.jpg",
-    "version": "46"
+    "version": "16"
   },
   {
     "name": "Tanki Online",
