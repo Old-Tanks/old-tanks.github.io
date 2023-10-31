@@ -1,7 +1,7 @@
 [
   {
     "name": "666",
-    "start_client_ru": "\"FPL.exe\"LS.swf?HALLOWEEN=ON",
+    "start_client_ru": "\"666.exe\"LS.swf",
     "path_client": "Documents/don't_open_it",
     "path_resources": "Documents/don't_open_it",
     "link_client": "http://drive.google.com/u/0/uc?id=11kImdDkchPbGV0SSU9g5OzmXv0y6vbXL&export=download",
@@ -9,7 +9,7 @@
     "logo_link": "http://oldtanks.rf.gd/",
     "logo": "http://old-tanks.github.io/logo_666.png",
     "background": "http://old-tanks.github.io/bg_666.jpg",
-    "version": "666"
+    "version": "566"
   },
   {
     "name": "Old Tanks",
