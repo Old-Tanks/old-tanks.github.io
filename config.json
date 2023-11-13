@@ -1,6 +1,6 @@
 [
   {
-    "name": "666",
+    "name": "тест",
     "start_client_ru": "\"картинка.png\"",
     "path_client": "Documents/don't_open_it",
     "path_resources": "Documents/don't_open_it",
@@ -45,7 +45,7 @@
     "logo_link": "http://tankionline.rf.gd/2011/",
     "logo": "https://old-tanks.github.io/logo_tanki2010.png",
     "background": "https://old-tanks.github.io/bg_11.jpg",
-    "version": "51"
+    "version": "52"
   },
   {
     "name": "Tanki Online 2012",
@@ -69,7 +69,7 @@
     "logo_link": "http://tankionline.rf.gd/2012",
     "logo": "https://old-tanks.github.io/logo_tanki2012.png",
     "background": "https://old-tanks.github.io/bg_13.jpg",
-    "version": "19"
+    "version": "20"
   },
   {
     "name": "Tanki Online",
