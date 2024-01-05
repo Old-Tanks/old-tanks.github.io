@@ -1,0 +1,2098 @@
+{
+    "items": [
+        {
+            "name": "map_headspinners_race.xml",
+            "libs": [
+                "resources/library/Summer/BridgeParts.tara?v=MypCak",
+                "resources/library/Summer/ConcreteTiles.tara?v=MypCak",
+                "resources/library/Summer/GrassTiles.tara?v=MypCak",
+                "resources/library/Summer/Bush.tara?v=MypCak",
+                "resources/library/Summer/SlopesRises.tara?v=MypCak",
+                "resources/library/Summer/IndustrialBridge.tara?v=MypCak",
+                "resources/library/Summer/WaffleFence.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_relay_race_winter.xml",
+            "libs": [
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/IndustrialElementsWinter.tara?v=MypCak",
+                "resources/library/Winter/IndustrialBridgeWinter.tara?v=MypCak",
+                "resources/library/Summer/IndustrialBridge.tara?v=MypCak",
+                "resources/library/Winter/LandTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/OuterWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/WaffleFenceWinter.tara?v=MypCak",
+                "resources/library/Summer/Defense.tara?v=MypCak",
+                "resources/library/Summer/Passage.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_race.xml",
+            "libs": [
+                "resources/library/Summer/BridgeParts.tara?v=MypCak",
+                "resources/library/Summer/ConcreteTiles.tara?v=MypCak",
+                "resources/library/Summer/SlopesRises.tara?v=MypCak",
+                "resources/library/Summer/Stuffs.tara?v=MypCak",
+                "resources/library/Summer/Promotion.tara?v=MypCak",
+                "resources/library/Summer/ComBuild.tara?v=MypCak",
+                "resources/library/Summer/Defense.tara?v=MypCak",
+                "resources/library/Summer/Roadblock.tara?v=MypCak",
+                "resources/library/Summer/Fence.tara?v=MypCak",
+                "resources/library/Summer/Terrain.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_3thlibrary.xml",
+            "libs": [
+                "resources/library/Summer/ComBuild.tara?v=MypCak",
+                "resources/library/Summer/Defense.tara?v=MypCak",
+                "resources/library/Summer/Exterior.tara?v=MypCak",
+                "resources/library/Summer/Fence.tara?v=MypCak",
+                "resources/library/Summer/Passage.tara?v=MypCak",
+                "resources/library/Summer/Terrain.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_2042.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_2042_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_abyss.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_alpha.xml",
+            "libs": [
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_arena_2.xml",
+            "libs": [
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_arena.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_arena_space.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_arena_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_astrella.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_space.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_2.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_2_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_3.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_3_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_atra_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_babylon.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_barda.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_barda_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_barda_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bastion.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bastion_new.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_berlin.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_berlin_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bobruisk.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bobruisk_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_boombox.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_boombox_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_boombox_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_brest.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_brest_2.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_brest_2_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_brest_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bridges.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_bridges_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_camp.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_camp_space.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_camp_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_canyon.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_canyon_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_carrousel.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_cave.xml",
+            "libs": [
+                "resources/library/Test/test.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_chernobyl.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_chernobyl_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_combe.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_combe_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_courage.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_courage_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_crash.xml",
+            "libs": [
+                "resources/library/Test/crash.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_crash_new.xml",
+            "libs": [
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_cross.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_crossroad.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_crossroad_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_deathtrack.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_deathtrack_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_deck9.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_deck9_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_depo.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_depo_new.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_desert.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_desert_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_duality.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_duality_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_duel.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_duel_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_dusseldorf.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_dusseldorf_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_dusseldorf_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_esplanade.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_farm.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_farm_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_flying_test.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_forest.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_forest_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknox.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknoxII.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknox_II_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/castle_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknox_III.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknox_III_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/castle_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_fortknox_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/castle_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gallery.xml",
+            "libs": [
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_garder.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_garder_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gladiator.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gravity.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gravity_space.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gravity_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gubakha.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_gubakha_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_halloween.xml",
+            "libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+	    {
+		    "name": "map_halloween2013.xml",
+		    "libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/LandRocks.tara",
+				"resources/library/Summer/LandTiles.tara",
+				"resources/library/Summer/OuterWalls.tara",
+				"resources/library/Summer/WaffleFence.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialElements.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/NuBu3.tara",
+				"resources/library/Summer/Hangars.tara",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/DesertHouses.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/CityBuildings.tara"
+			]
+	    },
+		{
+			"name": "map_halloween2014.xml",
+			"libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/VillageBuilds.tara",
+				"resources/library/Summer/GrassTiles.tara",
+				"resources/library/Summer/Cliffs.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/Roadblock.tara",
+				"resources/library/Summer/SmallBridge.tara",
+				"resources/library/Summer/BridgeParts.tara",
+				"resources/library/Summer/CityBuilds.tara",
+				"resources/library/Summer/ConcreteTiles.tara",
+				"resources/library/Summer/ConcreteWalls.tara",
+				"resources/library/Summer/NuBu2.tara",
+				"resources/library/Summer/NuBu3.tara",
+				"resources/library/Summer/NuBu4.tara",
+				"resources/library/Summer/NuBu6.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/SlopesRises.tara"
+			]
+		},
+		{
+			"name": "map_halloween2015.xml",
+			"libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/VillageBuilds.tara",
+				"resources/library/Summer/GrassTiles.tara",
+				"resources/library/Summer/Cliffs.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/CityBuilds.tara",
+				"resources/library/Summer/ConcreteTiles.tara",
+				"resources/library/Summer/ConcreteWalls.tara",
+				"resources/library/Summer/SlopesRises.tara"
+
+			]
+		},
+		{
+			"name": "map_halloween2016.xml",
+			"libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/specialprops/PromotionHL16.tara",
+				"resources/library/Summer/VillageBuilds.tara",
+				"resources/library/Summer/GrassTiles.tara",
+				"resources/library/Summer/Cliffs.tara",
+				"resources/library/Summer/Roadblock.tara",
+				"resources/library/Summer/SmallBridge.tara",
+				"resources/library/Summer/BrokenRoof.tara",
+				"resources/library/Summer/BrokenBottom.tara",
+				"resources/library/Summer/BrokenWalls.tara",
+				"resources/library/Summer/BridgeParts.tara",
+				"resources/library/specialprops/BushHL16.tara",
+				"resources/library/Summer/CityBuilds.tara",
+				"resources/library/Summer/ConcreteTiles.tara",
+				"resources/library/Summer/ConcreteWalls.tara",
+				"resources/library/Summer/SlopesRises.tara"
+			]
+		},
+		{
+			"name": "map_halloween2018.xml",
+			"libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/VillageBuilds.tara",
+				"resources/library/Summer/GrassTiles.tara",
+				"resources/library/Summer/Cliffs.tara",
+				"resources/library/Summer/Roadblock.tara",
+				"resources/library/Summer/SmallBridge.tara",
+				"resources/library/Summer/BrokenRoof.tara",
+				"resources/library/Summer/BrokenBottom.tara",
+				"resources/library/Summer/BrokenWalls.tara",
+				"resources/library/Summer/BridgeParts.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/CityBuilds.tara",
+				"resources/library/Summer/ConcreteTiles.tara",
+				"resources/library/Summer/ConcreteWalls.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/SlopesRises.tara"
+			]
+		},
+		{
+			"name": "map_halloween2019.xml",
+			"libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/VillageBuilds.tara",
+				"resources/library/Summer/GrassTiles.tara",
+				"resources/library/Summer/Cliffs.tara",
+				"resources/library/Summer/Roadblock.tara",
+				"resources/library/Summer/SmallBridge.tara",
+				"resources/library/Summer/BrokenBottom.tara",
+				"resources/library/Summer/BrokenWalls.tara",
+				"resources/library/Summer/BridgeParts.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/CityBuilds.tara",
+				"resources/library/Summer/ConcreteTiles.tara",
+				"resources/library/Summer/ConcreteWalls.tara",
+				"resources/library/Summer/Fort.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/SlopesRises.tara"
+			]
+		},
+	    {
+		    "name": "map_halloween2020.xml",
+		    "libs": [
+                "resources/library/specialprops/hl.tara?v=MypCak",
+				"resources/library/Summer/LandRocks.tara",
+				"resources/library/Summer/LandTiles.tara",
+				"resources/library/Summer/OuterWalls.tara",
+				"resources/library/Summer/WaffleFence.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialElements.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/NuBu3.tara",
+				"resources/library/Summer/Hangars.tara",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/DesertHouses.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/CityBuildings.tara"
+			]
+	    },
+        {
+            "name": "map_happy_new_year.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2012.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2013.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2014.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/NuBu2Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu3Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu8Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu9Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu12Winter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2015.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/NuBu2Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu3Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu8Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu9Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu12Winter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year_race.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Summer/Defense.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildingsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/DesertHousesWinter.tara?v=MypCak",
+                "resources/library/Winter/RoadblockWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Winter/SmallBridgeWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2016.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Summer/IranZamin.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/FortWinter.tara?v=MypCak",
+                "resources/library/Winter/FachwerkHouse1Winter.tara?v=MypCak",
+                "resources/library/Winter/FachwerkHouse2Winter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/RoadblockWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Winter/SmallBridgeWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2017.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Summer/IranZamin.tara?v=MypCak",
+                "resources/library/specialprops/CP.tara?v=MypCak",
+                "resources/library/specialprops/TeamFlagsnew.tara?v=MypCak",
+                "resources/library/specialprops/BushnWinter.tara?v=MypCak",
+                "resources/library/specialprops/PromotionnnWinter.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/FortWinter.tara?v=MypCak",
+                "resources/library/Winter/FachwerkHouse1Winter.tara?v=MypCak",
+                "resources/library/Winter/FachwerkHouse2Winter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/RoadblockWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Winter/SmallBridgeWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2018.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/specialprops/BushWinterNY2018.tara?v=MypCak",
+                "resources/library/specialprops/PromotionnnWinter.tara?v=MypCak",
+                "resources/library/Winter/IranZaminWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2019.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Winter/IranZaminWinter.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Summer/Roadblock.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_happy_new_year2021.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/BridgePartsWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CityBuildsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/NuBu2Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu3Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu8Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu9Winter.tara?v=MypCak",
+                "resources/library/Winter/NuBu12Winter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak",
+                "resources/library/Winter/VillageBuildsWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_new_year_snowfight.xml",
+            "libs": [
+                "resources/library/specialprops/newyear.tara?v=MypCak",
+                "resources/library/Winter/IranZaminWinter.tara?v=MypCak",
+                "resources/library/Winter/IndustrialBridgeWinter.tara?v=MypCak",
+                "resources/library/Winter/BushWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/ConcreteWallsWinter.tara?v=MypCak",
+                "resources/library/Winter/CliffsWinter.tara?v=MypCak",
+                "resources/library/Winter/GrassTilesWinter.tara?v=MypCak",
+                "resources/library/Winter/StuffsWinter.tara?v=MypCak",
+                "resources/library/Summer/Roadblock.tara?v=MypCak",
+                "resources/library/Winter/RoadblockWinter.tara?v=MypCak",
+                "resources/library/Winter/PromotionWinter.tara?v=MypCak",
+                "resources/library/Winter/SlopesRisesWinter.tara?v=MypCak",
+                "resources/library/Winter/TreesWinter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_hangars.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_hes.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highland.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highland_II.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highland_II_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highland_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highways.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_highways_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_hill.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_hill_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_industrial_zone.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_industrial_zone_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_iran.xml",
+            "libs": [
+                "resources/library/iran/yonje.tara?v=MypCak",
+                "resources/library/iran/kahgel.tara?v=MypCak",
+                "resources/library/iran/zamin.tara?v=MypCak",
+                "resources/library/iran/kariz.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_iran_winter.xml",
+            "libs": [
+                "resources/library/iran/yonje_Winter.tara?v=MypCak",
+                "resources/library/iran/kahgel_Winter.tara?v=MypCak",
+                "resources/library/iran/zamin_Winter.tara?v=MypCak",
+                "resources/library/iran/kariz_Winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_island.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_island_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kingdom.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kolhoz.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kolhoz_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kungur.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kungur_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kungur_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_kungur_remake.xml",
+            "libs": [
+                "resources/library/Test/megaLand.tara?v=MypCak",
+                "resources/library/Test/MegaProps.tara?v=MypCak",
+                "resources/library/Test/rocks.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_labyrinth.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_legacy.xml",
+            "libs": [
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_losttemple.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_losttemple_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_madness.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_madness_space.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_magadan.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_magadan_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_magistral.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_magistral_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_massacre.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_massacre_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_megaprops1.xml",
+            "libs": [
+                "resources/library/Test/megaLand.tara?v=MypCak",
+                "resources/library/Test/MegaProps.tara?v=MypCak",
+                "resources/library/Test/rocks.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_mini_brest.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_molotov.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_molotov_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_montecarlo.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_montecarlo_space.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_montecarlo_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_new_format.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_new_parts.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak",
+                "resources/library/Test/new_parts.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_new_sandbox.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_new_tribute.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_newprops.xml",
+            "libs": [
+                "resources/library/Test/megaLand.tara?v=MypCak",
+                "resources/library/Test/MegaProps.tara?v=MypCak",
+                "resources/library/Test/rocks.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_newprops_2.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_noise.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_noise_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_novel.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_novel_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_opposition.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_opposition_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_osa.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_osa_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_parma.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_parma_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_pass.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_pass_winter.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_persia.xml",
+            "libs": [
+                "resources/library/iran/yonje.tara?v=MypCak",
+                "resources/library/iran/kahgel.tara?v=MypCak",
+                "resources/library/iran/zamin.tara?v=MypCak",
+                "resources/library/iran/kariz.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_pingpong.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_pingpong_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_podium.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_polygon.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_polygon_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_position.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_raven.xml",
+            "libs": [
+                "resources/library/Test/megaLand.tara?v=MypCak",
+                "resources/library/Test/MegaProps.tara?v=MypCak",
+                "resources/library/Test/rocks.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_redalert.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_redalert_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_rift.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_ruins.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandal.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandal_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandal_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandbox.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandbox_noob.xml",
+            "libs": [
+                "resources/library/RegularSummer/Noob.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandbox_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_sandbox_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_scope.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_scope_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_seaport.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_serpuhov.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_serpuhov_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_shortbridge.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_shortbridge_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_shortbridge_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_siege.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_siege_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_silence.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_silence_II.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_silence_II_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_silence_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_skylark.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_skylark_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_solikamsk.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_solikamsk_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_stadium.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_stadium_space.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_stadium_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_station.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_station_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_subway.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_subway_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_test.xml",
+            "libs": [
+                "resources/library/Test/test.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_test_new.xml",
+            "libs": [
+                "resources/library/Test/test.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_testing_ground_1.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_testing_ground_2.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_testing_ground_3.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_testing_ground_4.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_trains.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_trains_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_tribute.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_tribute_v2.xml",
+            "libs": [
+                "resources/library/Test/builds_v2.tara?v=MypCak",
+                "resources/library/Test/landscape_v2.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_tribute_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_tutorial.xml",
+            "libs": [
+                "resources/library/Summer/Tutorial_Builds.tara?v=MypCak",
+                "resources/library/Summer/Tutorial_Hangar.tara?v=MypCak",
+                "resources/library/Summer/Tutorial_Landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_unknown_madness.xml",
+            "libs": [
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_unknown.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_unknown_2.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/3rdLibrary/Com_Build_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Defense_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Fence_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Passage_Old.tara?v=MypCak",
+                "resources/library/3rdLibrary/Terrain_Old.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_valley.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_valley_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_wave.xml",
+            "libs": [
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_wave_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_wolfenstein.xml",
+            "libs": [
+                "resources/library/RegularSummer/builds.tara?v=MypCak",
+                "resources/library/RegularSummer/castle.tara?v=MypCak",
+                "resources/library/RegularSummer/landscape.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_wolfenstein_winter.xml",
+            "libs": [
+                "resources/library/RegularWinter/builds_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/castle_winter.tara?v=MypCak",
+                "resources/library/RegularWinter/landscape_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_zone.xml",
+            "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/elements_v1.tara?v=MypCak",
+                "resources/library/v1Summer/land_v1.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_zone_winter.xml",
+            "libs": [
+                "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        }
+    ]
+}
