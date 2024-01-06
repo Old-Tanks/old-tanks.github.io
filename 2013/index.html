@@ -1,50 +1,18 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
-  <meta charset="utf-8">
-  <title>Redirecting...</title>
-  <script>
-    /*!
-     * GeoIP Target Redirector
-     * Project: https://github.com/OpenAff/geoip-target-filter
-     *
-     * ---------------------------------------------------------------------
-     * A small snippet for geo-target redirection using GeoIP API.
-     * Add your targeted country's "ISO 3166-1 - Alpha-2" code and
-     * redirect URL to the "target" array object.
-     * ---------------------------------------------------------------------
-     * Example:
-     *          target.All = "http://others.tld";
-     *          target.US  = "http://domain.tld";
-     *
-     * The above example will redirect all the US visitors to the given URL.
-     * And any non-targeted visitors to "All" URL.
-     * ---------------------------------------------------------------------
-     * Country Codes can be found @( Wikipedia - http://bit.ly/nWBMYz )
-     * See Column: "Alpha-2 Code"
-     * ---------------------------------------------------------------------
-     */
-        var target = []; // Create a new target Array.
-        // Example Codes:
-        target.All = "battle-en.html"; // Redirects Non-targeted / all other visitors to this URL.
-        target.US  = "battle-en.html";  // Redirects US Visitors to this URL.
-		target.UA  = "battle-ru.html;  // Redirecting UA visitors to this URI
-        target.RU  = "battle-ru.html";  // Redirects RU Visitors to this URL.
-        target.GB  = "battle-en.html";  // Redirects GB Visitors to this URL.
-        // ------------------------------------------------------
-        // DON'T EDIT THE BELOW CODE UNLESS REQUIRED
-        // ------------------------------------------------------
-        /**
-         * If a valid country code matches the targets list, then it redirects to that particular link.
-         * Otherwise redirects to "All" target URL.
-         */
-        function geoip(g){window.top.location.href=target[g.country_code]||target.All}
-        (function(g,e,o,i,p){i=g.createElement(e),p=g.getElementsByTagName(e)[0];i.async=0;i.src=o;p.parentNode.insertBefore(i,p)})(document,'script','https://web.archive.org/web/20180614211418/https://freegeoip.net/json/?callback=geoip');
-  </script>
-</head>
+<title>Tanki Online 2013</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="icon" type="image/ico" href="favicon.ico"/>
 <body>
- 
-    <p>Please wait...</p>
+  <a href="battle-ru.html">RU</a>
+  <br/>
+  <a href="battle-en.html">EN</a>
+  <br/>
+  <!--a href="battle-de.html">DE</a>
+  <br/-->
+  <a href="battle-cn.html">3Dtank</a>
 </body>
 </html>
