@@ -43,7 +43,7 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue_ny.png",
+		"src": "ctf/flag_blue.png",
 		"multiframe": true,
 		"fps": 5,
 		"frame_heigth": 256,
@@ -52,7 +52,7 @@
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red_ny.png",
+		"src": "ctf/flag_red.png",
 		"multiframe": true,
 		"fps": 5,
 		"frame_heigth": 256,
@@ -77,7 +77,7 @@
 	 },
 	 {
 		"name": "garage_box_img",
-		"src": "garage/garage_ny.jpg"
+		"src": "garage/garage.jpg"
 	 },
 		{
 			"name": "skybox4_1",
@@ -1717,11 +1717,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "colormaps/holiday_ny13/image.jpg"
+		"src": "colormaps/holiday/image.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "colormaps/holiday_ny13/preview.png?v5"
+		"src": "colormaps/holiday/preview.png?v5"
 	 },
 	 {
 		"name": "red_m0",
@@ -2297,7 +2297,7 @@
 	 }, 
 	 {
 		"name": "parachute",
-		"src": "bonus/parachute1/para_ny.jpg?v1"
+		"src": "bonus/parachute1/para.jpg?v1"
 	 }, 
 	 {
 		"name": "parachute_inner",
@@ -2318,7 +2318,7 @@
     },
 	 {
 		"name": "bonus_box_gold",
-		"src": "bonus/boxes/crystal100/box_ny.jpg?v1"
+		"src": "bonus/boxes/crystal100/box.jpg?v1"
 	 }, 
 	 {
 		"name": "bonus_box_megagold",
@@ -2326,16 +2326,16 @@
 	 }, 
 	 {
 		"name": "bonus_box_crystall",
-		"src": "bonus/boxes/crystal/box_ny.jpg?v1"
+		"src": "bonus/boxes/crystal/box.jpg?v1"
 	 }
 	 , 
 	 {
 		"name": "bonus_box_armor",
-		"src": "bonus/boxes/armor/box_armr_ny.jpg?v1"
+		"src": "bonus/boxes/armor/box_armr.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_health",
-		"src": "bonus/boxes/med/box_med_ny.jpg?v1"
+		"src": "bonus/boxes/med/box_med.jpg?v1"
 	 },
 		{
 			"name": "bonus_box_gift",
@@ -2343,11 +2343,11 @@
 		},
 	 {
 		"name": "bonus_box_damage",
-		"src": "bonus/boxes/shot/box_shot_ny.jpg?v1"
+		"src": "bonus/boxes/shot/box_shot.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_nitro",
-		"src": "bonus/boxes/nos/box_nos_ny.jpg?v1"
+		"src": "bonus/boxes/nos/box_nos.jpg?v1"
 	 },
 		{
 			"name": "bonus_box_lightmap",
@@ -4002,19 +4002,19 @@
 	},
 	{
 	"name": "mine_m0_preview",
-	"src": "inventory/mine/inventory_mine_cookie.png"
+	"src": "inventory/mine/inventory_mine.png"
 	},
 	{
 	"name": "blueMineTexture",
-	"src": "mines/mine_blue_cookie.jpg"
+	"src": "mines/mine_blue.jpg"
 	},
 	{
 	"name": "enemyMineTexture",
-	"src": "mines/mine_yellow_cookie.jpg"
+	"src": "mines/mine_yellow.jpg"
 	},
 	{
 	"name": "friendlyMineTexture_mine",
-	"src": "mines/mine_green_cookie.jpg"
+	"src": "mines/mine_green.jpg"
 	},
 	{
 	"name": "idleExplosionTexture_mine",
@@ -4026,7 +4026,7 @@
 	}, 
 	{
 	"name": "redMineTexture_mine",
-	"src": "mines/mine_red_cookie.jpg"
+	"src": "mines/mine_red.jpg"
 	},
 	{
 	"name": "loader_en1",
