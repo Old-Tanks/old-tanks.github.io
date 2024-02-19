@@ -466,6 +466,7 @@
             "name": "map_deck9.xml",
             "libs": [
                 "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+                "resources/library/v1Summer/complex_build_v1tara?v=MypCak",
                 "resources/library/v1Summer/elements_v1.tara?v=MypCak",
                 "resources/library/v1Summer/land_v1.tara?v=MypCak"
             ]
@@ -474,6 +475,7 @@
             "name": "map_deck9_winter.xml",
             "libs": [
                 "resources/library/v1Winter/buildings_v1_winter.tara?v=MypCak",
+                "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
                 "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
                 "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
             ]
