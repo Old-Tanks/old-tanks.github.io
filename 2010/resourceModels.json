@@ -13,7 +13,7 @@
 	  },
 	  {
 		"name": "garage_box_model",
-		"src": "tank_parts/garage_box/box/garage.3ds"
+		"src": "tank_parts/garage_box/box/garage.3DS"
 	  },
 	  {
 		"name": "viking_m0",
@@ -199,67 +199,67 @@
 	  },
 	  {
 		"name": "wasp_m0",
-		"src": "tank_parts/hulls/hull1/hull.3ds"
+		"src": "tank_parts/hulls/hull1/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m1",
-		"src": "tank_parts/hulls/hull1_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull1_m1/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m2",
-		"src": "tank_parts/hulls/hull1_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull1_m2/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m3",
-		"src": "tank_parts/hulls/hull1_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull1_m3/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m0",
-		"src": "tank_parts/hulls/hull2/hull.3ds"
+		"src": "tank_parts/hulls/hull2/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m1",
-		"src": "tank_parts/hulls/hull2_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull2_m1/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m2",
-		"src": "tank_parts/hulls/hull2_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull2_m2/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m3",
-		"src": "tank_parts/hulls/hull2_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull2_m3/hull.3DS"
 	  },
 	  {
 		"name": "titan_m0",
-		"src": "tank_parts/hulls/hull3/hull.3ds"
+		"src": "tank_parts/hulls/hull3/hull.3DS"
 	  },
 	  {
 		"name": "titan_m1",
-		"src": "tank_parts/hulls/hull3_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull3_m1/hull.3DS"
 	  },
 	  {
 		"name": "titan_m2",
-		"src": "tank_parts/hulls/hull3_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull3_m2/hull.3DS"
 	  },
 	  {
 		"name": "titan_m3",
-		"src": "tank_parts/hulls/hull3_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull3_m3/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m0",
-		"src": "tank_parts/hulls/hull4/hull.3ds"
+		"src": "tank_parts/hulls/hull4/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m1",
-		"src": "tank_parts/hulls/hull4_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull4_m1/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m2",
-		"src": "tank_parts/hulls/hull4_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull4_m2/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m3",
-		"src": "tank_parts/hulls/hull4_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull4_m3/hull.3DS"
 	  },
 	  {
 		"name": "hornet_m0",
