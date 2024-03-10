@@ -2236,6 +2236,11 @@
 	}
 	,
 	{
+	"name": "map_madness_old_preview",
+	"src": "maps/map_madness_old_preview.jpg?v120"
+	}
+	,
+	{
 	"name": "map_magadan_preview",
 	"src": "maps/map_magadan_preview.jpg?v120"
 	}
@@ -2638,6 +2643,18 @@
 	{
 	"name": "map_silence_II_evening_preview",
 	"src": "maps/map_silence_II_evening_preview.jpg?v120"
+	},
+	{
+	"name": "map_silence_v.1.0_preview",
+	"src": "maps/map_silence_v.1.0_preview.jpg?v120"
+	},
+	{
+	"name": "map_silence_v.1.1_preview",
+	"src": "maps/map_silence_v.1.1_preview.jpg?v120"
+	},
+	{
+	"name": "map_silence_v.1.2_preview",
+	"src": "maps/map_silence_v.1.2_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_II_old_preview",
