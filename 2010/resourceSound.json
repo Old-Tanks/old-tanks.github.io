@@ -142,6 +142,10 @@
             "src": "effects/shaft/m0/hit.wav"
         },
         {
+            "name": "space_ambient_sound",
+            "src": "sfx/space.mp3"
+        },
+        {
             "name": "railgun_shot",
             "src": "effects/railgun1/railgun.mp3"
         },
