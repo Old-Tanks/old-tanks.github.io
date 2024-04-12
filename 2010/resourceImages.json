@@ -1199,11 +1199,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "tank_parts/colorings/holiday_af.jpg"
+		"src": "tank_parts/colorings/holiday_cd.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "item/preview/coloring_holiday_af.png"
+		"src": "item/preview/coloring_holiday_cd.png"
 	 },
 	 {
 		"name": "red_m0",
@@ -1831,6 +1831,11 @@
 	}
 	,
 	{
+	"name": "map_abyss_v.1.1_preview",
+	"src": "maps/map_abyss_v.1.1_preview.jpg?v120"
+	}
+	,
+	{
 	"name": "map_arena_preview",
 	"src": "maps/map_arena_preview.jpg?v120"
 	}
@@ -2156,6 +2161,11 @@
 	}
 	,
 	{
+	"name": "map_highland_v.1.1_preview",
+	"src": "maps/map_highland_v.1.1_preview.jpg?v120"
+	}
+	,
+	{
 	"name": "map_plato_preview",
 	"src": "maps/map_plato_preview.jpg?v120"
 	}
@@ -2178,6 +2188,11 @@
 	{
 	"name": "map_iran_preview",
 	"src": "maps/map_iran_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_iran_old_preview",
+	"src": "maps/map_iran_old_preview.jpg?v120"
 	}
 	,
 	{
@@ -2617,6 +2632,10 @@
 	"src": "maps/map_carrousel_preview.jpg?v120"
 	},
 	{
+	"name": "map_carrousel_old_preview",
+	"src": "maps/map_carrousel_old_preview.jpg?v120"
+	},
+	{
 	"name": "map_testing_ground_4_preview",
 	"src": "maps/map_testing_ground_4_preview.jpg?v120"
 	},
@@ -2768,8 +2787,16 @@
 	"src": "maps/map_atra_2_old_preview.jpg?v120"
 	},
 	{
+	"name": "map_atra-2_preview",
+	"src": "maps/map_atra-2_preview.jpg?v120"
+	},
+	{
 	"name": "map_chernobyl_preview",
 	"src": "maps/map_chernobyl_preview.jpg?v120"
+	},
+	{
+	"name": "map_citadel_preview",
+	"src": "maps/map_citadel_preview.jpg?v120"
 	},
 	{
 	"name": "map_duality_preview",

@@ -33,16 +33,16 @@
       </position>
       <texture-name>Bridge 3</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>2750.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
+        <x>-250.000</x>
+        <y>2250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
@@ -77,16 +77,16 @@
       </position>
       <texture-name>up rck 3</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Rocks" name="up rock">
       <rotation>
-        <z>-18.849556</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>7500.000</x>
+        <y>-5500.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>up rck 3</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
@@ -154,16 +154,16 @@
       </position>
       <texture-name>Tile Asp 2</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>-7.853982</z>
+        <z>-4.712389</z>
       </rotation>
       <position>
-        <x>7500.000</x>
-        <y>-5500.000</y>
-        <z>600.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>0.000</z>
       </position>
-      <texture-name>up rck 3</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2057,16 +2057,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-7.853982</z>
+        <z>-6.283185</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-6750.000</y>
-        <z>900.000</z>
+        <x>6250.000</x>
+        <y>-6250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>WTile Small 1</texture-name>
+      <texture-name>Tile Dirt 8</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -2101,16 +2101,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land v1" group-name="Rocks" name="up rock">
       <rotation>
-        <z>-6.283185</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>6250.000</x>
-        <y>-6250.000</y>
-        <z>1200.000</z>
+        <x>4000.000</x>
+        <y>-7000.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>Tile Dirt 8</texture-name>
+      <texture-name>up rck 3</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2145,16 +2145,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
-        <z>-3.141593</z>
+        <z>1.570796</z>
       </rotation>
       <position>
-        <x>4000.000</x>
-        <y>-7000.000</y>
-        <z>600.000</z>
+        <x>-250.000</x>
+        <y>-8250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>up rck 3</texture-name>
+      <texture-name>Bridge6 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
@@ -2211,16 +2211,16 @@
       </position>
       <texture-name>up rck 3</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-12.566371</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>6000.000</x>
-        <y>2500.000</y>
-        <z>600.000</z>
+        <x>-4250.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>up rck 3</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2255,16 +2255,16 @@
       </position>
       <texture-name>Tile Beton 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>-7.853982</z>
+        <z>-4.712389</z>
       </rotation>
       <position>
-        <x>6250.000</x>
-        <y>-6750.000</y>
-        <z>1200.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Grass A2</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2299,16 +2299,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-4.712389</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
+        <x>-2250.000</x>
+        <y>750.000</y>
         <z>1800.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2356,14 +2356,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
+        <x>-250.000</x>
+        <y>1750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Asp 12</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Rocks" name="corner2">
       <rotation>
@@ -2422,14 +2422,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-3.141593</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-250.000</x>
+        <x>-3250.000</x>
         <y>1750.000</y>
         <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 12</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2486,24 +2486,24 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>-8250.000</y>
-        <z>900.000</z>
+        <x>-4250.000</x>
+        <y>-3750.000</y>
+        <z>3600.000</z>
       </position>
-      <texture-name>Bridge6 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>1750.000</y>
+        <x>250.000</x>
+        <y>2250.000</y>
         <z>1800.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
@@ -2530,16 +2530,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-1250.000</y>
-        <z>1800.000</z>
+        <x>250.000</x>
+        <y>-3750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 1">
       <rotation>
@@ -2568,22 +2568,22 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-2250.000</x>
-        <y>750.000</y>
-        <z>1800.000</z>
+        <x>3750.000</x>
+        <y>-2250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>3250.000</x>
-        <y>250.000</y>
-        <z>900.000</z>
+        <x>-3250.000</x>
+        <y>-1250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Bridge6 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -2629,16 +2629,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>-7750.000</y>
-        <z>2700.000</z>
+        <x>3250.000</x>
+        <y>250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Bridge6 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Sprites" name="Tree 1" free="true">
       <rotation>
@@ -2662,16 +2662,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="Tunnel 2">
       <rotation>
-        <z>0.000000</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>3750.000</x>
-        <y>-2250.000</y>
-        <z>1200.000</z>
+        <x>-5000.000</x>
+        <y>0.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -2684,27 +2684,27 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>-4250.000</x>
-        <y>-3750.000</y>
-        <z>3600.000</z>
-      </position>
-      <texture-name>Tile Asp 1</texture-name>
-    </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>-7.853982</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-3750.000</y>
+        <x>2750.000</x>
+        <y>-1250.000</y>
         <z>1200.000</z>
       </position>
       <texture-name>WTile Big 1</texture-name>
+    </prop>
+    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
+      <rotation>
+        <z>-1.570796</z>
+      </rotation>
+      <position>
+        <x>-5250.000</x>
+        <y>-7750.000</y>
+        <z>2700.000</z>
+      </position>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
@@ -2774,12 +2774,12 @@
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>-1.570796</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>2750.000</x>
-        <y>-1250.000</y>
-        <z>1200.000</z>
+        <x>2250.000</x>
+        <y>2250.000</y>
+        <z>600.000</z>
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
@@ -2849,14 +2849,14 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="Tunnel 2">
+    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
-        <z>-1.570796</z>
+        <z>-6.283185</z>
       </rotation>
       <position>
-        <x>-5000.000</x>
-        <y>0.000</y>
-        <z>1800.000</z>
+        <x>-5250.000</x>
+        <y>-3250.000</y>
+        <z>2400.000</z>
       </position>
       <texture-name/>
     </prop>
@@ -2937,16 +2937,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-9.424778</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>-7750.000</y>
-        <z>900.000</z>
+        <x>-1250.000</x>
+        <y>-7250.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -3063,9 +3063,9 @@
         <z>-9.424778</z>
       </rotation>
       <position>
-        <x>-1250.000</x>
-        <y>-7250.000</y>
-        <z>600.000</z>
+        <x>-4250.000</x>
+        <y>-3750.000</y>
+        <z>3000.000</z>
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
@@ -3113,16 +3113,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-18.849556</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>2250.000</x>
-        <y>2250.000</y>
-        <z>600.000</z>
+        <x>-4250.000</x>
+        <y>1250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -3168,16 +3168,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
         <x>250.000</x>
         <y>2250.000</y>
-        <z>1800.000</z>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 2</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3245,16 +3245,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>1250.000</y>
-        <z>2400.000</z>
+        <x>-750.000</x>
+        <y>2250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3289,16 +3289,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-6.283185</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>-3250.000</y>
-        <z>2400.000</z>
+        <x>6250.000</x>
+        <y>-6750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Grass A2</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
@@ -3382,22 +3382,22 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>3750.000</x>
-        <y>-5750.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>-2750.000</y>
+        <z>2400.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
-        <z>-18.849556</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>750.000</x>
+        <y>-8250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Bridge 2</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Chest03">
       <rotation>
@@ -3410,27 +3410,27 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
-      <rotation>
-        <z>-18.849556</z>
-      </rotation>
-      <position>
-        <x>250.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
-      </position>
-      <texture-name>WTile Big 2</texture-name>
-    </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-2750.000</y>
+        <x>-4750.000</x>
+        <y>-2250.000</y>
         <z>2400.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
+    </prop>
+    <prop library-name="Elements v1" group-name="Walls" name="Wgate">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <position>
+        <x>4500.000</x>
+        <y>-5000.000</y>
+        <z>1200.000</z>
+      </position>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 1">
       <rotation>
@@ -3476,16 +3476,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wgate">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>4500.000</x>
-        <y>-5000.000</y>
-        <z>1200.000</z>
+        <x>3750.000</x>
+        <y>1250.000</y>
+        <z>1500.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Bridge 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3503,11 +3503,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4750.000</x>
-        <y>-2250.000</y>
-        <z>2400.000</z>
+        <x>-250.000</x>
+        <y>1250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -3531,27 +3531,27 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+      <rotation>
+        <z>-7.853982</z>
+      </rotation>
+      <position>
+        <x>3750.000</x>
+        <y>-6750.000</y>
+        <z>1200.000</z>
+      </position>
+      <texture-name>Tile Asp 5</texture-name>
+    </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>3750.000</x>
-        <y>1250.000</y>
-        <z>1500.000</z>
+        <x>250.000</x>
+        <y>-5750.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
-    </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
-      <rotation>
-        <z>-9.424778</z>
-      </rotation>
-      <position>
-        <x>-4250.000</x>
-        <y>-3750.000</y>
-        <z>3000.000</z>
-      </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 2x2">
       <rotation>
@@ -3586,16 +3586,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>-7.853982</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>3750.000</x>
-        <y>-6750.000</y>
+        <x>-4250.000</x>
+        <y>2250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 5</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3652,16 +3652,16 @@
       </position>
       <texture-name>WTile Small 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>750.000</x>
-        <y>-8250.000</y>
-        <z>900.000</z>
+        <x>6750.000</x>
+        <y>-4750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Bridge 2</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3685,16 +3685,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>1250.000</y>
-        <z>1800.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>1500.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3753,12 +3753,12 @@
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>-3.141593</z>
+        <z>-6.283186</z>
       </rotation>
       <position>
         <x>-3250.000</x>
         <y>-8250.000</y>
-        <z>1500.000</z>
+        <z>-300.000</z>
       </position>
       <texture-name/>
     </prop>
@@ -3795,16 +3795,16 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>6750.000</x>
-        <y>-4750.000</y>
-        <z>1200.000</z>
+        <x>250.000</x>
+        <y>-6750.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>WTile Small 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
@@ -3817,27 +3817,27 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land v1" group-name="Rocks" name="up rock">
       <rotation>
-        <z>0.000000</z>
+        <z>-12.566371</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-5750.000</y>
-        <z>2400.000</z>
+        <x>6000.000</x>
+        <y>2500.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>up rck 3</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 1">
       <rotation>
-        <z>-18.849556</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>-1000.000</x>
+        <y>-2000.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -3894,16 +3894,16 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
-        <z>-6.283186</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>-300.000</z>
+        <x>750.000</x>
+        <y>-3750.000</y>
+        <z>1500.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Bridge 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
@@ -3993,27 +3993,27 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>750.000</x>
-        <y>-3750.000</y>
-        <z>1500.000</z>
-      </position>
-      <texture-name>Bridge 1</texture-name>
-    </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 1">
+    <prop library-name="Land v1" group-name="Rocks" name="small2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-1000.000</x>
-        <y>-2000.000</y>
-        <z>1800.000</z>
+        <x>1750.000</x>
+        <y>-7750.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name/>
+      <texture-name>sm2 rck 3</texture-name>
+    </prop>
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+      <rotation>
+        <z>-12.566371</z>
+      </rotation>
+      <position>
+        <x>-5750.000</x>
+        <y>-3750.000</y>
+        <z>3000.000</z>
+      </position>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Rocks" name="up rock">
       <rotation>
@@ -4081,27 +4081,27 @@
       </position>
       <texture-name>Tile Grass A2</texture-name>
     </prop>
+    <prop library-name="Elements v1" group-name="Stuffs" name="Broktank">
+      <rotation>
+        <z>-1.570796</z>
+      </rotation>
+      <position>
+        <x>4500.000</x>
+        <y>1000.000</y>
+        <z>1200.000</z>
+      </position>
+      <texture-name/>
+    </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-1250.000</y>
+        <x>-750.000</x>
+        <y>2250.000</y>
         <z>1800.000</z>
       </position>
       <texture-name>Tile Sand 1</texture-name>
-    </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
-      <rotation>
-        <z>-3.141593</z>
-      </rotation>
-      <position>
-        <x>1750.000</x>
-        <y>-7750.000</y>
-        <z>600.000</z>
-      </position>
-      <texture-name>sm2 rck 3</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -4218,11 +4218,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-5750.000</y>
-        <z>2400.000</z>
+        <x>250.000</x>
+        <y>-1250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4268,16 +4268,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-9.424778</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3750.000</x>
-        <y>-7250.000</y>
-        <z>1200.000</z>
+        <x>-5250.000</x>
+        <y>-1250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -4328,8 +4328,8 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3750.000</x>
-        <y>-250.000</y>
+        <x>-4250.000</x>
+        <y>-5750.000</y>
         <z>2400.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
@@ -4345,16 +4345,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-9.424778</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>-1250.000</y>
-        <z>2400.000</z>
+        <x>-3750.000</x>
+        <y>-7250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4424,14 +4424,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-2250.000</x>
-        <y>-1250.000</y>
-        <z>1800.000</z>
+        <x>-3750.000</x>
+        <y>-250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4501,14 +4501,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>-4.712389</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>2250.000</y>
-        <z>1800.000</z>
+        <x>2250.000</x>
+        <y>-6250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Grass A2</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4537,11 +4537,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>5250.000</x>
-        <y>-1250.000</y>
-        <z>1200.000</z>
+        <x>-3250.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4598,16 +4598,16 @@
       </position>
       <texture-name>Tile Grass A1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-9.424778</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-2250.000</y>
+        <x>-1250.000</x>
+        <y>-7250.000</y>
         <z>1800.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -4664,16 +4664,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-12.566371</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-3750.000</y>
-        <z>3000.000</z>
+        <x>5250.000</x>
+        <y>-1250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
@@ -4686,16 +4686,16 @@
       </position>
       <texture-name>WTile Small 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-9.424778</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-1250.000</x>
-        <y>-7250.000</y>
+        <x>-2250.000</x>
+        <y>-2250.000</y>
         <z>1800.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4809,14 +4809,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>-5750.000</x>
-        <y>-2750.000</y>
-        <z>3000.000</z>
+        <x>-2250.000</x>
+        <y>-1250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4851,16 +4851,16 @@
       </position>
       <texture-name>up rck 3</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>0.000000</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>-2250.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
+        <x>2250.000</x>
+        <y>2750.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -4884,16 +4884,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-12.566371</z>
       </rotation>
       <position>
-        <x>-1750.000</x>
-        <y>-4250.000</y>
-        <z>2400.000</z>
+        <x>-4250.000</x>
+        <y>-3750.000</y>
+        <z>3000.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
@@ -4961,25 +4961,25 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-12.566371</z>
+        <z>0.000000</z>
       </rotation>
       <position>
         <x>-5750.000</x>
-        <y>-3750.000</y>
+        <y>-2750.000</y>
         <z>3000.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 4">
       <rotation>
         <z>-1.570796</z>
       </rotation>
       <position>
-        <x>2250.000</x>
-        <y>2750.000</y>
-        <z>900.000</z>
+        <x>-4750.000</x>
+        <y>-1750.000</y>
+        <z>2400.000</z>
       </position>
       <texture-name/>
     </prop>
@@ -5071,27 +5071,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 4">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
-        <z>-1.570796</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4750.000</x>
-        <y>-1750.000</y>
-        <z>2400.000</z>
+        <x>4250.000</x>
+        <y>1250.000</y>
+        <z>1500.000</z>
       </position>
-      <texture-name/>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>-4.712389</z>
-      </rotation>
-      <position>
-        <x>2250.000</x>
-        <y>-6250.000</y>
-        <z>1200.000</z>
-      </position>
-      <texture-name>Tile Grass A2</texture-name>
+      <texture-name>Bridge 2</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5115,16 +5104,16 @@
       </position>
       <texture-name>Tile Asp 4</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Broktank">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>4500.000</x>
-        <y>1000.000</y>
+        <x>3750.000</x>
+        <y>-5750.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -5169,6 +5158,17 @@
         <z>1200.000</z>
       </position>
       <texture-name/>
+    </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <position>
+        <x>-1750.000</x>
+        <y>-4250.000</y>
+        <z>2400.000</z>
+      </position>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5280,16 +5280,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-3.141593</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>4250.000</x>
-        <y>1250.000</y>
-        <z>1500.000</z>
+        <x>-2250.000</x>
+        <y>-6250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Bridge 2</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5346,16 +5346,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-6.283185</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4750.000</x>
-        <y>-2750.000</y>
-        <z>2400.000</z>
+        <x>2250.000</x>
+        <y>1750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5395,11 +5395,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>2250.000</x>
-        <y>1750.000</y>
+        <x>-1750.000</x>
+        <y>250.000</y>
         <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5434,16 +5434,16 @@
       </position>
       <texture-name>Bridge 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-14.137167</z>
       </rotation>
       <position>
-        <x>-1750.000</x>
-        <y>250.000</y>
-        <z>1800.000</z>
+        <x>-4250.000</x>
+        <y>-6250.000</y>
+        <z>3000.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5478,16 +5478,16 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-14.137167</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-6250.000</y>
-        <z>3000.000</z>
+        <x>-750.000</x>
+        <y>750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Sand 2</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
@@ -5505,11 +5505,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-2250.000</x>
-        <y>-6250.000</y>
-        <z>2400.000</z>
+        <x>6250.000</x>
+        <y>-1250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -5544,16 +5544,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-14.137167</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>750.000</y>
-        <z>1800.000</z>
+        <x>-4250.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Sand 2</texture-name>
+      <texture-name>WTile Big 3</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5610,16 +5610,16 @@
       </position>
       <texture-name>Bridge6 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Rocks" name="small2">
       <rotation>
-        <z>-14.137167</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>7750.000</x>
+        <y>2250.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>WTile Big 3</texture-name>
+      <texture-name>sm2 rck 3</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5676,16 +5676,16 @@
       </position>
       <texture-name>Tile Grass B2</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
+    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
-        <z>-7.853982</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>7750.000</x>
-        <y>2250.000</y>
-        <z>600.000</z>
+        <x>4750.000</x>
+        <y>-6750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>sm2 rck 3</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5764,16 +5764,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>4750.000</x>
-        <y>-6750.000</y>
-        <z>1200.000</z>
+        <x>-4750.000</x>
+        <y>-4250.000</y>
+        <z>3600.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -5953,14 +5953,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4750.000</x>
+        <x>4250.000</x>
         <y>-4250.000</y>
-        <z>3600.000</z>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Asp 6</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6041,14 +6041,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-3.141593</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>4250.000</x>
-        <y>-4250.000</y>
+        <x>1750.000</x>
+        <y>-3250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 6</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6066,11 +6066,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>6250.000</x>
-        <y>-1250.000</y>
+        <x>7250.000</x>
+        <y>750.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6129,14 +6129,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>1.570796</z>
       </rotation>
       <position>
-        <x>4750.000</x>
-        <y>-750.000</y>
+        <x>6250.000</x>
+        <y>2250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Grass A2</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6154,11 +6154,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>1750.000</x>
-        <y>-3250.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>-2250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
@@ -6173,14 +6173,14 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>6250.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>-250.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Grass A2</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
@@ -6209,11 +6209,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>7250.000</x>
-        <y>750.000</y>
+        <x>6750.000</x>
+        <y>-2250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
@@ -6226,16 +6226,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-14.137167</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>-3750.000</x>
+        <y>-750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6287,7 +6287,7 @@
       </rotation>
       <position>
         <x>-3750.000</x>
-        <y>-750.000</y>
+        <y>-1750.000</y>
         <z>1800.000</z>
       </position>
       <texture-name>WTile Big 1</texture-name>
@@ -6347,16 +6347,16 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-14.137167</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3750.000</x>
-        <y>-1750.000</y>
-        <z>1800.000</z>
+        <x>-4250.000</x>
+        <y>-4750.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Rocks" name="corner2">
       <rotation>
@@ -6374,8 +6374,8 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-2250.000</y>
+        <x>-1250.000</x>
+        <y>-3750.000</y>
         <z>2400.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
@@ -6391,16 +6391,16 @@
       </position>
       <texture-name>Tile Beton 2</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Buildings v1" group-name="Old Builds" name="NuBu 9">
       <rotation>
-        <z>0.000000</z>
+        <z>-6.283185</z>
       </rotation>
       <position>
-        <x>-250.000</x>
-        <y>-8250.000</y>
-        <z>900.000</z>
+        <x>5500.000</x>
+        <y>-2500.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6413,16 +6413,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-4750.000</y>
-        <z>2400.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>300.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6523,16 +6523,16 @@
       </position>
       <texture-name>Tile Grass A3</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>6750.000</x>
-        <y>-2250.000</y>
+        <x>750.000</x>
+        <y>-4750.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6545,16 +6545,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Buildings v1" group-name="Old Builds" name="NuBu 9">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
-        <z>-6.283185</z>
+        <z>-4.712389</z>
       </rotation>
       <position>
-        <x>5500.000</x>
-        <y>-2500.000</y>
-        <z>1200.000</z>
+        <x>-2750.000</x>
+        <y>750.000</y>
+        <z>1500.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Bridge6 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6567,16 +6567,16 @@
       </position>
       <texture-name>Tile Grass A2</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>-3.141593</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>300.000</z>
+        <x>250.000</x>
+        <y>-3750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name/>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6616,9 +6616,9 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-1250.000</x>
-        <y>-3750.000</y>
-        <z>2400.000</z>
+        <x>-4250.000</x>
+        <y>-6750.000</y>
+        <z>3600.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
@@ -6666,16 +6666,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-3.141593</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>750.000</x>
-        <y>-4750.000</y>
-        <z>1200.000</z>
+        <x>-1750.000</x>
+        <y>-2750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -6842,16 +6842,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-1750.000</x>
-        <y>-2750.000</y>
-        <z>1800.000</z>
+        <x>250.000</x>
+        <y>-5750.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Small 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6902,11 +6902,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-6750.000</y>
-        <z>3600.000</z>
+        <x>4750.000</x>
+        <y>-250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -6963,16 +6963,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
-        <z>-7.853982</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-3750.000</y>
-        <z>1800.000</z>
+        <x>-5250.000</x>
+        <y>-7750.000</y>
+        <z>2100.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Bridge 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -7045,11 +7045,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>4750.000</x>
-        <y>-250.000</y>
-        <z>1200.000</z>
+        <x>-4750.000</x>
+        <y>-5750.000</y>
+        <z>3600.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -7073,16 +7073,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>-7750.000</y>
-        <z>2100.000</z>
+        <x>250.000</x>
+        <y>-6250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name>WTile Small 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7172,16 +7172,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
+    <prop library-name="Buildings v1" group-name="Unbroken houses" name="SmHouse4">
       <rotation>
-        <z>-7.853982</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-6250.000</y>
-        <z>900.000</z>
+        <x>6000.000</x>
+        <y>1000.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>WTile Small 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Buildings v1" group-name="Unbroken houses" name="Steel tower">
       <rotation>
@@ -7392,16 +7392,16 @@
       </position>
       <texture-name>WTile Small 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-7.853982</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-5750.000</y>
-        <z>900.000</z>
+        <x>-3750.000</x>
+        <y>-4750.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>WTile Small 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Buildings v1" group-name="Unbroken houses" name="SmHouse5">
       <rotation>
@@ -7568,16 +7568,16 @@
       </position>
       <texture-name>Bridge6 1</texture-name>
     </prop>
-    <prop library-name="Buildings v1" group-name="Unbroken houses" name="SmHouse4">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>6000.000</x>
-        <y>1000.000</y>
-        <z>1200.000</z>
+        <x>250.000</x>
+        <y>-3250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name/>
+      <texture-name>WTile Small 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7700,16 +7700,16 @@
       </position>
       <texture-name>WTile Small 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-7.853982</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-3250.000</y>
-        <z>900.000</z>
+        <x>-5250.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>WTile Small 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7733,16 +7733,16 @@
       </position>
       <texture-name>Tile Asp 6</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>7250.000</x>
-        <y>-3250.000</y>
-        <z>1200.000</z>
+        <x>-750.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
@@ -7782,11 +7782,11 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>6750.000</x>
+        <y>-250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 3">
       <rotation>
@@ -7798,17 +7798,6 @@
         <z>1500.000</z>
       </position>
       <texture-name/>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>-3750.000</x>
-        <y>-4750.000</y>
-        <z>2400.000</z>
-      </position>
-      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7837,22 +7826,22 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
-      </position>
-      <texture-name>Tile Asp 1</texture-name>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>6750.000</x>
-        <y>-250.000</y>
+        <x>4750.000</x>
+        <y>-750.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Beton 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
+    </prop>
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+      <rotation>
+        <z>-14.137167</z>
+      </rotation>
+      <position>
+        <x>-3750.000</x>
+        <y>-2750.000</y>
+        <z>2400.000</z>
+      </position>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7909,16 +7898,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-14.137167</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3750.000</x>
-        <y>-2750.000</y>
+        <x>-4750.000</x>
+        <y>750.000</y>
         <z>2400.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
@@ -7942,16 +7931,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
-        <z>-18.849556</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>1250.000</x>
-        <y>2250.000</y>
-        <z>600.000</z>
+        <x>250.000</x>
+        <y>-7750.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>Bridge 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -7975,16 +7964,16 @@
       </position>
       <texture-name/>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>-4750.000</x>
-        <y>750.000</y>
-        <z>2400.000</z>
+        <x>-1750.000</x>
+        <y>2250.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8019,16 +8008,16 @@
       </position>
       <texture-name>Bridge 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
-        <z>0.000000</z>
+        <z>-6.283185</z>
       </rotation>
       <position>
         <x>-4750.000</x>
-        <y>-5750.000</y>
-        <z>3600.000</z>
+        <y>-2750.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
       <rotation>
@@ -8065,14 +8054,14 @@
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>-18.849556</z>
+        <z>-14.137167</z>
       </rotation>
       <position>
-        <x>-1750.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>-6750.000</y>
+        <z>3000.000</z>
       </position>
-      <texture-name>WTile Big 1</texture-name>
+      <texture-name>WTile Big 2</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8162,16 +8151,16 @@
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>-8250.000</y>
-        <z>900.000</z>
+        <x>2750.000</x>
+        <y>-1750.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name>Tile Beton 5</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -8233,22 +8222,22 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>2750.000</x>
-        <y>-1750.000</y>
-        <z>1800.000</z>
+        <x>-1750.000</x>
+        <y>-3750.000</y>
+        <z>2400.000</z>
       </position>
-      <texture-name>Tile Beton 5</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-750.000</x>
-        <y>-7750.000</y>
-        <z>900.000</z>
+        <x>-250.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8272,27 +8261,27 @@
       </position>
       <texture-name>Tile Beton 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 7">
-      <rotation>
-        <z>-4.712389</z>
-      </rotation>
-      <position>
-        <x>-2750.000</x>
-        <y>750.000</y>
-        <z>1500.000</z>
-      </position>
-      <texture-name>Bridge6 1</texture-name>
-    </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-4.712389</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>1750.000</x>
-        <y>-5750.000</y>
+        <x>2750.000</x>
+        <y>-5250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Grass B3</texture-name>
+      <texture-name>Tile Grass A2</texture-name>
+    </prop>
+    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <position>
+        <x>-250.000</x>
+        <y>-2750.000</y>
+        <z>1800.000</z>
+      </position>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8316,16 +8305,16 @@
       </position>
       <texture-name>Tile Grass A2</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-14.137167</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-4250.000</x>
-        <y>-6750.000</y>
-        <z>3000.000</z>
+        <x>4750.000</x>
+        <y>-2750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>WTile Big 2</texture-name>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8349,16 +8338,16 @@
       </position>
       <texture-name>Tile Grass A1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
-        <z>0.000000</z>
+        <z>-18.849556</z>
       </rotation>
       <position>
-        <x>-1750.000</x>
-        <y>-3750.000</y>
-        <z>2400.000</z>
+        <x>1250.000</x>
+        <y>2250.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name>WTile Big 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
@@ -8415,27 +8404,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
       <rotation>
-        <z>-3.141593</z>
+        <z>-1.570796</z>
       </rotation>
       <position>
-        <x>4750.000</x>
-        <y>-2750.000</y>
+        <x>7250.000</x>
+        <y>-3250.000</y>
         <z>1200.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>-3.141593</z>
-      </rotation>
-      <position>
-        <x>2750.000</x>
-        <y>-5250.000</y>
-        <z>1200.000</z>
-      </position>
-      <texture-name>Tile Grass A2</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
@@ -8481,6 +8459,17 @@
       </position>
       <texture-name>Tile Grass A1</texture-name>
     </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <position>
+        <x>-3750.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
+      </position>
+      <texture-name>Tile Asp 1</texture-name>
+    </prop>
     <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
       <rotation>
         <z>-18.849556</z>
@@ -8514,16 +8503,16 @@
       </position>
       <texture-name>WTile Big 3</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
+        <z>-4.712389</z>
       </rotation>
       <position>
-        <x>250.000</x>
-        <y>-7750.000</y>
-        <z>900.000</z>
+        <x>1750.000</x>
+        <y>-5750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>Bridge 1</texture-name>
+      <texture-name>Tile Grass B3</texture-name>
     </prop>
     <prop library-name="Buildings v1" group-name="Unbroken houses" name="Container">
       <rotation>
@@ -8604,25 +8593,14 @@
     </prop>
     <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
       <rotation>
-        <z>0.000000</z>
+        <z>-6.283185</z>
       </rotation>
       <position>
-        <x>-250.000</x>
+        <x>-5250.000</x>
         <y>-2750.000</y>
-        <z>1800.000</z>
+        <z>2400.000</z>
       </position>
       <texture-name/>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>-250.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
-      </position>
-      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8659,17 +8637,6 @@
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <position>
-        <x>-3750.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
-      </position>
-      <texture-name>Tile Asp 1</texture-name>
-    </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
-      <rotation>
         <z>-6.283185</z>
       </rotation>
       <position>
@@ -8679,16 +8646,16 @@
       </position>
       <texture-name>Tile Grass A4</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land v1" group-name="Rocks" name="up rock">
       <rotation>
-        <z>0.000000</z>
+        <z>-7.853982</z>
       </rotation>
       <position>
-        <x>4250.000</x>
-        <y>1750.000</y>
-        <z>1200.000</z>
+        <x>7500.000</x>
+        <y>-6500.000</y>
+        <z>600.000</z>
       </position>
-      <texture-name>Tile Sand 1</texture-name>
+      <texture-name>up rck 3</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8700,17 +8667,6 @@
         <z>1800.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
-    </prop>
-    <prop library-name="Elements v1" group-name="Stuffs" name="Tube 3">
-      <rotation>
-        <z>-6.283185</z>
-      </rotation>
-      <position>
-        <x>-5250.000</x>
-        <y>-2750.000</y>
-        <z>2400.000</z>
-      </position>
-      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -8734,16 +8690,16 @@
       </position>
       <texture-name>Tile Sand 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-7.853982</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>7500.000</x>
-        <y>-6500.000</y>
-        <z>600.000</z>
+        <x>4250.000</x>
+        <y>1750.000</y>
+        <z>1200.000</z>
       </position>
-      <texture-name>up rck 3</texture-name>
+      <texture-name>Tile Sand 1</texture-name>
     </prop>
     <prop library-name="Elements v1" group-name="Bridge" name="Bridge 2">
       <rotation>
@@ -9053,16 +9009,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-4.712389</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>0.000</z>
+        <x>-5750.000</x>
+        <y>2250.000</y>
+        <z>3000.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Asp 1</texture-name>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -9080,9 +9036,9 @@
         <z>0.000000</z>
       </rotation>
       <position>
-        <x>-5750.000</x>
+        <x>-5250.000</x>
         <y>2250.000</y>
-        <z>3000.000</z>
+        <z>2400.000</z>
       </position>
       <texture-name>Tile Asp 1</texture-name>
     </prop>
@@ -9119,16 +9075,16 @@
       </position>
       <texture-name>WTile Big 1</texture-name>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
       <rotation>
-        <z>0.000000</z>
+        <z>-3.141593</z>
       </rotation>
       <position>
-        <x>-5250.000</x>
-        <y>2250.000</y>
-        <z>2400.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>900.000</z>
       </position>
-      <texture-name>Tile Asp 1</texture-name>
+      <texture-name/>
     </prop>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
@@ -9163,16 +9119,16 @@
       </position>
       <texture-name>Tile Asp 2</texture-name>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridge" name="Bridge 5">
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
-        <z>-3.141593</z>
+        <z>0.000000</z>
       </rotation>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>900.000</z>
+        <x>2750.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
-      <texture-name/>
+      <texture-name>Tile Beton 1</texture-name>
     </prop>
   </static-geometry>
   <collision-geometry>
@@ -9222,17 +9178,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>2750.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
+        <x>-250.000</x>
+        <y>2500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -9296,16 +9252,30 @@
     </collision-plane>
     <collision-plane id="0">
       <width>600.000</width>
-      <length>500.000</length>
+      <length>1000.000</length>
       <position>
-        <x>-250.000</x>
-        <y>2500.000</y>
-        <z>1500.000</z>
+        <x>7666.666</x>
+        <y>-5500.000</y>
+        <z>900.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
+        <x>0.000000</x>
         <y>1.570796</y>
-        <z>-1.570796</z>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.665</width>
+      <length>1000.000</length>
+      <position>
+        <x>7583.333</x>
+        <y>-5500.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-0.000000</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -9395,34 +9365,23 @@
         <z>3.141593</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>1000.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>7666.666</x>
-        <y>-5500.000</y>
-        <z>900.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.665</width>
-      <length>1000.000</length>
-      <position>
-        <x>7583.333</x>
-        <y>-5500.000</y>
-        <z>1200.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>150.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-0.000000</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -17865,17 +17824,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>300.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>500.000</x>
-        <y>-6750.000</y>
-        <z>1050.000</z>
+        <x>6250.000</x>
+        <y>-6250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570797</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -17921,17 +17880,31 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+      <width>600.000</width>
+      <length>1000.000</length>
       <position>
-        <x>6250.000</x>
-        <y>-6250.000</y>
+        <x>4000.000</x>
+        <y>-7166.666</y>
+        <z>900.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>1.570796</y>
+        <z>-1.570797</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.665</width>
+      <length>1000.000</length>
+      <position>
+        <x>4000.000</x>
+        <y>-7083.333</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570797</z>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -17976,34 +17949,142 @@
         <z>3.141593</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>1000.000</length>
+    <collision-triangle id="0">
+      <v0>
+        <x>-397.305</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>185.790</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>211.515</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
       <position>
-        <x>4000.000</x>
-        <y>-7166.666</y>
-        <z>900.000</z>
+        <x>-333.333</x>
+        <y>-8000.000</y>
+        <z>1366.667</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-1.570797</z>
+        <x>1.570796</x>
+        <y>-0.540420</y>
+        <z>3.141592</z>
       </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.665</width>
-      <length>1000.000</length>
+    </collision-triangle>
+    <collision-triangle id="0">
+      <v0>
+        <x>-380.155</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>202.940</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>177.215</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
       <position>
-        <x>4000.000</x>
-        <y>-7083.333</y>
-        <z>1200.000</z>
+        <x>-333.333</x>
+        <y>-8500.000</y>
+        <z>1383.333</z>
       </position>
       <rotation>
-        <x>0.000000</x>
+        <x>-1.570796</x>
+        <y>-0.540420</y>
+        <z>3.141592</z>
+      </rotation>
+    </collision-triangle>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>583.095</length>
+      <position>
+        <x>-250.000</x>
+        <y>-8250.000</y>
+        <z>1300.000</z>
+      </position>
+      <rotation>
+        <x>-2.601173</x>
         <y>0.000000</y>
-        <z>-1.570797</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
+    <collision-plane id="0">
+      <width>583.095</width>
+      <length>500.000</length>
+      <position>
+        <x>-250.000</x>
+        <y>-8250.000</y>
+        <z>1350.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>-0.540420</y>
+        <z>3.141592</z>
+      </rotation>
+    </collision-plane>
+    <collision-triangle id="0">
+      <v0>
+        <x>-397.305</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>185.790</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>211.515</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-166.667</x>
+        <y>-8000.000</y>
+        <z>1283.333</z>
+      </position>
+      <rotation>
+        <x>-1.570796</x>
+        <y>0.540420</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-triangle>
+    <collision-triangle id="0">
+      <v0>
+        <x>-380.155</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>202.940</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>177.215</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-166.667</x>
+        <y>-8500.000</y>
+        <z>1266.667</z>
+      </position>
+      <rotation>
+        <x>1.570796</x>
+        <y>0.540420</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-triangle>
     <collision-box id="0">
       <size>
         <x>340.000</x>
@@ -18112,26 +18193,12 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
-      <length>1000.000</length>
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>6000.000</x>
-        <y>2666.666</y>
-        <z>900.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.665</width>
-      <length>1000.000</length>
-      <position>
-        <x>6000.000</x>
-        <y>2583.333</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -18195,20 +18262,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>6250.000</x>
-        <y>-6750.000</y>
-        <z>1200.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>1950.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-0.000000</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -18251,23 +18321,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>1950.000</z>
+        <x>-2250.000</x>
+        <y>750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -18328,14 +18395,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
+        <x>-250.000</x>
+        <y>1750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-triangle id="0">
@@ -18505,14 +18572,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-250.000</x>
+        <x>-3250.000</x>
         <y>1750.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570797</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -18588,148 +18655,26 @@
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-397.305</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>185.790</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>211.515</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-333.333</x>
-        <y>-8000.000</y>
-        <z>1366.667</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>-0.540420</y>
-        <z>3.141592</z>
-      </rotation>
-    </collision-triangle>
-    <collision-triangle id="0">
-      <v0>
-        <x>-380.155</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>202.940</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>177.215</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-333.333</x>
-        <y>-8500.000</y>
-        <z>1383.333</z>
-      </position>
-      <rotation>
-        <x>-1.570796</x>
-        <y>-0.540420</y>
-        <z>3.141592</z>
-      </rotation>
-    </collision-triangle>
     <collision-plane id="0">
       <width>500.000</width>
-      <length>583.095</length>
+      <length>500.000</length>
       <position>
-        <x>-250.000</x>
-        <y>-8250.000</y>
-        <z>1300.000</z>
+        <x>-4250.000</x>
+        <y>-3750.000</y>
+        <z>3600.000</z>
       </position>
       <rotation>
-        <x>-2.601173</x>
+        <x>0.000000</x>
         <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>583.095</width>
-      <length>500.000</length>
-      <position>
-        <x>-250.000</x>
-        <y>-8250.000</y>
-        <z>1350.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>-0.540420</y>
-        <z>3.141592</z>
-      </rotation>
-    </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-397.305</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>185.790</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>211.515</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-166.667</x>
-        <y>-8000.000</y>
-        <z>1283.333</z>
-      </position>
-      <rotation>
-        <x>-1.570796</x>
-        <y>0.540420</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-triangle>
-    <collision-triangle id="0">
-      <v0>
-        <x>-380.155</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>202.940</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>177.215</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-166.667</x>
-        <y>-8500.000</y>
-        <z>1266.667</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>0.540420</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-triangle>
-    <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>1750.000</y>
+        <x>250.000</x>
+        <y>2250.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
@@ -18986,17 +18931,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-1250.000</y>
-        <z>1800.000</z>
+        <x>500.000</x>
+        <y>-3750.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -19051,14 +18996,87 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-2250.000</x>
-        <y>750.000</y>
+        <x>3750.000</x>
+        <y>-2250.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-3250.000</x>
+        <y>-1250.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
         <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
+      <position>
+        <x>500.000</x>
+        <y>-4250.000</y>
+        <z>1500.000</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
+      </rotation>
+    </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
+      <position>
+        <x>1250.000</x>
+        <y>-8250.000</y>
+        <z>150.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>3.141592</z>
+      </rotation>
+    </collision-box>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-2250.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-3500.000</x>
+        <y>1750.000</y>
+        <z>2100.000</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-triangle id="0">
@@ -19198,43 +19216,119 @@
       </rotation>
     </collision-triangle>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>500.000</x>
-        <y>-4250.000</y>
-        <z>1500.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
-      </rotation>
-    </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>1250.000</x>
-        <y>-8250.000</y>
-        <z>150.000</z>
+        <x>-3750.000</x>
+        <y>-2250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>1000.000</x>
+        <y>500.000</y>
+        <z>58.063</z>
+      </size>
+      <position>
+        <x>-4750.000</x>
+        <y>0.001</y>
+        <z>2370.968</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570796</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>50.000</x>
+        <y>500.000</y>
+        <z>600.000</z>
+      </size>
+      <position>
+        <x>-4750.000</x>
+        <y>475.000</y>
+        <z>2100.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570796</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>50.000</x>
+        <y>500.000</y>
+        <z>600.000</z>
+      </size>
+      <position>
+        <x>-4750.000</x>
+        <y>-475.000</y>
+        <z>2100.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
+      <length>900.000</length>
+      <position>
+        <x>-4750.000</x>
+        <y>0.001</y>
+        <z>1800.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-3.141592</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>370.294</width>
       <length>500.000</length>
       <position>
-        <x>-2250.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>-4750.000</x>
+        <y>300.000</y>
+        <z>2233.404</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>0.626358</y>
+        <z>1.570797</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>370.294</width>
+      <length>500.000</length>
+      <position>
+        <x>-4750.000</x>
+        <y>-300.000</y>
+        <z>2233.404</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>-0.626358</y>
+        <z>1.570797</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-250.000</x>
+        <y>-2750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -19246,14 +19340,14 @@
       <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-3500.000</x>
-        <y>1750.000</y>
-        <z>2100.000</z>
+        <x>3000.000</x>
+        <y>-1250.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
         <x>3.141593</x>
         <y>1.570796</y>
-        <z>3.141593</z>
+        <z>-3.141592</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -19290,76 +19384,6 @@
         <z>-1.570796</z>
       </rotation>
     </collision-box>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-3750.000</x>
-        <y>-2250.000</y>
-        <z>2400.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>3750.000</x>
-        <y>-2250.000</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-250.000</x>
-        <y>-2750.000</y>
-        <z>1800.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-4250.000</x>
-        <y>-3750.000</y>
-        <z>3600.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
-      <position>
-        <x>500.000</x>
-        <y>-3750.000</y>
-        <z>1500.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
-      </rotation>
-    </collision-plane>
     <collision-box id="0">
       <size>
         <x>340.000</x>
@@ -19590,14 +19614,14 @@
       <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>3000.000</x>
-        <y>-1250.000</y>
-        <z>1500.000</z>
+        <x>2250.000</x>
+        <y>2500.000</y>
+        <z>900.000</z>
       </position>
       <rotation>
         <x>3.141593</x>
         <y>1.570796</y>
-        <z>-3.141592</z>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -19908,97 +19932,38 @@
     </collision-plane>
     <collision-box id="0">
       <size>
-        <x>1000.000</x>
-        <y>500.000</y>
-        <z>58.063</z>
+        <x>340.000</x>
+        <y>46.667</y>
+        <z>315.000</z>
       </size>
       <position>
-        <x>-4750.000</x>
-        <y>0.001</y>
-        <z>2370.968</z>
+        <x>-5250.000</x>
+        <y>-3250.000</y>
+        <z>2557.500</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
     </collision-box>
     <collision-box id="0">
       <size>
-        <x>50.000</x>
+        <x>300.000</x>
         <y>500.000</y>
-        <z>600.000</z>
+        <z>300.000</z>
       </size>
       <position>
-        <x>-4750.000</x>
-        <y>475.000</y>
-        <z>2100.000</z>
+        <x>-5250.000</x>
+        <y>-3250.000</y>
+        <z>2550.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>0.000000</z>
       </rotation>
     </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>50.000</x>
-        <y>500.000</y>
-        <z>600.000</z>
-      </size>
-      <position>
-        <x>-4750.000</x>
-        <y>-475.000</y>
-        <z>2100.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-1.570796</z>
-      </rotation>
-    </collision-box>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>900.000</length>
-      <position>
-        <x>-4750.000</x>
-        <y>0.001</y>
-        <z>1800.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-3.141592</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>370.294</width>
-      <length>500.000</length>
-      <position>
-        <x>-4750.000</x>
-        <y>300.000</y>
-        <z>2233.404</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>0.626358</y>
-        <z>1.570797</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>370.294</width>
-      <length>500.000</length>
-      <position>
-        <x>-4750.000</x>
-        <y>-300.000</y>
-        <z>2233.404</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>-0.626358</y>
-        <z>1.570797</z>
-      </rotation>
-    </collision-plane>
     <collision-box id="0">
       <size>
         <x>400.000</x>
@@ -20100,23 +20065,20 @@
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
       <position>
-        <x>-250.000</x>
-        <y>-7750.000</y>
-        <z>1175.000</z>
+        <x>-1250.000</x>
+        <y>-7500.000</y>
+        <z>900.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -20250,9 +20212,9 @@
       <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1250.000</x>
-        <y>-7500.000</y>
-        <z>900.000</z>
+        <x>-4250.000</x>
+        <y>-4000.000</y>
+        <z>3300.000</z>
       </position>
       <rotation>
         <x>3.141593</x>
@@ -20589,17 +20551,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>2250.000</x>
-        <y>2500.000</y>
-        <z>900.000</z>
+        <x>-4250.000</x>
+        <y>1250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570796</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -20679,17 +20641,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
         <x>250.000</x>
-        <y>2250.000</y>
-        <z>1800.000</z>
+        <y>2500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -20766,17 +20728,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>1250.000</y>
-        <z>2400.000</z>
+        <x>-750.000</x>
+        <y>2500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -20824,40 +20786,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>340.000</x>
-        <y>46.667</y>
-        <z>315.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-5250.000</x>
-        <y>-3250.000</y>
-        <z>2557.500</z>
+        <x>6250.000</x>
+        <y>-6750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>-0.000000</z>
       </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>500.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>-5250.000</x>
-        <y>-3250.000</y>
-        <z>2550.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>300.000</width>
       <length>500.000</length>
@@ -22545,9 +22487,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>3750.000</x>
-        <y>-5750.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>-2750.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -22555,20 +22497,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>500.000</x>
+        <y>500.000</y>
+        <z>50.000</z>
+      </size>
       <position>
-        <x>-750.000</x>
-        <y>2500.000</y>
-        <z>1500.000</z>
+        <x>750.000</x>
+        <y>-8250.000</y>
+        <z>1175.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
+        <x>0.000000</x>
+        <y>0.000000</y>
         <z>-1.570796</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-box id="0">
       <size>
         <x>130.000</x>
@@ -22686,25 +22631,11 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
-      <position>
-        <x>250.000</x>
-        <y>2500.000</y>
-        <z>1500.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-2750.000</y>
+        <x>-4750.000</x>
+        <y>-2250.000</y>
         <z>2400.000</z>
       </position>
       <rotation>
@@ -22713,6 +22644,57 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>59.656</x>
+        <y>50.000</y>
+        <z>506.394</z>
+      </size>
+      <position>
+        <x>4734.678</x>
+        <y>-5475.000</y>
+        <z>1453.197</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>60.300</x>
+        <y>50.000</y>
+        <z>506.394</z>
+      </size>
+      <position>
+        <x>4735.000</x>
+        <y>-4525.000</y>
+        <z>1453.197</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>60.300</x>
+        <y>900.000</y>
+        <z>127.727</z>
+      </size>
+      <position>
+        <x>4735.000</x>
+        <y>-5000.000</y>
+        <z>1723.171</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
     <collision-box id="0">
       <size>
         <x>340.000</x>
@@ -23027,48 +23009,14 @@
     </collision-triangle>
     <collision-box id="0">
       <size>
-        <x>59.656</x>
-        <y>50.000</y>
-        <z>506.394</z>
+        <x>500.000</x>
+        <y>500.000</y>
+        <z>50.000</z>
       </size>
       <position>
-        <x>4734.678</x>
-        <y>-5475.000</y>
-        <z>1453.197</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>60.300</x>
-        <y>50.000</y>
-        <z>506.394</z>
-      </size>
-      <position>
-        <x>4735.000</x>
-        <y>-4525.000</y>
-        <z>1453.197</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>60.300</x>
-        <y>900.000</y>
-        <z>127.727</z>
-      </size>
-      <position>
-        <x>4735.000</x>
-        <y>-5000.000</y>
-        <z>1723.171</z>
+        <x>3750.000</x>
+        <y>1250.000</y>
+        <z>1775.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -23094,9 +23042,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4750.000</x>
-        <y>-2250.000</y>
-        <z>2400.000</z>
+        <x>-250.000</x>
+        <y>1250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -23132,34 +23080,31 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
         <x>3750.000</x>
-        <y>1250.000</y>
-        <z>1775.000</z>
+        <y>-6750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>-0.000000</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-4000.000</y>
-        <z>3300.000</z>
+        <x>250.000</x>
+        <y>-5750.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
+        <x>0.000000</x>
+        <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
@@ -24788,17 +24733,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>3750.000</x>
-        <y>-6750.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>2500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-0.000000</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -24871,23 +24816,20 @@
         <z>0.000000</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>750.000</x>
-        <y>-8250.000</y>
-        <z>1175.000</z>
+        <x>6750.000</x>
+        <y>-4750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -24916,20 +24858,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>-250.000</x>
-        <y>1250.000</y>
-        <z>1800.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>1650.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141592</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -25009,12 +24954,12 @@
       <position>
         <x>-3250.000</x>
         <y>-8250.000</y>
-        <z>1650.000</z>
+        <z>-150.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>-0.000001</z>
       </rotation>
     </collision-box>
     <collision-triangle id="0">
@@ -25454,17 +25399,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>300.000</width>
       <length>500.000</length>
       <position>
-        <x>6750.000</x>
-        <y>-4750.000</y>
-        <z>1200.000</z>
+        <x>500.000</x>
+        <y>-6750.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -25502,12 +25447,26 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+      <width>600.000</width>
+      <length>1000.000</length>
       <position>
-        <x>250.000</x>
-        <y>-5750.000</y>
-        <z>2400.000</z>
+        <x>6000.000</x>
+        <y>2666.666</y>
+        <z>900.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>1.570796</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.665</width>
+      <length>1000.000</length>
+      <position>
+        <x>6000.000</x>
+        <y>2583.333</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -25516,19 +25475,87 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>1044.031</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>2500.000</y>
-        <z>1500.000</z>
+        <x>-1250.000</x>
+        <y>-2000.000</y>
+        <z>1950.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570796</z>
+        <x>0.000000</x>
+        <y>-0.291457</y>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
+    <collision-triangle id="0">
+      <v0>
+        <x>-333.333</x>
+        <y>-100.000</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>666.667</x>
+        <y>-100.000</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>-333.333</x>
+        <y>200.000</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-1000.000</x>
+        <y>-2166.667</y>
+        <z>1900.000</z>
+      </position>
+      <rotation>
+        <x>1.570796</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-triangle>
+    <collision-plane id="0">
+      <width>300.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-1250.000</x>
+        <y>-2500.000</y>
+        <z>1950.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>-1.570796</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-triangle id="0">
+      <v0>
+        <x>-666.667</x>
+        <y>-100.000</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>333.333</x>
+        <y>-100.000</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>333.333</x>
+        <y>200.000</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-1500.000</x>
+        <y>-2166.666</y>
+        <z>1900.000</z>
+      </position>
+      <rotation>
+        <x>1.570796</x>
+        <y>0.000000</y>
+        <z>-1.570797</z>
+      </rotation>
+    </collision-triangle>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -25601,19 +25628,19 @@
     </collision-plane>
     <collision-box id="0">
       <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
+        <x>500.000</x>
+        <y>500.000</y>
+        <z>50.000</z>
       </size>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>-150.000</z>
+        <x>750.000</x>
+        <y>-3750.000</y>
+        <z>1775.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-0.000001</z>
+        <z>0.000000</z>
       </rotation>
     </collision-box>
     <collision-triangle id="0">
@@ -25850,105 +25877,48 @@
         <z>3.141592</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
-      <position>
-        <x>750.000</x>
-        <y>-3750.000</y>
-        <z>1775.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
     <collision-plane id="0">
-      <width>1044.031</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1250.000</x>
-        <y>-2000.000</y>
-        <z>1950.000</z>
+        <x>1750.000</x>
+        <y>-7666.667</y>
+        <z>900.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
-        <y>-0.291457</y>
+        <y>1.570796</y>
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-333.333</x>
-        <y>-100.000</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>666.667</x>
-        <y>-100.000</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>-333.333</x>
-        <y>200.000</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-1000.000</x>
-        <y>-2166.667</y>
-        <z>1900.000</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-triangle>
     <collision-plane id="0">
-      <width>300.000</width>
+      <width>166.666</width>
       <length>500.000</length>
       <position>
-        <x>-1250.000</x>
-        <y>-2500.000</y>
-        <z>1950.000</z>
+        <x>1750.000</x>
+        <y>-7583.333</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
-        <y>-1.570796</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-666.667</x>
-        <y>-100.000</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>333.333</x>
-        <y>-100.000</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>333.333</x>
-        <y>200.000</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-1500.000</x>
-        <y>-2166.666</y>
-        <z>1900.000</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>0.000000</y>
+        <y>0.000001</y>
         <z>-1.570797</z>
       </rotation>
-    </collision-triangle>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-5750.000</x>
+        <y>-3500.000</y>
+        <z>3300.000</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570797</z>
+      </rotation>
+    </collision-plane>
     <collision-plane id="0">
       <width>600.000</width>
       <length>1000.000</length>
@@ -26047,46 +26017,49 @@
         <z>3.141592</z>
       </rotation>
     </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>362.148</x>
+        <y>629.931</y>
+        <z>232.316</z>
+      </size>
+      <position>
+        <x>4510.662</x>
+        <y>1036.427</y>
+        <z>1316.158</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.396263</z>
+      </rotation>
+    </collision-box>
+    <collision-plane id="0">
+      <width>1000.000</width>
+      <length>1000.000</length>
+      <position>
+        <x>4500.000</x>
+        <y>1000.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-3.141592</z>
+      </rotation>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>250.000</x>
-        <y>-1250.000</y>
+        <x>-750.000</x>
+        <y>2250.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
         <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
-      <position>
-        <x>1750.000</x>
-        <y>-7666.667</y>
-        <z>900.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-1.570797</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.666</width>
-      <length>500.000</length>
-      <position>
-        <x>1750.000</x>
-        <y>-7583.333</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000001</y>
-        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -28031,9 +28004,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-5750.000</y>
-        <z>2400.000</z>
+        <x>250.000</x>
+        <y>-1250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -28098,16 +28071,16 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3750.000</x>
-        <y>-7500.000</y>
-        <z>1500.000</z>
+        <x>-5250.000</x>
+        <y>-1250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
+        <x>0.000000</x>
+        <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
@@ -28307,8 +28280,8 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3750.000</x>
-        <y>-250.000</y>
+        <x>-4250.000</x>
+        <y>-5750.000</y>
         <z>2400.000</z>
       </position>
       <rotation>
@@ -28332,16 +28305,16 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-5250.000</x>
-        <y>-1250.000</y>
-        <z>2400.000</z>
+        <x>-3750.000</x>
+        <y>-7500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
+        <x>3.141593</x>
+        <y>1.570796</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
@@ -28467,14 +28440,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-2250.000</x>
-        <y>-1250.000</y>
-        <z>1800.000</z>
+        <x>-3750.000</x>
+        <y>-250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -28632,14 +28605,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-750.000</x>
-        <y>2250.000</y>
-        <z>1800.000</z>
+        <x>2250.000</x>
+        <y>-6250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -28674,9 +28647,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>5250.000</x>
-        <y>-1250.000</y>
-        <z>1200.000</z>
+        <x>-3250.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -28769,16 +28742,16 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
+        <x>-1250.000</x>
+        <y>-7500.000</y>
+        <z>2100.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
+        <x>3.141593</x>
+        <y>1.570796</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
@@ -28853,17 +28826,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-3500.000</y>
-        <z>3300.000</z>
+        <x>5250.000</x>
+        <y>-1250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570797</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -28881,16 +28854,16 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-1250.000</x>
-        <y>-7500.000</y>
-        <z>2100.000</z>
+        <x>-2250.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
+        <x>0.000000</x>
+        <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
     </collision-plane>
@@ -29058,14 +29031,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-5750.000</x>
-        <y>-2750.000</y>
-        <z>3000.000</z>
+        <x>-2250.000</x>
+        <y>-1250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>0.000000</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -29124,20 +29097,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>-2250.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
+        <x>2250.000</x>
+        <y>2750.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>-1.570796</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -29170,17 +29146,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1750.000</x>
-        <y>-4250.000</y>
-        <z>2400.000</z>
+        <x>-4250.000</x>
+        <y>-3500.000</y>
+        <z>3300.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -29444,57 +29420,12 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
         <x>-5750.000</x>
-        <y>-3500.000</y>
-        <z>3300.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570797</z>
-      </rotation>
-    </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>2250.000</x>
-        <y>2750.000</y>
-        <z>1050.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-1.570796</z>
-      </rotation>
-    </collision-box>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-3250.000</x>
-        <y>-7500.000</y>
-        <z>2100.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-4250.000</x>
-        <y>-1250.000</y>
-        <z>2400.000</z>
+        <y>-2750.000</y>
+        <z>3000.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -29502,107 +29433,6 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-2750.000</x>
-        <y>-1750.000</y>
-        <z>1800.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>1000.000</length>
-      <position>
-        <x>7666.666</x>
-        <y>-4500.000</y>
-        <z>900.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.665</width>
-      <length>1000.000</length>
-      <position>
-        <x>7583.333</x>
-        <y>-4500.000</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-5250.000</x>
-        <y>-250.000</y>
-        <z>2400.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-5250.000</x>
-        <y>-5250.000</y>
-        <z>3600.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>4750.000</x>
-        <y>1750.000</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>1250.000</x>
-        <y>-8250.000</y>
-        <z>450.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-box>
     <collision-triangle id="0">
       <v0>
         <x>-59.230</x>
@@ -31200,19 +31030,151 @@
       </rotation>
     </collision-triangle>
     <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-3250.000</x>
+        <y>-7500.000</y>
+        <z>2100.000</z>
+      </position>
+      <rotation>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>2250.000</x>
-        <y>-6250.000</y>
+        <x>-4250.000</x>
+        <y>-1250.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-2750.000</x>
+        <y>-1750.000</y>
+        <z>1800.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>1000.000</length>
+      <position>
+        <x>7666.666</x>
+        <y>-4500.000</y>
+        <z>900.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>1.570796</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.665</width>
+      <length>1000.000</length>
+      <position>
+        <x>7583.333</x>
+        <y>-4500.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141593</z>
+        <z>-0.000000</z>
       </rotation>
     </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-5250.000</x>
+        <y>-250.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-5250.000</x>
+        <y>-5250.000</y>
+        <z>3600.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>4750.000</x>
+        <y>1750.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
+      <position>
+        <x>1250.000</x>
+        <y>-8250.000</y>
+        <z>450.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>500.000</x>
+        <y>500.000</y>
+        <z>50.000</z>
+      </size>
+      <position>
+        <x>4250.000</x>
+        <y>1250.000</y>
+        <z>1775.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>3.141592</z>
+      </rotation>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -31241,35 +31203,18 @@
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>362.148</x>
-        <y>629.931</y>
-        <z>232.316</z>
-      </size>
-      <position>
-        <x>4510.662</x>
-        <y>1036.427</y>
-        <z>1316.158</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-1.396263</z>
-      </rotation>
-    </collision-box>
     <collision-plane id="0">
-      <width>1000.000</width>
-      <length>1000.000</length>
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>4500.000</x>
-        <y>1000.000</y>
+        <x>3750.000</x>
+        <y>-5750.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-3.141592</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -31331,6 +31276,20 @@
         <z>-3.141592</z>
       </rotation>
     </collision-box>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-1750.000</x>
+        <y>-4250.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -31564,23 +31523,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>4250.000</x>
-        <y>1250.000</y>
-        <z>1775.000</z>
+        <x>-2250.000</x>
+        <y>-6250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -31730,40 +31686,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>340.000</x>
-        <y>46.667</y>
-        <z>315.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-4750.000</x>
-        <y>-2750.000</y>
-        <z>2557.500</z>
+        <x>2250.000</x>
+        <y>1750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>500.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>-4750.000</x>
-        <y>-2750.000</y>
-        <z>2550.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -31830,8 +31766,8 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>2250.000</x>
-        <y>1750.000</y>
+        <x>-1750.000</x>
+        <y>250.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
@@ -31886,17 +31822,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1750.000</x>
-        <y>250.000</y>
-        <z>1800.000</z>
+        <x>-4000.000</x>
+        <y>-6250.000</y>
+        <z>3300.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -31942,17 +31878,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4000.000</x>
-        <y>-6250.000</y>
-        <z>3300.000</z>
+        <x>-750.000</x>
+        <y>750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141593</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -31976,9 +31912,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-2250.000</x>
-        <y>-6250.000</y>
-        <z>2400.000</z>
+        <x>6250.000</x>
+        <y>-1250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -32029,17 +31965,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-750.000</x>
-        <y>750.000</y>
-        <z>1800.000</z>
+        <x>-4000.000</x>
+        <y>-7250.000</y>
+        <z>2700.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -32238,14 +32174,28 @@
       <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-4000.000</x>
-        <y>-7250.000</y>
-        <z>2700.000</z>
+        <x>7666.667</x>
+        <y>2250.000</y>
+        <z>900.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
+        <x>0.000000</x>
         <y>1.570796</y>
-        <z>3.141593</z>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.666</width>
+      <length>500.000</length>
+      <position>
+        <x>7583.333</x>
+        <y>2250.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000001</y>
+        <z>-0.000000</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -32440,34 +32390,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>500.000</x>
+        <y>30.300</y>
+        <z>369.471</z>
+      </size>
       <position>
-        <x>7666.667</x>
-        <y>2250.000</y>
-        <z>900.000</z>
+        <x>4750.000</x>
+        <y>-6750.000</y>
+        <z>1384.736</z>
       </position>
       <rotation>
         <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-0.000000</z>
+        <y>0.000000</y>
+        <z>-1.570796</z>
       </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.666</width>
-      <length>500.000</length>
-      <position>
-        <x>7583.333</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000001</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -32640,23 +32579,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>30.300</y>
-        <z>369.471</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>4750.000</x>
-        <y>-6750.000</y>
-        <z>1384.736</z>
+        <x>-4750.000</x>
+        <y>-4250.000</y>
+        <z>3600.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -34184,14 +34120,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4750.000</x>
+        <x>4250.000</x>
         <y>-4250.000</y>
-        <z>3600.000</z>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -34305,14 +34241,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>4250.000</x>
-        <y>-4250.000</y>
+        <x>1750.000</x>
+        <y>-3250.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570797</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -34333,8 +34269,8 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>6250.000</x>
-        <y>-1250.000</y>
+        <x>7250.000</x>
+        <y>750.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
@@ -34403,14 +34339,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>4750.000</x>
-        <y>-750.000</y>
+        <x>6250.000</x>
+        <y>2250.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141592</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -34431,9 +34367,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>1750.000</x>
-        <y>-3250.000</y>
-        <z>1200.000</z>
+        <x>-4250.000</x>
+        <y>-2250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -34462,14 +34398,14 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>6250.000</x>
-        <y>2250.000</y>
-        <z>1200.000</z>
+        <x>-250.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-triangle id="0">
@@ -34626,8 +34562,8 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>7250.000</x>
-        <y>750.000</y>
+        <x>6750.000</x>
+        <y>-2250.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
@@ -34654,17 +34590,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-250.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>-3500.000</x>
+        <y>-750.000</y>
+        <z>2100.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -34745,7 +34681,7 @@
       <length>500.000</length>
       <position>
         <x>-3500.000</x>
-        <y>-750.000</y>
+        <y>-1750.000</y>
         <z>2100.000</z>
       </position>
       <rotation>
@@ -34828,17 +34764,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3500.000</x>
-        <y>-1750.000</y>
-        <z>2100.000</z>
+        <x>-4250.000</x>
+        <y>-4750.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141593</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-triangle id="0">
@@ -34926,8 +34862,8 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-2250.000</y>
+        <x>-1250.000</x>
+        <y>-3750.000</y>
         <z>2400.000</z>
       </position>
       <rotation>
@@ -34950,16 +34886,30 @@
         <z>0.000000</z>
       </rotation>
     </collision-plane>
+    <collision-plane id="0">
+      <width>1000.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>5750.000</x>
+        <y>-2500.000</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570796</z>
+      </rotation>
+    </collision-plane>
     <collision-box id="0">
       <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
+        <x>1300.000</x>
+        <y>800.000</y>
+        <z>1150.000</z>
       </size>
       <position>
-        <x>-250.000</x>
-        <y>-8250.000</y>
-        <z>1175.000</z>
+        <x>5750.000</x>
+        <y>-2500.000</y>
+        <z>1775.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -34981,20 +34931,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>-4250.000</x>
-        <y>-4750.000</y>
-        <z>2400.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>450.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141592</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -35121,20 +35074,23 @@
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>6750.000</x>
-        <y>-2250.000</y>
-        <z>1200.000</z>
+        <x>750.000</x>
+        <y>-4750.000</y>
+        <z>1350.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141592</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -35149,37 +35105,142 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>1000.000</width>
-      <length>1500.000</length>
+    <collision-triangle id="0">
+      <v0>
+        <x>-397.305</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>185.790</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>211.515</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
       <position>
-        <x>5750.000</x>
-        <y>-2500.000</y>
-        <z>1200.000</z>
+        <x>-2833.333</x>
+        <y>1000.000</y>
+        <z>1966.667</z>
       </position>
       <rotation>
-        <x>0.000000</x>
+        <x>1.570796</x>
+        <y>-0.540420</y>
+        <z>3.141593</z>
+      </rotation>
+    </collision-triangle>
+    <collision-triangle id="0">
+      <v0>
+        <x>-380.155</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>202.940</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>177.215</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-2833.333</x>
+        <y>500.000</y>
+        <z>1983.333</z>
+      </position>
+      <rotation>
+        <x>-1.570796</x>
+        <y>-0.540420</y>
+        <z>3.141593</z>
+      </rotation>
+    </collision-triangle>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>583.095</length>
+      <position>
+        <x>-2750.000</x>
+        <y>750.000</y>
+        <z>1900.000</z>
+      </position>
+      <rotation>
+        <x>-2.601173</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>1300.000</x>
-        <y>800.000</y>
-        <z>1150.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>583.095</width>
+      <length>500.000</length>
       <position>
-        <x>5750.000</x>
-        <y>-2500.000</y>
-        <z>1775.000</z>
+        <x>-2750.000</x>
+        <y>750.000</y>
+        <z>1950.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
+        <y>-0.540420</y>
+        <z>3.141593</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
+    <collision-triangle id="0">
+      <v0>
+        <x>-397.305</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>185.790</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>211.515</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-2666.667</x>
+        <y>1000.000</y>
+        <z>1883.333</z>
+      </position>
+      <rotation>
+        <x>-1.570796</x>
+        <y>0.540420</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-triangle>
+    <collision-triangle id="0">
+      <v0>
+        <x>-380.155</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v0>
+      <v1>
+        <x>202.940</x>
+        <y>-14.292</y>
+        <z>0.000</z>
+      </v1>
+      <v2>
+        <x>177.215</x>
+        <y>28.583</y>
+        <z>0.000</z>
+      </v2>
+      <position>
+        <x>-2666.667</x>
+        <y>500.000</y>
+        <z>1866.667</z>
+      </position>
+      <rotation>
+        <x>1.570796</x>
+        <y>0.540420</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-triangle>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -35194,23 +35255,20 @@
         <z>3.141592</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>600.000</width>
+      <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>450.000</z>
+        <x>500.000</x>
+        <y>-3750.000</y>
+        <z>2100.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
+        <x>3.141593</x>
+        <y>1.570796</y>
         <z>3.141592</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -35257,9 +35315,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-1250.000</x>
-        <y>-3750.000</y>
-        <z>2400.000</z>
+        <x>-4250.000</x>
+        <y>-6750.000</y>
+        <z>3600.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -35323,23 +35381,20 @@
         <z>-1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>750.000</x>
-        <y>-4750.000</y>
-        <z>1350.000</z>
+        <x>-1750.000</x>
+        <y>-2750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -36966,17 +37021,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>300.000</width>
       <length>500.000</length>
       <position>
-        <x>-1750.000</x>
-        <y>-2750.000</y>
-        <z>1800.000</z>
+        <x>500.000</x>
+        <y>-5750.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -37039,9 +37094,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4250.000</x>
-        <y>-6750.000</y>
-        <z>3600.000</z>
+        <x>4750.000</x>
+        <y>-250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -37119,20 +37174,23 @@
         <z>3.141593</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
-      <position>
+    <collision-box id="0">
+      <size>
         <x>500.000</x>
-        <y>-3750.000</y>
-        <z>2100.000</z>
+        <y>500.000</y>
+        <z>50.000</z>
+      </size>
+      <position>
+        <x>-5250.000</x>
+        <y>-7750.000</y>
+        <z>2375.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -37244,9 +37302,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>4750.000</x>
-        <y>-250.000</y>
-        <z>1200.000</z>
+        <x>-4750.000</x>
+        <y>-5750.000</y>
+        <z>3600.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -37282,23 +37340,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>300.000</width>
+      <length>500.000</length>
       <position>
-        <x>-5250.000</x>
-        <y>-7750.000</y>
-        <z>2375.000</z>
+        <x>500.000</x>
+        <y>-6250.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -37460,19 +37515,104 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>300.000</width>
-      <length>500.000</length>
+      <width>1500.000</width>
+      <length>1500.000</length>
       <position>
-        <x>500.000</x>
-        <y>-6250.000</y>
-        <z>1050.000</z>
+        <x>6250.000</x>
+        <y>750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>531.318</x>
+        <y>897.117</y>
+        <z>2040.780</z>
+      </size>
+      <position>
+        <x>6250.000</x>
+        <y>750.000</y>
+        <z>2220.390</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>150.000</x>
+        <y>345.654</y>
+        <z>1440.739</z>
+      </size>
+      <position>
+        <x>6885.298</x>
+        <y>750.000</y>
+        <z>1920.369</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>150.000</x>
+        <y>345.654</y>
+        <z>1440.739</z>
+      </size>
+      <position>
+        <x>5614.702</x>
+        <y>750.000</y>
+        <z>1920.369</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>294.639</x>
+        <y>1254.266</y>
+        <z>1218.606</z>
+      </size>
+      <position>
+        <x>5837.021</x>
+        <y>750.000</y>
+        <z>1809.303</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>294.639</x>
+        <y>1254.266</y>
+        <z>1218.606</z>
+      </size>
+      <position>
+        <x>6662.979</x>
+        <y>750.000</y>
+        <z>1809.303</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
     <collision-triangle id="0">
       <v0>
         <x>-100.705</x>
@@ -38260,17 +38400,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>300.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>500.000</x>
-        <y>-5750.000</y>
-        <z>1050.000</z>
+        <x>-3750.000</x>
+        <y>-4750.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -40236,104 +40376,19 @@
       </rotation>
     </collision-triangle>
     <collision-plane id="0">
-      <width>1500.000</width>
-      <length>1500.000</length>
+      <width>300.000</width>
+      <length>500.000</length>
       <position>
-        <x>6250.000</x>
-        <y>750.000</y>
-        <z>1200.000</z>
+        <x>500.000</x>
+        <y>-3250.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141592</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>531.318</x>
-        <y>897.117</y>
-        <z>2040.780</z>
-      </size>
-      <position>
-        <x>6250.000</x>
-        <y>750.000</y>
-        <z>2220.390</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>150.000</x>
-        <y>345.654</y>
-        <z>1440.739</z>
-      </size>
-      <position>
-        <x>6885.298</x>
-        <y>750.000</y>
-        <z>1920.369</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>150.000</x>
-        <y>345.654</y>
-        <z>1440.739</z>
-      </size>
-      <position>
-        <x>5614.702</x>
-        <y>750.000</y>
-        <z>1920.369</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>294.639</x>
-        <y>1254.266</y>
-        <z>1218.606</z>
-      </size>
-      <position>
-        <x>5837.021</x>
-        <y>750.000</y>
-        <z>1809.303</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>294.639</x>
-        <y>1254.266</y>
-        <z>1218.606</z>
-      </size>
-      <position>
-        <x>6662.979</x>
-        <y>750.000</y>
-        <z>1809.303</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -40543,17 +40598,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>300.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>500.000</x>
-        <y>-3250.000</y>
-        <z>1050.000</z>
+        <x>-5250.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141592</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -40584,23 +40639,20 @@
         <z>-0.000001</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>30.300</y>
-        <z>369.471</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>7250.000</x>
-        <y>-3250.000</y>
-        <z>1384.736</z>
+        <x>-750.000</x>
+        <y>-7250.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570796</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-box id="0">
       <size>
         <x>500.000</x>
@@ -40650,9 +40702,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-750.000</x>
-        <y>-7250.000</y>
-        <z>2400.000</z>
+        <x>6750.000</x>
+        <y>-250.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -40694,20 +40746,6 @@
         <z>0.000000</z>
       </rotation>
     </collision-box>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-3750.000</x>
-        <y>-4750.000</y>
-        <z>2400.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -40862,9 +40900,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-5250.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
+        <x>4750.000</x>
+        <y>-750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -40873,17 +40911,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>6750.000</x>
-        <y>-250.000</y>
-        <z>1200.000</z>
+        <x>-3500.000</x>
+        <y>-2750.000</y>
+        <z>2700.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -42262,17 +42300,17 @@
       </rotation>
     </collision-triangle>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3500.000</x>
-        <y>-2750.000</y>
-        <z>2700.000</z>
+        <x>-4750.000</x>
+        <y>750.000</y>
+        <z>2400.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141593</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -42306,20 +42344,23 @@
         <z>-1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>600.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>500.000</x>
+        <y>500.000</y>
+        <z>50.000</z>
+      </size>
       <position>
-        <x>1250.000</x>
-        <y>2500.000</y>
-        <z>900.000</z>
+        <x>250.000</x>
+        <y>-7750.000</y>
+        <z>1175.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>-1.570796</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -42352,17 +42393,17 @@
       </rotation>
     </collision-box>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-4750.000</x>
-        <y>750.000</y>
-        <z>2400.000</z>
+        <x>-1750.000</x>
+        <y>2500.000</y>
+        <z>1500.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -42410,20 +42451,40 @@
         <z>0.000000</z>
       </rotation>
     </collision-box>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>340.000</x>
+        <y>46.667</y>
+        <z>315.000</z>
+      </size>
       <position>
         <x>-4750.000</x>
-        <y>-5750.000</y>
-        <z>3600.000</z>
+        <y>-2750.000</y>
+        <z>2557.500</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>0.000000</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>500.000</y>
+        <z>300.000</z>
+      </size>
+      <position>
+        <x>-4750.000</x>
+        <y>-2750.000</y>
+        <z>2550.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
     <collision-triangle id="0">
       <v0>
         <x>-397.305</x>
@@ -42592,14 +42653,14 @@
       <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1750.000</x>
-        <y>2500.000</y>
-        <z>1500.000</z>
+        <x>-4000.000</x>
+        <y>-6750.000</y>
+        <z>3300.000</z>
       </position>
       <rotation>
         <x>3.141593</x>
         <y>1.570796</y>
-        <z>-1.570796</z>
+        <z>3.141593</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -42714,23 +42775,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-750.000</x>
-        <y>-8250.000</y>
-        <z>1175.000</z>
+        <x>2750.000</x>
+        <y>-1750.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -42808,8 +42866,22 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>2750.000</x>
-        <y>-1750.000</y>
+        <x>-1750.000</x>
+        <y>-3750.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-250.000</x>
+        <y>-2250.000</y>
         <z>1800.000</z>
       </position>
       <rotation>
@@ -42818,23 +42890,6 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
-      <position>
-        <x>-750.000</x>
-        <y>-7750.000</y>
-        <z>1175.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -42863,156 +42918,54 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-397.305</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>185.790</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>211.515</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-2833.333</x>
-        <y>1000.000</y>
-        <z>1966.667</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>-0.540420</y>
-        <z>3.141593</z>
-      </rotation>
-    </collision-triangle>
-    <collision-triangle id="0">
-      <v0>
-        <x>-380.155</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>202.940</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>177.215</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-2833.333</x>
-        <y>500.000</y>
-        <z>1983.333</z>
-      </position>
-      <rotation>
-        <x>-1.570796</x>
-        <y>-0.540420</y>
-        <z>3.141593</z>
-      </rotation>
-    </collision-triangle>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>583.095</length>
-      <position>
-        <x>-2750.000</x>
-        <y>750.000</y>
-        <z>1900.000</z>
-      </position>
-      <rotation>
-        <x>-2.601173</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>583.095</width>
-      <length>500.000</length>
-      <position>
-        <x>-2750.000</x>
-        <y>750.000</y>
-        <z>1950.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>-0.540420</y>
-        <z>3.141593</z>
-      </rotation>
-    </collision-plane>
-    <collision-triangle id="0">
-      <v0>
-        <x>-397.305</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>185.790</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>211.515</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-2666.667</x>
-        <y>1000.000</y>
-        <z>1883.333</z>
-      </position>
-      <rotation>
-        <x>-1.570796</x>
-        <y>0.540420</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-triangle>
-    <collision-triangle id="0">
-      <v0>
-        <x>-380.155</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v0>
-      <v1>
-        <x>202.940</x>
-        <y>-14.292</y>
-        <z>0.000</z>
-      </v1>
-      <v2>
-        <x>177.215</x>
-        <y>28.583</y>
-        <z>0.000</z>
-      </v2>
-      <position>
-        <x>-2666.667</x>
-        <y>500.000</y>
-        <z>1866.667</z>
-      </position>
-      <rotation>
-        <x>1.570796</x>
-        <y>0.540420</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-triangle>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>1750.000</x>
-        <y>-5750.000</y>
+        <x>2750.000</x>
+        <y>-5250.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141593</z>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
+    <collision-box id="0">
+      <size>
+        <x>340.000</x>
+        <y>46.667</y>
+        <z>315.000</z>
+      </size>
+      <position>
+        <x>-250.000</x>
+        <y>-2750.000</y>
+        <z>1957.500</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>500.000</y>
+        <z>300.000</z>
+      </size>
+      <position>
+        <x>-250.000</x>
+        <y>-2750.000</y>
+        <z>1950.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>0.000000</z>
+      </rotation>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -43042,17 +42995,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
+      <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-4000.000</x>
-        <y>-6750.000</y>
-        <z>3300.000</z>
+        <x>4750.000</x>
+        <y>-2750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
-        <x>3.141593</x>
-        <y>1.570796</y>
-        <z>3.141593</z>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570797</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -43084,17 +43037,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
+      <width>600.000</width>
       <length>500.000</length>
       <position>
-        <x>-1750.000</x>
-        <y>-3750.000</y>
-        <z>2400.000</z>
+        <x>1250.000</x>
+        <y>2500.000</y>
+        <z>900.000</z>
       </position>
       <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
+        <x>3.141593</x>
+        <y>1.570796</y>
+        <z>-1.570796</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -43170,34 +43123,23 @@
         <z>-1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>500.000</x>
+        <y>30.300</y>
+        <z>369.471</z>
+      </size>
       <position>
-        <x>4750.000</x>
-        <y>-2750.000</y>
-        <z>1200.000</z>
+        <x>7250.000</x>
+        <y>-3250.000</y>
+        <z>1384.736</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-1.570797</z>
+        <z>-1.570796</z>
       </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>2750.000</x>
-        <y>-5250.000</y>
-        <z>1200.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>-1.570797</z>
-      </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
@@ -43255,6 +43197,20 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
+      <position>
+        <x>-3750.000</x>
+        <y>250.000</y>
+        <z>2400.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
       <width>600.000</width>
       <length>500.000</length>
       <position>
@@ -43296,23 +43252,20 @@
         <z>-1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>500.000</x>
-        <y>500.000</y>
-        <z>50.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>250.000</x>
-        <y>-7750.000</y>
-        <z>1175.000</z>
+        <x>1750.000</x>
+        <y>-5750.000</y>
+        <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>0.000000</z>
+        <z>3.141593</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-box id="0">
       <size>
         <x>400.000</x>
@@ -43798,9 +43751,9 @@
         <z>315.000</z>
       </size>
       <position>
-        <x>-250.000</x>
+        <x>-5250.000</x>
         <y>-2750.000</y>
-        <z>1957.500</z>
+        <z>2557.500</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -43815,9 +43768,9 @@
         <z>300.000</z>
       </size>
       <position>
-        <x>-250.000</x>
+        <x>-5250.000</x>
         <y>-2750.000</y>
-        <z>1950.000</z>
+        <z>2550.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -43825,20 +43778,6 @@
         <z>0.000000</z>
       </rotation>
     </collision-box>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>-250.000</x>
-        <y>-2250.000</y>
-        <z>1800.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -43885,20 +43824,6 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-3750.000</x>
-        <y>250.000</y>
-        <z>2400.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>1.570796</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
         <x>1750.000</x>
         <y>-7250.000</y>
         <z>1200.000</z>
@@ -43910,17 +43835,31 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+      <width>600.000</width>
+      <length>1000.000</length>
       <position>
-        <x>4250.000</x>
-        <y>1750.000</y>
+        <x>7666.666</x>
+        <y>-6500.000</y>
+        <z>900.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>1.570796</y>
+        <z>-0.000000</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>166.665</width>
+      <length>1000.000</length>
+      <position>
+        <x>7583.333</x>
+        <y>-6500.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>-0.000000</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">
@@ -43937,40 +43876,6 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>340.000</x>
-        <y>46.667</y>
-        <z>315.000</z>
-      </size>
-      <position>
-        <x>-5250.000</x>
-        <y>-2750.000</y>
-        <z>2557.500</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>500.000</y>
-        <z>300.000</z>
-      </size>
-      <position>
-        <x>-5250.000</x>
-        <y>-2750.000</y>
-        <z>2550.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
-      </rotation>
-    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -44000,31 +43905,17 @@
       </rotation>
     </collision-plane>
     <collision-plane id="0">
-      <width>600.000</width>
-      <length>1000.000</length>
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>7666.666</x>
-        <y>-6500.000</y>
-        <z>900.000</z>
-      </position>
-      <rotation>
-        <x>0.000000</x>
-        <y>1.570796</y>
-        <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>166.665</width>
-      <length>1000.000</length>
-      <position>
-        <x>7583.333</x>
-        <y>-6500.000</y>
+        <x>4250.000</x>
+        <y>1750.000</y>
         <z>1200.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>-0.000000</z>
+        <z>1.570796</z>
       </rotation>
     </collision-plane>
     <collision-box id="0">
@@ -44840,23 +44731,20 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>150.000</z>
+        <x>-5750.000</x>
+        <y>2250.000</y>
+        <z>3000.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
         <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -44875,9 +44763,9 @@
       <width>500.000</width>
       <length>500.000</length>
       <position>
-        <x>-5750.000</x>
+        <x>-5250.000</x>
         <y>2250.000</y>
-        <z>3000.000</z>
+        <z>2400.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
@@ -44930,20 +44818,23 @@
         <z>1.570796</z>
       </rotation>
     </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
+    <collision-box id="0">
+      <size>
+        <x>300.000</x>
+        <y>300.000</y>
+        <z>300.000</z>
+      </size>
       <position>
-        <x>-5250.000</x>
-        <y>2250.000</y>
-        <z>2400.000</z>
+        <x>-3250.000</x>
+        <y>-8250.000</y>
+        <z>1050.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>1.570796</z>
+        <z>3.141592</z>
       </rotation>
-    </collision-plane>
+    </collision-box>
     <collision-plane id="0">
       <width>500.000</width>
       <length>500.000</length>
@@ -44986,23 +44877,20 @@
         <z>1.570797</z>
       </rotation>
     </collision-plane>
-    <collision-box id="0">
-      <size>
-        <x>300.000</x>
-        <y>300.000</y>
-        <z>300.000</z>
-      </size>
+    <collision-plane id="0">
+      <width>500.000</width>
+      <length>500.000</length>
       <position>
-        <x>-3250.000</x>
-        <y>-8250.000</y>
-        <z>1050.000</z>
+        <x>2750.000</x>
+        <y>-2250.000</y>
+        <z>1800.000</z>
       </position>
       <rotation>
         <x>0.000000</x>
         <y>0.000000</y>
-        <z>3.141592</z>
+        <z>1.570796</z>
       </rotation>
-    </collision-box>
+    </collision-plane>
   </collision-geometry>
   <spawn-points>
     <spawn-point type="dm" free="true">
@@ -45233,6 +45121,16 @@
       </position>
       <rotation>
         <z>9.774</z>
+      </rotation>
+    </spawn-point>
+    <spawn-point type="blue" free="true">
+      <position>
+        <x>306.594</x>
+        <y>-8151.141</y>
+        <z>1200.000</z>
+      </position>
+      <rotation>
+        <z>-1.047</z>
       </rotation>
     </spawn-point>
   </spawn-points>
