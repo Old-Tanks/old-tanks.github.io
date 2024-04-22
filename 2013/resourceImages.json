@@ -1717,11 +1717,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "colormaps/holiday_af13/image.jpg"
+		"src": "colormaps/holiday/image.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "colormaps/holiday_af13/preview.png?v5"
+		"src": "colormaps/holiday/preview.png?v5"
 	 },
 	 {
 		"name": "red_m0",
