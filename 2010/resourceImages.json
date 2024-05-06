@@ -3,3232 +3,3320 @@
 	"items":[
 	 {
 		"name": "flagBlueModel_img",
-		"src": "ctf/pedestal/blue_pedestal/fs_blue.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/ctf/pedestal/blue_pedestal/fs_blue.jpg"
 	 },
 	 {
 		"name": "flagRedModel_img",
-		"src": "ctf/pedestal/red_pedestal/fs_red.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/ctf/pedestal/red_pedestal/fs_red.jpg"
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue.png"
+		"src": "https://old-tanks.github.io/2010/resources/ctf/flag_blue.png"
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red.png"
+		"src": "https://old-tanks.github.io/2010/resources/ctf/flag_red.png"
 	 },
 	 {
 		"name": "explosionTexture",
-		"src": "effects/tank_explosion/explosion.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/tank_explosion/explosion.png"
 	 },
 	 {
 		"name": "shockWaveTexture",
-		"src": "effects/tank_explosion/shock_wave.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/tank_explosion/shock_wave.png"
 	 },
 	 {
 		"name": "smokeTexture",
-		"src": "effects/tank_explosion/smoke.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/tank_explosion/smoke.png"
 	 },
 	 {
 		"name": "deadTank",
-		"src": "tank_parts/colorings/dead.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/dead.jpg"
 	 },
 	 {
 		"name": "garage_box_img",
-		"src": "tank_parts/garage_box/box/garage.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/garage_box/box/garage.jpg"
 	 },
 	 {
 		"name": "skybox1",
-		"src": "skyboxes/skybox1.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox1.jpg"
 	 },
 	 {
 		"name": "skybox2",
-		"src": "skyboxes/skybox2.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox2.jpg"
 	 },
 	 {
 		"name": "skybox3",
-		"src": "skyboxes/skybox3.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox3.jpg"
 	 },
 	 {
 		"name": "skybox4",
-		"src": "skyboxes/skybox4.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox4.jpg"
 	 },
 	 {
 		"name": "skybox_default",
-		"src": "skyboxes/skybox4.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox4.jpg"
 	 },
 	 {
 		"name": "skybox_desert",
-		"src": "skyboxes/skybox_desert.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_desert.jpg"
 	 },
 	 {
 		"name": "skybox_iran",
-		"src": "skyboxes/skybox_iran.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_iran.jpg"
 	 },
 	 {
 		"name": "skybox_iran_winter",
-		"src": "skyboxes/skybox_iran_winter.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_iran_winter.jpg"
 	 },
 	 {
 		"name": "skybox_iran_old",
-		"src": "skyboxes/skybox_iran_old.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_iran_old.jpg"
 	 },
 	 {
 		"name": "skybox_deathtrack",
-		"src": "skyboxes/skybox_deathtrack.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_deathtrack.jpg"
 	 },
 	 {
 		"name": "skybox_halloween",
-		"src": "skyboxes/skybox_halloween.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_halloween.jpg"
 	 },
 	 {
 		"name": "skybox_halloween_old",
-		"src": "skyboxes/skybox_halloween_old.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_halloween_old.jpg"
 	 },
 	 {
 		"name": "skybox_winter",
-		"src": "skyboxes/skybox_winter.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_winter.jpg"
 	 },
 	 {
 		"name": "skybox_grey",
-		"src": "skyboxes/skybox_grey.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_grey.jpg"
 	 },
 	 {
 		"name": "skybox_plato",
-		"src": "skyboxes/skybox5.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox5.jpg"
 	 },
 	 {
 		"name": "skybox_new_year",
-		"src": "skyboxes/skybox6.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox6.jpg"
 	 },
 	 {
 		"name": "skybox_evening",
-		"src": "skyboxes/skybox_4.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_4.jpg"
 	 },
 	 {
 		"name": "skybox_winter_evening",
-		"src": "skyboxes/skybox_5.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_5.jpg"
 	 },
 	 {
 		"name": "skybox_novel",
-		"src": "skyboxes/skybox_2.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_2.jpg"
 	 },
 	 {
 		"name": "skybox_industrial_zone",
-		"src": "skyboxes/skybox.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox.jpg"
 	 },
 	 {
 		"name": "skybox_space",
-		"src": "skyboxes/skybox_space.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_space.jpg"
 	 },
 	 {
 		"name": "skybox_sky",
-		"src": "skyboxes/skybox_sky.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/skyboxes/skybox_sky.jpg"
 	 },
 	 {
 		"name": "viking_m0_details",
-		"src": "tank_parts/hulls/hull6/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6/details.png"
 	 },
 	 {
 		"name": "viking_m0_lightmap",
-		"src": "tank_parts/hulls/hull6/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6/lightmap.jpg"
 	 },
 	 {
 		"name": "viking_m1_details",
-		"src": "tank_parts/hulls/hull6_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m1/details.png"
 	 },
 	 {
 		"name": "viking_m1_lightmap",
-		"src": "tank_parts/hulls/hull6_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "viking_m2_details",
-		"src": "tank_parts/hulls/hull6_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m2/details.png"
 	 },
 	 {
 		"name": "viking_m2_lightmap",
-		"src": "tank_parts/hulls/hull6_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "viking_m3_details",
-		"src": "tank_parts/hulls/hull6_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m3/details.png"
 	 },
 	 {
 		"name": "viking_m3_lightmap",
-		"src": "tank_parts/hulls/hull6_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "thunder_m0_lightmap",
-		"src": "tank_parts/turrets/turret6/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6/lightmap.jpg"
 	 },
 	 {
 		"name": "thunder_m0_details",
-		"src": "tank_parts/turrets/turret6/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6/details.png"
 	 }
 	 ,
 	 {
 		"name": "thunder_m0_preview",
-		"src": "item/preview/turret_thunder_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_thunder_m0.png"
 	 },
 	 {
 		"name": "thunder_m1_lightmap",
-		"src": "tank_parts/turrets/turret6_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "thunder_m1_details",
-		"src": "tank_parts/turrets/turret6_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m1/details.png"
 	 }
 	 ,
 	 {
 		"name": "thunder_m1_preview",
-		"src": "item/preview/turret_thunder_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_thunder_m1.png"
 	 },
 	 {
 		"name": "thunder_m2_lightmap",
-		"src": "tank_parts/turrets/turret6_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "thunder_m2_details",
-		"src": "tank_parts/turrets/turret6_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m2/details.png"
 	 }
 	 ,
 	 {
 		"name": "thunder_m2_preview",
-		"src": "item/preview/turret_thunder_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_thunder_m2.png"
 	 },
 	 {
 		"name": "thunder_m3_lightmap",
-		"src": "tank_parts/turrets/turret6_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "thunder_m3_details",
-		"src": "tank_parts/turrets/turret6_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m3/details.png"
 	 }
 	 ,
 	 {
 		"name": "thunder_m3_preview",
-		"src": "item/preview/turret_thunder_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_thunder_m3.png"
 	 },
 	 {
 		"name": "viking_m0_preview",
-		"src": "item/preview/hull_viking_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_viking_m0.png"
 	 },
 	 {
 		"name": "viking_m1_preview",
-		"src": "item/preview/hull_viking_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_viking_m1.png"
 	 },
 	 {
 		"name": "viking_m2_preview",
-		"src": "item/preview/hull_viking_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_viking_m2.png"
 	 },
 	 {
 		"name": "viking_m3_preview",
-		"src": "item/preview/hull_viking_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_viking_m3.png"
 	 },
 	 {
 		"name": "frezee_m0_lightmap",
-		"src": "tank_parts/turrets/turret7/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7/lightmap.jpg"
 	 },
 	 {
 		"name": "frezee_m0_details",
-		"src": "tank_parts/turrets/turret7/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7/details.png"
 	 },
 	 {
 		"name": "frezee_m0_preview",
-		"src": "item/preview/turret_freeze_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_freeze_m0.png"
 	 },
 	 {
 		"name": "frezee_m1_lightmap",
-		"src": "tank_parts/turrets/turret7_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "frezee_m1_details",
-		"src": "tank_parts/turrets/turret7_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m1/details.png"
 	 },
 	 {
 		"name": "frezee_m1_preview",
-		"src": "item/preview/turret_freeze_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_freeze_m1.png"
 	 },
 	 {
 		"name": "frezee_m2_lightmap",
-		"src": "tank_parts/turrets/turret7_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "frezee_m2_details",
-		"src": "tank_parts/turrets/turret7_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m2/details.png"
 	 },
 	 {
 		"name": "frezee_m2_preview",
-		"src": "item/preview/turret_freeze_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_freeze_m2.png"
 	 },
 	 {
 		"name": "frezee_m3_lightmap",
-		"src": "tank_parts/turrets/turret7_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "frezee_m3_details",
-		"src": "tank_parts/turrets/turret7_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m3/details.png"
 	 },
 	 {
 		"name": "frezee_m3_preview",
-		"src": "item/preview/turret_freeze_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_freeze_m3.png"
 	 },
 	 {
 		"name": "smoky_m0_lightmap",
-		"src": "tank_parts/turrets/turret1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "smoky_m0_details",
-		"src": "tank_parts/turrets/turret1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1/details.png?v1"
 	 },
 	 {
 		"name": "smoky_m0_preview",
-		"src": "item/preview/turret_smoky_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_smoky_m0.png"
 	 },
 	 {
 		"name": "smoky_m1_lightmap",
-		"src": "tank_parts/turrets/turret1_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "smoky_m1_details",
-		"src": "tank_parts/turrets/turret1_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m1/details.png?v1"
 	 },
 	 {
 		"name": "smoky_m1_preview",
-		"src": "item/preview/turret_smoky_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_smoky_m1.png"
 	 },
 	 {
 		"name": "smoky_m2_lightmap",
-		"src": "tank_parts/turrets/turret1_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "smoky_m2_details",
-		"src": "tank_parts/turrets/turret1_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m2/details.png?v1"
 	 },
 	 {
 		"name": "smoky_m2_preview",
-		"src": "item/preview/turret_smoky_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_smoky_m2.png"
 	 },
 	 {
 		"name": "smoky_m3_lightmap",
-		"src": "tank_parts/turrets/turret1_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "smoky_m3_details",
-		"src": "tank_parts/turrets/turret1_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m3/details.png?v1"
 	 },
 	 {
 		"name": "smoky_m3_preview",
-		"src": "item/preview/turret_smoky_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_smoky_m3.png"
 	 },
 	 {
 		"name": "flamethrower_m0_lightmap",
-		"src": "tank_parts/turrets/turret3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "flamethrower_m0_details",
-		"src": "tank_parts/turrets/turret3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3/details.png?v1"
 	 },
 	 {
 		"name": "flamethrower_m0_preview",
-		"src": "item/preview/turret_fire_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_fire_m0.png"
 	 },
 	 {
 		"name": "flamethrower_m1_lightmap",
-		"src": "tank_parts/turrets/turret3_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "flamethrower_m1_details",
-		"src": "tank_parts/turrets/turret3_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m1/details.png?v1"
 	 },
 	 {
 		"name": "flamethrower_m1_preview",
-		"src": "item/preview/turret_fire_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_fire_m1.png"
 	 },
 	 {
 		"name": "flamethrower_m2_lightmap",
-		"src": "tank_parts/turrets/turret3_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "flamethrower_m2_details",
-		"src": "tank_parts/turrets/turret3_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m2/details.png?v1"
 	 },
 	 {
 		"name": "flamethrower_m2_preview",
-		"src": "item/preview/turret_fire_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_fire_m2.png"
 	 },
 	 {
 		"name": "flamethrower_m3_lightmap",
-		"src": "tank_parts/turrets/turret3_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "flamethrower_m3_details",
-		"src": "tank_parts/turrets/turret3_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m3/details.png?v1"
 	 },
 	 {
 		"name": "flamethrower_m3_preview",
-		"src": "item/preview/turret_fire_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_fire_m3.png"
 	 },
 	 {
 		"name": "isida_m0_lightmap",
-		"src": "tank_parts/turrets/turret5/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "isida_m0_details",
-		"src": "tank_parts/turrets/turret5/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5/details.png?v1"
 	 },
 	 {
 		"name": "isida_m0_preview",
-		"src": "item/preview/turret_isida_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_isida_m0.png"
 	 },
 	 {
 		"name": "isida_m1_lightmap",
-		"src": "tank_parts/turrets/turret5_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "isida_m1_details",
-		"src": "tank_parts/turrets/turret5_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m1/details.png?v1"
 	 },
 	 {
 		"name": "isida_m1_preview",
-		"src": "item/preview/turret_isida_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_isida_m1.png"
 	 },
 	 {
 		"name": "isida_m2_lightmap",
-		"src": "tank_parts/turrets/turret5_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "isida_m2_details",
-		"src": "tank_parts/turrets/turret5_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m2/details.png?v1"
 	 },
 	 {
 		"name": "isida_m2_preview",
-		"src": "item/preview/turret_isida_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_isida_m2.png"
 	 },
 	 {
 		"name": "isida_m3_lightmap",
-		"src": "tank_parts/turrets/turret5_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "isida_m3_details",
-		"src": "tank_parts/turrets/turret5_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m3/details.png?v1"
 	 },
 	 {
 		"name": "isida_m3_preview",
-		"src": "item/preview/turret_isida_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_isida_m3.png"
 	 },
 	 {
 		"name": "twins_m0_details",
-		"src": "tank_parts/turrets/turret2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2/details.png?v1"
 	 },
 	 {
 		"name": "twins_m0_preview",
-		"src": "item/preview/turret_twins_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_twins_m0.png"
 	 },
 	 {
 		"name": "twins_m0_lightmap",
-		"src": "tank_parts/turrets/turret2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "twins_m1_lightmap",
-		"src": "tank_parts/turrets/turret2_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "twins_m1_details",
-		"src": "tank_parts/turrets/turret2_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m1/details.png?v1"
 	 },
 	 {
 		"name": "twins_m1_preview",
-		"src": "item/preview/turret_twins_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_twins_m1.png"
 	 },
 	 {
 		"name": "twins_m2_lightmap",
-		"src": "tank_parts/turrets/turret2_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "twins_m2_details",
-		"src": "tank_parts/turrets/turret2_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m2/details.png?v1"
 	 },
 	 {
 		"name": "twins_m2_preview",
-		"src": "item/preview/turret_twins_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_twins_m2.png"
 	 },
 	 {
 		"name": "twins_m3_lightmap",
-		"src": "tank_parts/turrets/turret2_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "twins_m3_details",
-		"src": "tank_parts/turrets/turret2_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m3/details.png?v1"
 	 },
 	 {
 		"name": "twins_m3_preview",
-		"src": "item/preview/turret_twins_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_twins_m3.png"
 	 },
 	 {
 		"name": "railgun_m0_details",
-		"src": "tank_parts/turrets/turret4/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4/details.png?v1"
 	 },
 	 {
 		"name": "railgun_m0_preview",
-		"src": "item/preview/turret_railgun_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_railgun_m0.png"
 	 },
 	 {
 		"name": "railgun_m0_lightmap",
-		"src": "tank_parts/turrets/turret4/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "railgun_m1_lightmap",
-		"src": "tank_parts/turrets/turret4_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "railgun_m1_details",
-		"src": "tank_parts/turrets/turret4_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m1/details.png?v1"
 	 },
 	 {
 		"name": "railgun_m1_preview",
-		"src": "item/preview/turret_railgun_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_railgun_m1.png"
 	 },
 	 {
 		"name": "railgun_m2_lightmap",
-		"src": "tank_parts/turrets/turret4_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "railgun_m2_details",
-		"src": "tank_parts/turrets/turret4_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m2/details.png?v1"
 	 },
 	 {
 		"name": "railgun_m2_preview",
-		"src": "item/preview/turret_railgun_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_railgun_m2.png"
 	 },
 	 {
 		"name": "railgun_m3_lightmap",
-		"src": "tank_parts/turrets/turret4_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "railgun_m3_details",
-		"src": "tank_parts/turrets/turret4_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m3/details.png?v1"
 	 },
 	 {
 		"name": "railgun_m3_preview",
-		"src": "item/preview/turret_railgun_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_railgun_m3.png"
 	 },
 	 {
 		"name": "ricochet_m0_details",
-		"src": "tank_parts/turrets/turret8/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8/details.png?v1"
 	 },
 	 {
 		"name": "ricochet_m0_lightmap",
-		"src": "tank_parts/turrets/turret8/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "ricochet_m0_preview",
-		"src": "item/preview/turret_ricochet_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_ricochet_m0.png"
 	 },
 	 {
 		"name": "ricochet_m1_lightmap",
-		"src": "tank_parts/turrets/turret8_m1/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m1/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "ricochet_m1_details",
-		"src": "tank_parts/turrets/turret8_m1/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m1/details.png?v1"
 	 },
 	 {
 		"name": "ricochet_m1_preview",
-		"src": "item/preview/turret_ricochet_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_ricochet_m1.png"
 	 },
 	 {
 		"name": "ricochet_m2_lightmap",
-		"src": "tank_parts/turrets/turret8_m2/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m2/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "ricochet_m2_details",
-		"src": "tank_parts/turrets/turret8_m2/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m2/details.png?v1"
 	 },
 	 {
 		"name": "ricochet_m2_preview",
-		"src": "item/preview/turret_ricochet_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_ricochet_m2.png"
 	 },
 	 {
 		"name": "ricochet_m3_lightmap",
-		"src": "tank_parts/turrets/turret8_m3/lightmap.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m3/lightmap.jpg?v1"
 	 },
 	 {
 		"name": "ricochet_m3_details",
-		"src": "tank_parts/turrets/turret8_m3/details.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m3/details.png?v1"
 	 },
 	 {
 		"name": "ricochet_m3_preview",
-		"src": "item/preview/turret_ricochet_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_ricochet_m3.png"
 	 },
 	 {
 		"name": "shaft_m0_preview",
-		"src": "item/preview/turret_shaft_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_shaft_m0.png"
 	 },
 	 {
 		 "name": "smokyxt_m0_preview",
-		 "src": "item/preview/turret_smoky_xt.png"
+		 "src": "https://old-tanks.github.io/2010/resources/item/preview/turret_smoky_xt.png"
 	 },
 	 {
 		 "name": "smokyxt_m0_lightmap",
-		 "src": "tank_parts/turrets/turret1_xt/lightmap.jpg"
+		 "src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_xt/lightmap.jpg"
 	 },
 	 {
 		 "name": "smokyxt_m0_details",
-		 "src": "tank_parts/turrets/turret1_xt/details.png"
+		 "src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_xt/details.png"
 	 },
 	 {
 		"name": "shaft_m0_lightmap",
-		"src": "tank_parts/turrets/turret9/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9/lightmap.jpg"
 	 },
 	 {
 		"name": "shaft_m0_details",
-		"src": "tank_parts/turrets/turret9/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9/details.png"
 	 },
 	 {
 		"name": "shaft_m1_preview",
-		"src": "item/preview/turret_shaft_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_shaft_m1.png"
 	 },
 	 {
 		"name": "shaft_m1_lightmap",
-		"src": "tank_parts/turrets/turret9_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "shaft_m1_details",
-		"src": "tank_parts/turrets/turret9_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m1/details.png"
 	 },
 	 {
 		"name": "shaft_m2_preview",
-		"src": "item/preview/turret_shaft_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_shaft_m2.png"
 	 },
 	 {
 		"name": "shaft_m2_lightmap",
-		"src": "tank_parts/turrets/turret9_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "shaft_m2_details",
-		"src": "tank_parts/turrets/turret9_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m2/details.png"
 	 },
 	 {
 		"name": "shaft_m3_preview",
-		"src": "item/preview/turret_shaft_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_shaft_m3.png"
 	 },
 	 {
 		"name": "shaft_m3_lightmap",
-		"src": "tank_parts/turrets/turret9_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "shaft_m3_details",
-		"src": "tank_parts/turrets/turret9_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m3/details.png"
 	 },
 	 {
 		"name": "snowman_m0_details",
-		"src": "tank_parts/turrets/turret1_ny/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/details.png"
 	 },
 	 {
 		"name": "snowman_m0_lightmap",
-		"src": "tank_parts/turrets/turret1_ny/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/lightmap.jpg"
 	 },
 	 {
 		"name": "snowman_m0_preview",
-		"src": "item/preview/turret_snowman.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_snowman.png"
 	 },
 	 {
 		"name": "snowman_m0_fire",
-		"src": "effects/snow/shot.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.png?v1"
 	 },
 	 {
 		"name": "snowman_m0_shot",
-		"src": "effects/snow/shot.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.png"
 	 },
 	 {
 		"name": "snowman_m1_details",
-		"src": "tank_parts/turrets/turret1_ny/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/details.png"
 	 },
 	 {
 		"name": "snowman_m1_lightmap",
-		"src": "tank_parts/turrets/turret1_ny/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/lightmap.jpg"
 	 },
 	 {
 		"name": "snowman_m1_preview",
-		"src": "item/preview/turret_snowman.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_snowman.png"
 	 },
 	 {
 		"name": "snowman_m1_fire",
-		"src": "effects/snow/fire.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/fire.png"
 	 },
 	 {
 		"name": "snowman_m1_shot",
-		"src": "effects/snow/shot.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.png"
 	 },
 	 {
 		"name": "snowman_m2_details",
-		"src": "tank_parts/turrets/turret1_ny/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/details.png"
 	 },
 	 {
 		"name": "snowman_m2_lightmap",
-		"src": "tank_parts/turrets/turret1_ny/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/lightmap.jpg"
 	 },
 	 {
 		"name": "snowman_m2_preview",
-		"src": "item/preview/turret_snowman.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_snowman.png"
 	 },
 	 {
 		"name": "snowman_m2_fire",
-		"src": "effects/snow/fire.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/fire.png"
 	 },
 	 {
 		"name": "snowman_m2_shot",
-		"src": "effects/snow/shot.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.png"
 	 },
 	 {
 		"name": "snowman_m3_details",
-		"src": "tank_parts/turrets/turret1_ny/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/details.png"
 	 },
 	 {
 		"name": "snowman_m3_lightmap",
-		"src": "tank_parts/turrets/turret1_ny/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/lightmap.jpg"
 	 },
 	 {
 		"name": "snowman_m3_preview",
-		"src": "item/preview/turret_snowman.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/turret_snowman.png"
 	 },
 	 {
 		"name": "snowman_m3_fire",
-		"src": "effects/snow/fire.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/fire.png"
 	 },
 	 {
 		"name": "snowman_m3_shot",
-		"src": "effects/snow/shot.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.png"
 	 },
 	 {
 		"name": "snowman_m3_snow",
-		"src": "effects/snow/snow.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/snow.png"
 	 },
 	 {
 		"name": "snowman_m2_snow",
-		"src": "effects/snow/snow.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/snow.png"
 	 },
 	 {
 		"name": "snowman_m1_snow",
-		"src": "effects/snow/snow.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/snow.png"
 	 },
 	 {
 		"name": "snowman_m0_snow",
-		"src": "effects/snow/snow.png"
+		"src": "https://old-tanks.github.io/2010/resources/effects/snow/snow.png"
 	 },
 	 {
 		"name": "wasp_m0_lightmap",
-		"src": "tank_parts/hulls/hull1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1/lightmap.jpg"
 	 },
 	 {
 		"name": "wasp_m0_details",
-		"src": "tank_parts/hulls/hull1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1/details.png"
 	 },
 	 {
 		"name": "wasp_m0_preview",
-		"src": "item/preview/hull_wasp_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_wasp_m0.png"
 	 },
 	 {
 		"name": "wasp_m1_lightmap",
-		"src": "tank_parts/hulls/hull1_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "wasp_m1_details",
-		"src": "tank_parts/hulls/hull1_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m1/details.png"
 	 },
 	 {
 		"name": "wasp_m1_preview",
-		"src": "item/preview/hull_wasp_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_wasp_m1.png"
 	 },
 	 {
 		"name": "wasp_m2_lightmap",
-		"src": "tank_parts/hulls/hull1_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "wasp_m2_details",
-		"src": "tank_parts/hulls/hull1_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m2/details.png"
 	 },
 	 {
 		"name": "wasp_m2_preview",
-		"src": "item/preview/hull_wasp_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_wasp_m2.png"
 	 },
 	 {
 		"name": "wasp_m3_lightmap",
-		"src": "tank_parts/hulls/hull1_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "wasp_m3_details",
-		"src": "tank_parts/hulls/hull1_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m3/details.png"
 	 },
 	 {
 		"name": "wasp_m3_preview",
-		"src": "item/preview/hull_wasp_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_wasp_m3.png"
 	 },
 	 {
 		"name": "hunter_m0_lightmap",
-		"src": "tank_parts/hulls/hull2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2/lightmap.jpg"
 	 },
 	 {
 		"name": "hunter_m0_details",
-		"src": "tank_parts/hulls/hull2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2/details.png"
 	 },
 	 {
 		"name": "hunter_m0_preview",
-		"src": "item/preview/hull_hunter_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hunter_m0.png"
 	 },
 	 {
 		"name": "hunter_m1_lightmap",
-		"src": "tank_parts/hulls/hull2_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "hunter_m1_details",
-		"src": "tank_parts/hulls/hull2_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m1/details.png"
 	 },
 	 {
 		"name": "hunter_m1_preview",
-		"src": "item/preview/hull_hunter_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hunter_m1.png"
 	 },
 	 {
 		"name": "hunter_m2_lightmap",
-		"src": "tank_parts/hulls/hull2_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "hunter_m2_details",
-		"src": "tank_parts/hulls/hull2_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m2/details.png"
 	 },
 	 {
 		"name": "hunter_m2_preview",
-		"src": "item/preview/hull_hunter_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hunter_m2.png"
 	 },
 	 {
 		"name": "hunter_m3_lightmap",
-		"src": "tank_parts/hulls/hull2_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "hunter_m3_details",
-		"src": "tank_parts/hulls/hull2_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m3/details.png"
 	 },
 	 {
 		"name": "hunter_m3_preview",
-		"src": "item/preview/hull_hunter_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hunter_m3.png"
 	 },
 	 {
 		"name": "titan_m0_lightmap",
-		"src": "tank_parts/hulls/hull3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3/lightmap.jpg"
 	 },
 	 {
 		"name": "titan_m0_details",
-		"src": "tank_parts/hulls/hull3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3/details.png"
 	 },
 	 {
 		"name": "titan_m0_preview",
-		"src": "item/preview/hull_titan_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_titan_m0.png"
 	 },
 	 {
 		"name": "titan_m1_lightmap",
-		"src": "tank_parts/hulls/hull3_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "titan_m1_details",
-		"src": "tank_parts/hulls/hull3_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m1/details.png"
 	 },
 	 {
 		"name": "titan_m1_preview",
-		"src": "item/preview/hull_titan_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_titan_m1.png"
 	 },
 	 {
 		"name": "titan_m2_lightmap",
-		"src": "tank_parts/hulls/hull3_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "titan_m2_details",
-		"src": "tank_parts/hulls/hull3_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m2/details.png"
 	 },
 	 {
 		"name": "titan_m2_preview",
-		"src": "item/preview/hull_titan_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_titan_m2.png"
 	 },
 	 {
 		"name": "titan_m3_lightmap",
-		"src": "tank_parts/hulls/hull3_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "titan_m3_details",
-		"src": "tank_parts/hulls/hull3_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m3/details.png"
 	 },
 	 {
 		"name": "titan_m3_preview",
-		"src": "item/preview/hull_titan_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_titan_m3.png"
 	 },
 	 {
 		"name": "dictator_m0_lightmap",
-		"src": "tank_parts/hulls/hull4/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4/lightmap.jpg"
 	 },
 	 {
 		"name": "dictator_m0_details",
-		"src": "tank_parts/hulls/hull4/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4/details.png"
 	 },
 	 {
 		"name": "dictator_m0_preview",
-		"src": "item/preview/hull_dictator_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_dictator_m0.png"
 	 },
 	 {
 		"name": "dictator_m1_lightmap",
-		"src": "tank_parts/hulls/hull4_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "dictator_m1_details",
-		"src": "tank_parts/hulls/hull4_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m1/details.png"
 	 },
 	 {
 		"name": "dictator_m1_preview",
-		"src": "item/preview/hull_dictator_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_dictator_m1.png"
 	 },
 	 {
 		"name": "dictator_m2_lightmap",
-		"src": "tank_parts/hulls/hull4_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "dictator_m2_details",
-		"src": "tank_parts/hulls/hull4_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m2/details.png"
 	 },
 	 {
 		"name": "dictator_m2_preview",
-		"src": "item/preview/hull_dictator_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_dictator_m2.png"
 	 },
 	 {
 		"name": "dictator_m3_lightmap",
-		"src": "tank_parts/hulls/hull4_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "dictator_m3_details",
-		"src": "tank_parts/hulls/hull4_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m3/details.png"
 	 },
 	 {
 		"name": "dictator_m3_preview",
-		"src": "item/preview/hull_dictator_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_dictator_m3.png"
 	 },
 	 {
 		"name": "hornet_m0_lightmap",
-		"src": "tank_parts/hulls/hull5/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5/lightmap.jpg"
 	 },
 	 {
 		"name": "hornet_m0_details",
-		"src": "tank_parts/hulls/hull5/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5/details.png"
 	 },
 	 {
 		"name": "hornet_m0_preview",
-		"src": "item/preview/hull_hornet_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hornet_m0.png"
 	 },
 	 {
 		"name": "hornet_m1_lightmap",
-		"src": "tank_parts/hulls/hull5_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "hornet_m1_details",
-		"src": "tank_parts/hulls/hull5_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m1/details.png"
 	 },
 	 {
 		"name": "hornet_m1_preview",
-		"src": "item/preview/hull_hornet_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hornet_m1.png"
 	 },
 	 {
 		"name": "hornet_m2_lightmap",
-		"src": "tank_parts/hulls/hull5_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "hornet_m2_details",
-		"src": "tank_parts/hulls/hull5_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m2/details.png"
 	 },
 	 {
 		"name": "hornet_m2_preview",
-		"src": "item/preview/hull_hornet_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hornet_m2.png"
 	 },
 	 {
 		"name": "hornet_m3_lightmap",
-		"src": "tank_parts/hulls/hull5_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "hornet_m3_details",
-		"src": "tank_parts/hulls/hull5_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m3/details.png"
 	 },
 	 {
 		"name": "hornet_m3_preview",
-		"src": "item/preview/hull_hornet_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_hornet_m3.png"
 	 },
 	 {
 		"name": "mamont_m0_lightmap",
-		"src": "tank_parts/hulls/hull7/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7/lightmap.jpg"
 	 },
 	 {
 		"name": "mamont_m0_details",
-		"src": "tank_parts/hulls/hull7/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7/details.png"
 	 },
 	 {
 		"name": "mamont_m0_preview",
-		"src": "item/preview/hull_mammoth_m0.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_mammoth_m0.png"
 	 },
 	 {
 		"name": "mamont_m1_lightmap",
-		"src": "tank_parts/hulls/hull7_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m1/lightmap.jpg"
 	 },
 	 {
 		"name": "mamont_m1_details",
-		"src": "tank_parts/hulls/hull7_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m1/details.png"
 	 },
 	 {
 		"name": "mamont_m1_preview",
-		"src": "item/preview/hull_mammoth_m1.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_mammoth_m1.png"
 	 },
 	 {
 		"name": "mamont_m2_lightmap",
-		"src": "tank_parts/hulls/hull7_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m2/lightmap.jpg"
 	 },
 	 {
 		"name": "mamont_m2_details",
-		"src": "tank_parts/hulls/hull7_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m2/details.png"
 	 },
 	 {
 		"name": "mamont_m2_preview",
-		"src": "item/preview/hull_mammoth_m2.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_mammoth_m2.png"
 	 },
 	 {
 		"name": "mamont_m3_lightmap",
-		"src": "tank_parts/hulls/hull7_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m3/lightmap.jpg"
 	 },
 	 {
 		"name": "mamont_m3_details",
-		"src": "tank_parts/hulls/hull7_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m3/details.png"
 	 },
 	 {
 		"name": "mamont_m3_preview",
-		"src": "item/preview/hull_mammoth_m3.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_mammoth_m3.png"
 	 },
 	{
 		"name": "ufo_m0_lightmap",
-		"src": "tank_parts/hulls/hull8/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8/lightmap.jpg"
 	},
 	{
 		"name": "ufo_m0_details",
-		"src": "tank_parts/hulls/hull8/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8/details.png"
 	},
 	{
 		"name": "ufo_m0_preview",
-		"src": "item/preview/hull_ufo.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_ufo.png"
 	},
 	{
 		"name": "ufo_m1_lightmap",
-		"src": "tank_parts/hulls/hull8_m1/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m1/lightmap.jpg"
 	},
 	{
 		"name": "ufo_m1_details",
-		"src": "tank_parts/hulls/hull8_m1/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m1/details.png"
 	},
 	{
 		"name": "ufo_m1_preview",
-		"src": "item/preview/hull_ufo.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_ufo.png"
 	},
 	{
 		"name": "ufo_m2_lightmap",
-		"src": "tank_parts/hulls/hull8_m2/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m2/lightmap.jpg"
 	},
 	{
 		"name": "ufo_m2_details",
-		"src": "tank_parts/hulls/hull8_m2/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m2/details.png"
 	},
 	{
 		"name": "ufo_m2_preview",
-		"src": "item/preview/hull_ufo.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_ufo.png"
 	},
 	{
 		"name": "ufo_m3_lightmap",
-		"src": "tank_parts/hulls/hull8_m3/lightmap.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m3/lightmap.jpg"
 	},
 	{
 		"name": "ufo_m3_details",
-		"src": "tank_parts/hulls/hull8_m3/details.png"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m3/details.png"
 	},
 	{
 		"name": "ufo_m3_preview",
-		"src": "item/preview/hull_ufo.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/hull_ufo.png"
 	},
 	 {
 		"name": "1000_cosmonauts_dev_m0",
-		"src": "tank_parts/colorings/1000_cosmonauts_dev.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/1000_cosmonauts_dev.jpg"
 	 },
 	 {
 		"name": "1000_cosmonauts_dev_m0_preview",
-		"src": "item/preview/coloring_1000_cosmonauts_dev.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_1000_cosmonauts_dev.png"
 	 },
 	 {
 		"name": "1000_cosmonauts_play_m0",
-		"src": "tank_parts/colorings/1000_cosmonauts_play.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/1000_cosmonauts_play.jpg"
 	 },
 	 {
 		"name": "1000_cosmonauts_play_m0_preview",
-		"src": "item/preview/coloring_1000_cosmonauts_play.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_1000_cosmonauts_play.png"
 	 },
 	 {
 		"name": "1000_footballers_dev_m0",
-		"src": "tank_parts/colorings/1000_footballers_dev.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/1000_footballers_dev.jpg"
 	 },
 	 {
 		"name": "1000_footballers_dev_m0_preview",
-		"src": "item/preview/coloring_1000_footballers_dev.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_1000_footballers_dev.png"
 	 },
 	 {
 		"name": "1000_footballers_play_m0",
-		"src": "tank_parts/colorings/1000_footballers_play.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/1000_footballers_play.jpg"
 	 },
 	 {
 		"name": "1000_footballers_play_m0_preview",
-		"src": "item/preview/coloring_1000_footballers_play.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_1000_footballers_play.png"
 	 },
 	 {
 		"name": "sun_m0",
-		"src": "tank_parts/colorings/sun.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/sun.jpg"
 	 },
 	 {
 		"name": "sun_m0_preview",
-		"src": "item/preview/coloring_sun.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_sun.png"
 	 },
 	 {
 		"name": "kasim_m0",
-		"src": "tank_parts/colorings/kasim.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/kasim.jpg"
 	 },
 	 {
 		"name": "kasim_m0_preview",
-		"src": "item/preview/coloring_kasim.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_kasim.png"
 	 },
 	 {
 		"name": "S-N-E-G_m0",
-		"src": "tank_parts/colorings/s-n-e-g.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/s-n-e-g.jpg"
 	 },
 	 {
 		"name": "S-N-E-G_m0_preview",
-		"src": "item/preview/coloring_s-n-e-g.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_s-n-e-g.png"
 	 },
 	 {
 		"name": "KALASH86RUS_m0",
-		"src": "tank_parts/colorings/kalash86rus.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/kalash86rus.jpg"
 	 },
 	 {
 		"name": "KALASH86RUS_m0_preview",
-		"src": "item/preview/coloring_kalash86rus.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_kalash86rus.png"
 	 },
 	 {
 		"name": "Goliafffffff_m0",
-		"src": "tank_parts/colorings/goliafffffff.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/goliafffffff.jpg"
 	 },
 	 {
 		"name": "Goliafffffff_m0_preview",
-		"src": "item/preview/coloring_goliafffffff.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_goliafffffff.png"
 	 },
 	 {
 		"name": "players_m0",
-		"src": "tank_parts/colorings/players.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/players.jpg"
 	 },
 	 {
 		"name": "players_m0_preview",
-		"src": "item/preview/coloring_players.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_players.png"
 	 },
 	 {
 		"name": "developers_m0",
-		"src": "tank_parts/colorings/developers.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/developers.jpg"
 	 },
 	 {
 		"name": "developers_m0_preview",
-		"src": "item/preview/coloring_developers.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_developers.png"
 	 },
 	 {
 		"name": "rusty_barrels_play_m0",
-		"src": "tank_parts/colorings/rusty_barrels_play.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/rusty_barrels_play.jpg"
 	 },
 	 {
 		"name": "rusty_barrels_play_m0_preview",
-		"src": "item/preview/coloring_rusty_barrels_play.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_rusty_barrels_play.png"
 	 },
 	 {
 		"name": "rusty_barrels_dev_m0",
-		"src": "tank_parts/colorings/rusty_barrels_dev.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/rusty_barrels_dev.jpg"
 	 },
 	 {
 		"name": "rusty_barrels_dev_m0_preview",
-		"src": "item/preview/coloring_rusty_barrels_dev.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_rusty_barrels_dev.png"
 	 },
 	 {
 		"name": "Scorpions_m0",
-		"src": "tank_parts/colorings/scorpions.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/scorpions.jpg"
 	 },
 	 {
 		"name": "Scorpions_m0_preview",
-		"src": "item/preview/coloring_scorpions.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_scorpions.png"
 	 },
 	 {
 		"name": "NooBest_m0",
-		"src": "tank_parts/colorings/noobest.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/noobest.jpg"
 	 },
 	 {
 		"name": "NooBest_m0_preview",
-		"src": "item/preview/coloring_noobest.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_noobest.png"
 	 },
 	 {
 		"name": "helper_m0",
-		"src": "tank_parts/colorings/helper.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/helper.jpg"
 	 },
 	 {
 		"name": "helper_m0_preview",
-		"src": "item/preview/coloring_helper.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_helper.png"
 	 },
 	 {
 		"name": "masterparkour_m0",
-		"src": "tank_parts/colorings/masterparkour.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/masterparkour.jpg"
 	 },
 	 {
 		"name": "masterparkour_m0_preview",
-		"src": "item/preview/coloring_masterparkour.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_masterparkour.png"
 	 },
 	 {
 		"name": "green_m0",
-		"src": "tank_parts/colorings/green.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/green.jpg"
 	 },
 	 {
 		"name": "green_m0_preview",
-		"src": "item/preview/coloring_green_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_green_paint.png"
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "tank_parts/colorings/holiday_cd.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/holiday_may.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "item/preview/coloring_holiday_cd.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_holiday_may.png"
 	 },
 	 {
 		"name": "red_m0",
-		"src": "tank_parts/colorings/red.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/red.jpg"
 	 },	
 	 {
 		"name": "red_m0_preview",
-		"src": "item/preview/coloring_red_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_red_paint.png"
 	 },		
 	 {
 		"name": "blue_m0",
-		"src": "tank_parts/colorings/blue.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/blue.jpg"
 	 },	 
 	 {
 		"name": "blue_m0_preview",
-		"src": "item/preview/coloring_blue_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_blue_paint.png"
 	 },	 	
 	 {
 		"name": "black_m0",
-		"src": "tank_parts/colorings/black.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/black.jpg"
 	 },	 	
 	 {
 		"name": "black_m0_preview",
-		"src": "item/preview/coloring_black_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_black_paint.png"
 	 },	 	
 	 {
 		"name": "white_m0",
-		"src": "tank_parts/colorings/white.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/white.jpg"
 	 },	 		
 	 {
 		"name": "white_m0_preview",
-		"src": "item/preview/coloring_white_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_white_paint.png"
 	 },	 		
 	 {
 		"name": "lava_m0",
-		"src": "tank_parts/colorings/lava.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/lava.jpg"
 	 },	
 	 {
 		"name": "lava_m0_preview",
-		"src": "item/preview/coloring_lava.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_lava.png"
 	 },	
 	 {
 		"name": "kitty_m0",
-		"src": "tank_parts/colorings/kitty.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/kitty.jpg"
 	 },	 
 	 {
 		"name": "kitty_m0_preview",
-		"src": "item/preview/coloring_kitty.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_kitty.png"
 	 },	 
 	 {
 		"name": "orange_m0",
-		"src": "tank_parts/colorings/orange.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/orange.jpg"
 	 },	 
 	 {
 		"name": "orange_m0_preview",
-		"src": "item/preview/coloring_orange_paint.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_orange_paint.png"
 	 },	 
 	 {
 		"name": "metallic_m0",
-		"src": "tank_parts/colorings/polished.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/polished.jpg"
 	 },	
 	 {
 		"name": "metallic_m0_preview",
-		"src": "item/preview/coloring_polished_metal.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_polished_metal.png"
 	 },		
 	 {
 		"name": "forester_m0",
-		"src": "tank_parts/colorings/forester.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/forester.jpg"
 	 },	 
 	 {
 		"name": "forester_m0_preview",
-		"src": "item/preview/coloring_forester.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_forester.png"
 	 },	 
 	 {
 		"name": "flora_m0",
-		"src": "tank_parts/colorings/flora.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/flora.jpg"
 	 },	
 	 {
 		"name": "flora_m0_preview",
-		"src": "item/preview/coloring_flora.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_flora.png"
 	 },	
 	 {
 		"name": "savanna_m0",
-		"src": "tank_parts/colorings/savanna.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/savanna.jpg"
 	 },		
 	 {
 		"name": "savanna_m0_preview",
-		"src": "item/preview/coloring_savanna.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_savanna.png"
 	 },		
 	 {
 		"name": "marine_m0",
-		"src": "tank_parts/colorings/marine.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/marine.jpg"
 	 },	
 	 {
 		"name": "marine_m0_preview",
-		"src": "item/preview/coloring_marine.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_marine.png"
 	 },	
 	 {
 		"name": "desert_m0",
-		"src": "tank_parts/colorings/desert.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/desert.jpg"
 	 },		
 	 {
 		"name": "desert_m0_preview",
-		"src": "item/preview/coloring_desert.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_desert.png"
 	 },		
 	 {
 		"name": "urban_m0",
-		"src": "tank_parts/colorings/urban.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/urban.jpg"
 	 },	
 	 {
 		"name": "urban_m0_preview",
-		"src": "item/preview/coloring_urban.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_urban.png"
 	 },	
 	 {
 		"name": "carbon_m0",
-		"src": "tank_parts/colorings/carbon.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/carbon.jpg"
 	 },			
 	 {
 		"name": "carbon_m0_preview",
-		"src": "item/preview/coloring_carbon.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_carbon.png"
 	 },			
 	 {
 		"name": "swamp_m0",
-		"src": "tank_parts/colorings/cm4.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cm4.jpg"
 	 },			 
 	 {
 		"name": "swamp_m0_preview",
-		"src": "item/preview/coloring_swamp.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_swamp.png"
 	 },			 
 	 {
 		"name": "dirty_m0",
-		"src": "tank_parts/colorings/cm5.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cm5.jpg"
 	 },		
 	 {
 		"name": "dirty_m0_preview",
-		"src": "item/preview/coloring_dirty.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_dirty.png"
 	 },		
 	 {
 		"name": "alien_m0",
-		"src": "tank_parts/colorings/blood.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/blood.jpg"
 	 },	
 	 {
 		"name": "alien_m0_preview",
-		"src": "item/preview/coloring_alien.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_alien.png"
 	 },	
 	 {
 		"name": "safari_m0",
-		"src": "tank_parts/colorings/zebra.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/zebra.jpg"
 	 },	
 	 {
 		"name": "safari_m0_preview",
-		"src": "item/preview/coloring_safari.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_safari.png"
 	 },	
 	 {
 		"name": "winter_m0",
-		"src": "tank_parts/colorings/cm3.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cm3.jpg"
 	 },	
 	 {
 		"name": "winter_m0_preview",
-		"src": "item/preview/coloring_winter.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_winter.png"
 	 },	
 	 {
 		"name": "tundra_m0",
-		"src": "tank_parts/colorings/cm2.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cm2.jpg"
 	 },
 	 {
 		"name": "tundra_m0_preview",
-		"src": "item/preview/coloring_tundra.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_tundra.png"
 	 },
 	 {
 		"name": "roger_m0",
-		"src": "tank_parts/colorings/greenskulls.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/greenskulls.jpg"
 	 },	
 	 {
 		"name": "roger_m0_preview",
-		"src": "item/preview/coloring_roger.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_roger.png"
 	 },	
 	 {
 		"name": "dragon_m0",
-		"src": "tank_parts/colorings/lizard.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/lizard.jpg"
 	 },
 	 {
 		"name": "dragon_m0_preview",
-		"src": "item/preview/coloring_dragon.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_dragon.png"
 	 },
 	 {
 		"name": "electra_m0",
-		"src": "tank_parts/colorings/levin.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/levin.jpg"
 	 },	
 	 {
 		"name": "electra_m0_preview",
-		"src": "item/preview/coloring_electra.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_electra.png"
 	 },	
 	 {
 		"name": "digital_m0",
-		"src": "tank_parts/colorings/cm1.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cm1.jpg"
 	 },
 	 {
 		"name": "digital_m0_preview",
-		"src": "item/preview/coloring_digital.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_digital.png"
 	 },
 	 {
 		"name": "jaguar_m0",
-		"src": "tank_parts/colorings/leo.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/leo.jpg"
 	 },
 	 {
 		"name": "jaguar_m0_preview",
-		"src": "item/preview/coloring_jaguar.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_jaguar.png"
 	 },
 	 {
 		"name": "hohloma_m0",
-		"src": "tank_parts/colorings/hohloma.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/hohloma.jpg"
 	 },	
 	 {
 		"name": "hohloma_m0_preview",
-		"src": "item/preview/coloring_hohloma.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_hohloma.png"
 	 },	
 	 {
 		"name": "rustle_m0",
-		"src": "tank_parts/colorings/rustle.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/rustle.jpg"
 	 },		
 	 {
 		"name": "rustle_m0_preview",
-		"src": "item/preview/coloring_rustle.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_rustle.png"
 	 },		
 	 {
 		"name": "mary_m0",
-		"src": "tank_parts/colorings/mary.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/mary.jpg"
 	 },	
 	 {
 		"name": "mary_m0_preview",
-		"src": "item/preview/coloring_mary.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_mary.png"
 	 },	
 	 {
 		"name": "swash_m0",
-		"src": "tank_parts/colorings/swash.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/swash.jpg"
 	 },
 	 {
 		"name": "swash_m0_preview",
-		"src": "item/preview/coloring_swash.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_swash.png"
 	 },	
 	 {
 		"name": "storm_m0",
-		"src": "tank_parts/colorings/storm.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/storm.jpg"
 	 },
 	 {
 		"name": "storm_m0_preview",
-		"src": "item/preview/coloring_storm.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_storm.png"
 	 },
 	 {
 		"name": "corrosion_m0",
-		"src": "tank_parts/colorings/corrosion.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/corrosion.jpg"
 	 },	
 	 {
 		"name": "corrosion_m0_preview",
-		"src": "item/preview/coloring_corrosion.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_corrosion.png"
 	 },	
 	 {
 		"name": "loam_m0",
-		"src": "tank_parts/colorings/loam.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/loam.jpg"
 	 },
 	 {
 		"name": "loam_m0_preview",
-		"src": "item/preview/coloring_loam.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_loam.png"
 	 },
 	 {
 		"name": "python_m0",
-		"src": "tank_parts/colorings/python.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/python.jpg"
 	 },
 	 {
 		"name": "python_m0_preview",
-		"src": "item/preview/coloring_python.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_python.png"
 	 },
 	 {
 		"name": "spark_m0",
-		"src": "tank_parts/colorings/spark.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/spark.jpg"
 	 },	
 	 {
 		"name": "spark_m0_preview",
-		"src": "item/preview/coloring_spark.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_spark.png"
 	 },	
 	 {
 		"name": "taiga_m0",
-		"src": "tank_parts/colorings/taiga.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/taiga.jpg"
 	 },		
 	 {
 		"name": "taiga_m0_preview",
-		"src": "item/preview/coloring_taiga.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_taiga.png"
 	 },		
 	 {
 		"name": "cedar_m0",
-		"src": "tank_parts/colorings/cedar.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/cedar.jpg"
 	 },	
 	 {
 		"name": "cedar_m0_preview",
-		"src": "item/preview/coloring_cedar.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_cedar.png"
 	 },	
 	 {
 		"name": "sandstone_m0",
-		"src": "tank_parts/colorings/sandstone.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/sandstone.jpg"
 	 },	
 	 {
 		"name": "sandstone_m0_preview",
-		"src": "item/preview/coloring_sandstone.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_sandstone.png"
 	 },	
 	 {
 		"name": "lead_m0",
-		"src": "tank_parts/colorings/lead.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/lead.jpg"
 	 },		
 	 {
 		"name": "lead_m0_preview",
-		"src": "item/preview/coloring_lead.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_lead.png"
 	 },		
 	 {
 		"name": "prodigi_m0",
-		"src": "tank_parts/colorings/prodigi.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/prodigi.jpg"
 	 },	
 	 {
 		"name": "prodigi_m0_preview",
-		"src": "item/preview/coloring_prodigi.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_prodigi.png"
 	 },	
 	 {
 		"name": "clay_m0",
-		"src": "tank_parts/colorings/clay.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/clay.jpg"
 	 },	
 	 {
 		"name": "clay_m0_preview",
-		"src": "item/preview/coloring_clay.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_clay.png"
 	 },	
 	 {
 		"name": "rock_m0",
-		"src": "tank_parts/colorings/rock.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/rock.jpg"
 	 },
 	 {
 		"name": "rock_m0_preview",
-		"src": "item/preview/coloring_rock.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_rock.png"
 	 },
 	 {
 		"name": "needle_m0",
-		"src": "tank_parts/colorings/needle.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/needle.jpg"
 	 },	
 	 {
 		"name": "needle_m0_preview",
-		"src": "item/preview/coloring_needle.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_needle.png"
 	 },	
 	 {
 		"name": "irbis_m0",
-		"src": "tank_parts/colorings/irbis.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/irbis.jpg"
 	 },	
 	 {
 		"name": "irbis_m0_preview",
-		"src": "item/preview/coloring_irbis.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_irbis.png"
 	 },	
 	 {
 		"name": "emerald_m0",
-		"src": "tank_parts/colorings/emerald.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/emerald.jpg"
 	 },	
 	 {
 		"name": "emerald_m0_preview",
-		"src": "item/preview/coloring_emerald.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_emerald.png"
 	 },	
 	 {
 		"name": "picasso_m0",
-		"src": "tank_parts/colorings/picasso.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/picasso.jpg"
 	 },	
 	 {
 		"name": "picasso_m0_preview",
-		"src": "item/preview/coloring_picasso.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_picasso.png"
 	 },	
 	 {
 		"name": "zeus_m0",
-		"src": "tank_parts/colorings/zeus.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/zeus.jpg"
 	 },	
 	 {
 		"name": "zeus_m0_preview",
-		"src": "item/preview/coloring_zeus.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_zeus.png"
 	 },	
 	 {
 		"name": "inferno_m0",
-		"src": "tank_parts/colorings/inferno.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/inferno.jpg"
 	 },
 	 {
 		"name": "inferno_m0_preview",
-		"src": "item/preview/coloring_inferno.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_inferno.png"
 	 },	
 	 {
 		"name": "lord_m0",
-		"src": "tank_parts/colorings/lord.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/lord.jpg"
 	 },
 	 {
 		"name": "lord_m0_preview",
-		"src": "item/preview/coloring_lord.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_lord.png"
 	 },	
 	 {
 		"name": "champion_m0",
-		"src": "tank_parts/colorings/champion.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/champion.jpg"
 	 },
 	 {
 		"name": "champion_m0_preview",
-		"src": "item/preview/coloring_champion.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_champion.png"
 	 },	
 	 {
 		"name": "traceur_m0",
-		"src": "tank_parts/colorings/traceur.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/traceur.jpg"
 	 },
 	 {
 		"name": "traceur_m0_preview",
-		"src": "item/preview/coloring_traceur.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_traceur.png"
 	 },	
      {
 		"name": "aero_m0",
-	    "src": "tank_parts/colorings/aero.jpg"
+	    "src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/aero.jpg"
 	 },
 	 {
 		"name": "aero_m0_preview",
-		"src": "item/preview/coloring_aero.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_aero.png"
 	 },	 
 	 {
 		"name": "helios_m0",
-		"src": "tank_parts/colorings/helios.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/helios.jpg"
 	 },
 	 {
 		"name": "helios_m0_preview",
-		"src": "item/preview/coloring_helios.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_helios.png"
 	 },	
 	 {
 		"name": "acid_m0",
-		"src": "tank_parts/colorings/acid.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/acid.jpg"
 	 },
 	 {
 		"name": "acid_m0_preview",
-		"src": "item/preview/coloring_acid.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_acid.png"
 	 },	
 	{
 		"name": "moonwalker_m0",
-		"src": "tank_parts/colorings/moonwalker.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/moonwalker.jpg"
 	},
 	{
 		"name": "moonwalker_m0_preview",
-		"src": "item/preview/coloring_moonwalker.png?v=2"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_moonwalker.png?v=2"
 	},
 	 {
 		"name": "tot_m0",
-		"src": "tank_parts/colorings/tot.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/tot.jpg"
 	 },
 	 {
 		"name": "tot_m0_preview",
-		"src": "item/preview/coloring_tot.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_tot.png"
 	 },	
 	 {
 		"name": "spectator_m0",
-		"src": "tank_parts/colorings/spectator.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/spectator.jpg"
 	 },
 	 {
 		"name": "spectator_m0_preview",
-		"src": "item/preview/coloring_spectator.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_spectator.png"
 	 },
 	 {
 		"name": "jade_m0",
-		"src": "tank_parts/colorings/jade.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/jade.jpg"
 	 },	
 	 {
 		"name": "jade_m0_preview",
-		"src": "item/preview/coloring_jade.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_jade.png"
 	 },	
 	 {
 		"name": "gladiator_m0",
-		"src": "tank_parts/colorings/gladiator.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/gladiator.jpg"
 	 },	
 	 {
 		"name": "gladiator_m0_preview",
-		"src": "item/preview/coloring_gladiator.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_gladiator.png"
 	 },	
 	 {
 		"name": "silver_m0",
-		"src": "tank_parts/colorings/silver.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/silver.jpg"
 	 },	
 	 {
 		"name": "silver_m0_preview",
-		"src": "item/preview/coloring_silver.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_silver.png"
 	 },	
 	 {
 		"name": "bronze_m0",
-		"src": "tank_parts/colorings/bronze.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/bronze.jpg"
 	 },	
 	 {
 		"name": "bronze_m0_preview",
-		"src": "item/preview/coloring_bronze.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_bronze.png"
 	 },	
 	 {
 		"name": "star_m0",
-		"src": "tank_parts/colorings/star.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/star.jpg"
 	 },	
 	 {
 		"name": "star_m0_preview",
-		"src": "item/preview/coloring_star.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_star.png"
 	 },	
 	 {
 		"name": "lucky7_m0",
-		"src": "tank_parts/colorings/lucky7.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/lucky7.jpg"
 	 },	
 	 {
 		"name": "lucky7_m0_preview",
-		"src": "item/preview/coloring_lucky7.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_lucky7.png"
 	 },	
 	 {
 		"name": "veteran_m0",
-		"src": "tank_parts/colorings/veteran.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/veteran.jpg"
 	 },	
 	 {
 		"name": "veteran_m0_preview",
-		"src": "item/preview/coloring_veteran.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_veteran.png"
 	 },	
 	 {
 		"name": "reporter_m0",
-		"src": "tank_parts/colorings/wastepaper.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/wastepaper.jpg"
 	 },	
 	 {
 		"name": "reporter_m0_preview",
-		"src": "item/preview/coloring_wastepaper.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_wastepaper.png"
 	 },	
 	 {
 		"name": "alligator_m0",
-		"src": "tank_parts/colorings/alligator.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/alligator.jpg"
 	 },	
 	 {
 		"name": "alligator_m0_preview",
-		"src": "item/preview/coloring_alligator.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_alligator.png"
 	 },	
 	 {
 		"name": "tester_m0",
-		"src": "tank_parts/colorings/tester.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/tester.jpg"
 	 },	
 	 {
 		"name": "tester_m0_preview",
-		"src": "item/preview/coloring_tester.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_tester.png"
 	 },	
 	 {
 		"name": "microchip_m0",
-		"src": "tank_parts/colorings/micro.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/micro.jpg"
 	 },	
 	 {
 		"name": "microchip_m0_preview",
-		"src": "item/preview/coloring_micro.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_micro.png"
 	 },	
 	 {
 		"name": "flame_m0",
-		"src": "tank_parts/colorings/flame.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/flame.jpg"
 	 },	
 	 {
 		"name": "flame_m0_preview",
-		"src": "item/preview/coloring_flame.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_flame.png"
 	 },	
 	 {
 		"name": "ruby_m0",
-		"src": "tank_parts/colorings/ruby.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/ruby.jpg"
 	 },	
 	 {
 		"name": "ruby_m0_preview",
-		"src": "item/preview/coloring_ruby.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_ruby.png"
 	 },	
 	 {
 		"name": "aramid_m0",
-		"src": "tank_parts/colorings/aramid.jpg"
+		"src": "https://old-tanks.github.io/2010/resources/tank_parts/colorings/aramid.jpg"
 	 },	
 	 {
 		"name": "aramid_m0_preview",
-		"src": "item/preview/coloring_aramid.png"
+		"src": "https://old-tanks.github.io/2010/resources/item/preview/coloring_aramid.png"
 	 },	
 	 {
 		"name": "cords",
-		"src": "bonuses/cords.png?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/cords.png?v1"
 	 }, 
 	 {
 		"name": "parachute",
-		"src": "bonuses/parachutes/parachute1/para.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/parachutes/parachute1/para.jpg?v1"
 	 }, 
 	 {
 		"name": "parachute_inner",
-		"src": "bonuses/parachutes/parachute1_inner/para_in.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/parachutes/parachute1_inner/para_in.jpg?v1"
+	 }, 
+	 {
+		"name": "bonus_box_money",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/money/box.jpg?v1"
+	 }, 
+	 {
+		"name": "bonus_box_megagold",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal1000/box.jpg?v1"
 	 }, 
 	 {
 		"name": "bonus_box_gold",
-		"src": "bonuses/boxes/crystal100/box.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal100/box.jpg?v1"
 	 }, 
 	 {
 		"name": "bonus_box_crystall",
-		"src": "bonuses/boxes/crystal/box.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal/box.jpg?v1"
 	 }
 	 , 
 	 {
 		"name": "bonus_box_armor",
-		"src": "bonuses/boxes/armor/box_armr.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/armor/box_armr.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_health",
-		"src": "bonuses/boxes/med/box_med.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/med/box_med.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_damage",
-		"src": "bonuses/boxes/shot/box_shot.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/shot/box_shot.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_nitro",
-		"src": "bonuses/boxes/nos/box_nos.jpg?v1"
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/nos/box_nos.jpg?v1"
+	 },
+	 {
+		"name": "bonus_box_repair",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/repair/repair.jpg?v1"
+	 },
+	 {
+		"name": "bonus_box_holiday_crystall_2",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
+	 }, 
+	 {
+		"name": "bonus_box_holiday_crystall_5",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
+	 }, 
+	 {
+		"name": "bonus_box_holiday_armor",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
+	 },
+	 {
+		"name": "bonus_box_holiday_health",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
+	 },
+	 {
+		"name": "bonus_box_holiday_damage",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
+	 },
+	 {
+		"name": "bonus_box_holiday_nitro",
+		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.jpg?v1"
 	 },
 	{
 	"name": "map_2042_preview",
-	"src": "maps/map_2042_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_2042_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_2042_old_preview",
-	"src": "maps/map_2042_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_2042_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_abyss_preview",
-	"src": "maps/map_abyss_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_abyss_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_abyss_old_preview",
-	"src": "maps/map_abyss_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_abyss_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_abyss_v.1.1_preview",
-	"src": "maps/map_abyss_v.1.1_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_abyss_v.1.1_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_arena_preview",
-	"src": "maps/map_arena_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_arena_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_arena_space_preview",
-	"src": "maps/map_arena_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_arena_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_atra_preview",
-	"src": "maps/map_atra_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_atra_space_preview",
-	"src": "maps/map_atra_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_alpha_preview",
-	"src": "maps/map_alpha_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_alpha_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_babylon_preview",
-	"src": "maps/map_babylon_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_babylon_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_happy_new_year_preview.jpg",
-	"src": "maps/map_happy_new_year_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_happy_new_year_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_happy_new_year2012_preview.jpg",
-	"src": "maps/map_happy_new_year2012_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_happy_new_year2012_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_barda_preview",
-	"src": "maps/map_barda_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_barda_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_berlin_preview",
-	"src": "maps/map_berlin_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_berlin_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_berlin_quest_preview",
-	"src": "maps/map_berlin_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_berlin_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_big_preview",
-	"src": "maps/map_big_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_big_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_big_old_preview",
-	"src": "maps/map_big_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_big_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_bobruisk_preview",
-	"src": "maps/map_bobruisk_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_bobruisk_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_boombox_preview",
-	"src": "maps/map_boombox_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_boombox_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_boombox_2_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_boombox_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_brest_2_preview",
-	"src": "maps/map_brest_2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_brest_2_old_preview",
-	"src": "maps/map_brest_2_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_2_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_brest_preview",
-	"src": "maps/map_brest_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_bridges_preview",
-	"src": "maps/map_bridges_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_bridges_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_camp_preview",
-	"src": "maps/map_camp_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_camp_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_camp_space_preview",
-	"src": "maps/map_camp_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_camp_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_canyon_preview",
-	"src": "maps/map_canyon_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_canyon_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_canyon_old_preview",
-	"src": "maps/map_canyon_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_canyon_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_cave_preview",
-	"src": "maps/map_cave_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_cave_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_cliffs_preview",
-	"src": "maps/map_cliffs_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_cliffs_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_combe_preview",
-	"src": "maps/map_combe_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_combe_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_courage_preview",
-	"src": "maps/map_courage_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_courage_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_crash_preview",
-	"src": "maps/map_crash_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_crash_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_crossfire_preview",
-	"src": "maps/map_crossfire_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_crossfire_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_cross_preview",
-	"src": "maps/map_cross_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_cross_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_hes_preview",
-	"src": "maps/map_hes_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_hes_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_crossroad_preview",
-	"src": "maps/map_crossroad_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_crossroad_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_crossroad_winter_preview",
-	"src": "maps/map_crossroad_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_crossroad_winter_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_deathtrack_preview",
-	"src": "maps/map_deathtrack_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deathtrack_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_deathtrack_test_preview",
-	"src": "maps/map_deathtrack_test_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deathtrack_test_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_deck9_preview",
-	"src": "maps/map_deck9_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deck9_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_deck9_old_preview",
-	"src": "maps/map_deck9_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deck9_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_desert_preview",
-	"src": "maps/map_desert_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_desert_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_siams_preview",
-	"src": "maps/map_siams_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_siams_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_duel_preview",
-	"src": "maps/map_duel_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duel_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_dukebox_preview",
-	"src": "maps/map_dukebox_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_dukebox_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_duke_preview",
-	"src": "maps/map_duke_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duke_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_dusseldorf_preview",
-	"src": "maps/map_dusseldorf_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_dusseldorf_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_esplanade_preview",
-	"src": "maps/map_esplanade_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_esplanade_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_esplanade_old_preview",
-	"src": "maps/map_esplanade_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_esplanade_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_factory_preview",
-	"src": "maps/map_factory_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_factory_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_factory_old_preview",
-	"src": "maps/map_factory_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_factory_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_farm_preview",
-	"src": "maps/map_farm_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_farm_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_farm_old_preview",
-	"src": "maps/map_farm_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_farm_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_forest_preview",
-	"src": "maps/map_forest_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_forest_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_fortknox_preview",
-	"src": "maps/map_fortknox_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknox_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_fortknox_old_preview",
-	"src": "maps/map_fortknox_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknox_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_fort_knox_III_preview",
-	"src": "maps/map_fort_knox_III_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fort_knox_III_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_fort_knox_III_old_preview",
-	"src": "maps/map_fort_knox_III_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fort_knox_III_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_frostbattle_preview",
-	"src": "maps/map_frostbattle_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_frostbattle_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_garder_preview",
-	"src": "maps/map_garder_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_garder_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_gravity_preview",
-	"src": "maps/map_gravity_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gravity_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_gravity_space_preview",
-	"src": "maps/map_gravity_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gravity_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_gubakha_preview",
-	"src": "maps/map_gubakha_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gubakha_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_hangars_preview",
-	"src": "maps/map_hangars_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_hangars_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_hangars_old_preview",
-	"src": "maps/map_hangars_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_hangars_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_highland_II_preview",
-	"src": "maps/map_highland_II_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_II_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_highland_II_old_preview",
-	"src": "maps/map_highland_II_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_II_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_highland_old_preview",
-	"src": "maps/map_highland_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_highland_preview",
-	"src": "maps/map_highland_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_highland_v.1.1_preview",
-	"src": "maps/map_highland_v.1.1_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_v.1.1_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_plato_preview",
-	"src": "maps/map_plato_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_plato_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_hill_preview",
-	"src": "maps/map_hill_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_hill_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_industrial_zone_preview",
-	"src": "maps/map_industrial_zone_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_industrial_zone_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_industrial_zone20_preview",
-	"src": "maps/map_industrial_zone20_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_industrial_zone20_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_iran_preview",
-	"src": "maps/map_iran_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_iran_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_iran_old_preview",
-	"src": "maps/map_iran_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_iran_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_iran_winter_preview",
-	"src": "maps/map_iran_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_iran_winter_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_island_preview",
-	"src": "maps/map_island_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_island_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_kolhoz_preview",
-	"src": "maps/map_kolhoz_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kolhoz_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_kolhoz_old_preview",
-	"src": "maps/map_kolhoz_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kolhoz_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_kungur_preview",
-	"src": "maps/map_kungur_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kungur_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_losttemple_preview",
-	"src": "maps/map_losttemple_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_losttemple_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_losttemple_old_preview",
-	"src": "maps/map_losttemple_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_losttemple_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_madness_preview",
-	"src": "maps/map_madness_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_madness_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_madness_space_preview",
-	"src": "maps/map_madness_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_madness_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_madness_ctf_preview",
-	"src": "maps/map_madness_ctf_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_madness_ctf_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_madness_dm_preview",
-	"src": "maps/map_madness_dm_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_madness_dm_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_madness_old_preview",
-	"src": "maps/map_madness_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_madness_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_magadan_preview",
-	"src": "maps/map_magadan_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_magadan_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_magistral_preview",
-	"src": "maps/map_magistral_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_magistral_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_massacre_preview",
-	"src": "maps/map_massacre_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_massacre_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_megaprops1_preview",
-	"src": "maps/map_megaprops1_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_megaprops1_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_middle_preview",
-	"src": "maps/map_middle_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_middle_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_molotov_preview",
-	"src": "maps/map_molotov_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_molotov_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_molotov_old_preview",
-	"src": "maps/map_molotov_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_molotov_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_montecarlo_preview",
-	"src": "maps/map_montecarlo_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_montecarlo_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_montecarlo_space_preview",
-	"src": "maps/map_montecarlo_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_montecarlo_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_montecarlo_old_preview",
-	"src": "maps/map_montecarlo_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_montecarlo_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_deathtrack_old_preview",
-	"src": "maps/map_deathtrack_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deathtrack_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_new_sandbox_preview",
-	"src": "maps/map_new_sandbox_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_new_sandbox_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_new_tribute_preview",
-	"src": "maps/map_new_tribute_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_new_tribute_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_noise_preview",
-	"src": "maps/map_noise_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_noise_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_noise_old_preview",
-	"src": "maps/map_noise_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_noise_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_noob_preview",
-	"src": "maps/map_noob_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_noob_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_novel_preview",
-	"src": "maps/map_novel_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_novel_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_novel20_preview",
-	"src": "maps/map_novel20_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_novel20_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_opposition_preview",
-	"src": "maps/map_opposition_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_opposition_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_opposition_old_preview",
-	"src": "maps/map_opposition_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_opposition_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_osa_preview",
-	"src": "maps/map_osa_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_osa_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_parma_preview",
-	"src": "maps/map_parma_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_parma_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pass_preview",
-	"src": "maps/map_pass_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pass_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pass_old_preview",
-	"src": "maps/map_pass_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pass_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pereval_preview",
-	"src": "maps/map_pereval_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pereval_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pereval_v.1.1_preview",
-	"src": "maps/map_pereval_v.1.1_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pereval_v.1.1_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pereval_v.1.2b_preview",
-	"src": "maps/map_pereval_v.1.2b_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pereval_v.1.2b_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pereval_v.1.2_preview",
-	"src": "maps/map_pereval_v.1.2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pereval_v.1.2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_pingpong_preview",
-	"src": "maps/map_pingpong_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pingpong_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_polygon_preview",
-	"src": "maps/map_polygon_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_polygon_old_preview",
-	"src": "maps/map_polygon_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_dm2_preview",
-	"src": "maps/map_dm2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_dm2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_polygon_ctf_preview",
-	"src": "maps/map_polygon_ctf_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon_ctf_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_position_preview",
-	"src": "maps/map_position_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_position_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_raven_preview",
-	"src": "maps/map_raven_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_raven_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_redalert_preview",
-	"src": "maps/map_redalert_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_redalert_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_redalert_old_preview",
-	"src": "maps/map_redalert_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_redalert_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_remake_preview",
-	"src": "maps/map_remake_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_remake_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_sandal_preview",
-	"src": "maps/map_sandal_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandal_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_sandal_2_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandal_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_sandbox_preview",
-	"src": "maps/map_sandbox_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandbox_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_sandbox_2_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandbox_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_scope_preview",
-	"src": "maps/map_scope_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_scope_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_scope_old_preview",
-	"src": "maps/map_scope_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_scope_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_serpuhov_preview",
-	"src": "maps/map_serpuhov_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_serpuhov_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_serpuhov_old_preview",
-	"src": "maps/map_serpuhov_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_serpuhov_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_shortbridge_preview",
-	"src": "maps/map_shortbridge_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_shortbridge_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_shortbridge_2_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_shortbridge_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_siege_preview",
-	"src": "maps/map_siege_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_siege_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_silence_preview",
-	"src": "maps/map_silence_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_silence20_preview",
-	"src": "maps/map_silence20_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence20_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_silence_old_preview",
-	"src": "maps/map_silence_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_skylark_preview",
-	"src": "maps/map_skylark_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_skylark_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_skylark_quest_preview",
-	"src": "maps/map_skylark_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_skylark_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_skylark_old_preview",
-	"src": "maps/map_skylark_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_skylark_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_solikamsk_preview",
-	"src": "maps/map_solikamsk_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_solikamsk_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_solikamsk_old_preview",
-	"src": "maps/map_solikamsk_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_solikamsk_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_stadium_preview",
-	"src": "maps/map_stadium_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_stadium_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_stadium_space_preview",
-	"src": "maps/map_stadium_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_stadium_space_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_stadium_old_preview",
-	"src": "maps/map_stadium_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_stadium_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_station_preview",
-	"src": "maps/map_station_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_station_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_station_old_preview",
-	"src": "maps/map_station_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_station_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_subway_preview",
-	"src": "maps/map_subway_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_subway_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_subway_old_preview",
-	"src": "maps/map_subway_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_subway_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_tankball_preview",
-	"src": "maps/map_tankball_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_tankball_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_testing_ground_1",
-	"src": "maps/map_testing_ground_1.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1.jpg?v120"
+	}
+	,
+	{
+	"name": "map_testing_ground_1_v.1.0_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1_v.1.0_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_testing_ground_1_v.1.1_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1_v.1.1_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_testing_ground_1_v.1.2_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1_v.1.2_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_testing_ground_1_old_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_test_new_preview",
-	"src": "maps/map_test_new_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_test_new_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_test_preview",
-	"src": "maps/map_test_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_test_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_tribute_preview",
-	"src": "maps/map_tribute_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_tribute_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_valley_preview",
-	"src": "maps/map_valley_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_valley_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_valley_quest_preview",
-	"src": "maps/map_valley_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_valley_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_valley_old_preview",
-	"src": "maps/map_valley_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_valley_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_wave_preview",
-	"src": "maps/map_wave_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wave_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_wolfenstein_preview",
-	"src": "maps/map_wolfenstein_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wolfenstein_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_wolfenstein_old_preview",
-	"src": "maps/map_wolfenstein_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wolfenstein_old_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_zone_preview",
-	"src": "maps/map_zone_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_zone_preview.jpg?v120"
 	},
 	{
 	"name": "map_zone20_preview",
-	"src": "maps/map_zone20_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_zone20_preview.jpg?v120"
 	},
 	{
 	"name": "map_fortknoxII_preview",
-	"src": "maps/map_fortknoxII_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknoxII_preview.jpg?v120"
 	},
 	{
 	"name": "map_carrousel_preview",
-	"src": "maps/map_carrousel_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_carrousel_preview.jpg?v120"
 	},
 	{
 	"name": "map_carrousel_old_preview",
-	"src": "maps/map_carrousel_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_carrousel_old_preview.jpg?v120"
 	},
 	{
 	"name": "map_testing_ground_4_preview",
-	"src": "maps/map_testing_ground_4_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_4_preview.jpg?v120"
 	},
 	{
 	"name": "map_testing_ground_3_preview",
-	"src": "maps/map_testing_ground_3_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_3_preview.jpg?v120"
 	},
 	{
 	"name": "map_testing_ground_2_preview",
-	"src": "maps/map_testing_ground_2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_2_preview.jpg?v120"
 	},
 	{
 	"name": "map_testing_ground_1_preview",
-	"src": "maps/map_testing_ground_1.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_testing_ground_1.jpg?v120"
 	},
 	{
 	"name": "map_flying_test_preview",
-	"src": "maps/map_cave_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_cave_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_II_preview",
-	"src": "maps/map_silence_II_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_II_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_II_evening_preview",
-	"src": "maps/map_silence_II_evening_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_II_evening_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_v.1.0_preview",
-	"src": "maps/map_silence_v.1.0_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_v.1.0_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_v.1.1_preview",
-	"src": "maps/map_silence_v.1.1_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_v.1.1_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_v.1.2_preview",
-	"src": "maps/map_silence_v.1.2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_v.1.2_preview.jpg?v120"
 	},
 	{
 	"name": "map_silence_II_old_preview",
-	"src": "maps/map_silence_II_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_II_old_preview.jpg?v120"
 	},
 	{
 	"name": "map_gladiator_preview",
-	"src": "maps/map_gladiator_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gladiator_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_kungur_remake_preview",
-	"src": "maps/map_kungur_remake_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kungur_remake_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_labyrinth_preview",
-	"src": "maps/map_labyrinth_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_labyrinth_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_labirint_preview",
-	"src": "maps/map_labirint_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_labirint_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_mini_brest_preview",
-	"src": "maps/map_minibrest_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_minibrest_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_newprops_2_preview",
-	"src": "maps/map_newprops_2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_newprops_2_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_newprops_preview",
-	"src": "maps/map_newprops_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_newprops_preview.jpg?v120"
 	}
 	,
 	{
 	"name": "map_ruins_preview",
-	"src": "maps/map_ruins_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_ruins_preview.jpg?v120"
 	},
 	{
 	"name": "map_neboskreb_preview",
-	"src": "maps/map_neboskreb_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_neboskreb_preview.jpg?v120"
 	},
 	{
 	"name": "map_plant_preview",
-	"src": "maps/map_plant_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_plant_preview.jpg?v120"
 	},
 	{
 	"name": "map_polygon2_preview",
-	"src": "maps/map_polygon2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon2_preview.jpg?v120"
 	},
 	{
 	"name": "map_canyon_figishe_preview",
-	"src": "maps/map_canyon_figishe_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_canyon_figishe_preview.jpg?v120"
 	},
 	{
 	"name": "map_resheto_preview",
-	"src": "maps/map_resheto_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_resheto_preview.jpg?v120"
 	},
 	{
 	"name": "map_rov_preview",
-	"src": "maps/map_rov_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_rov_preview.jpg?v120"
 	},
 	{
 	"name": "map_mountain_preview",
-	"src": "maps/map_mountain_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_mountain_preview.jpg?v120"
 	},
 	{
 	"name": "map_mountain2_preview",
-	"src": "maps/map_mountain2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_mountain2_preview.jpg?v120"
 	},
 	{
 	"name": "map_gorodok_preview",
-	"src": "maps/map_gorodok_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gorodok_preview.jpg?v120"
 	},
 	{
 	"name": "map_eldorado_preview",
-	"src": "maps/map_eldorado_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_eldorado_preview.jpg?v120"
 	},
 	{
 	"name": "map_the_street_preview",
-	"src": "maps/map_the_street_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_the_street_preview.jpg?v120"
 	},
 	{
 	"name": "map_quartet_preview",
-	"src": "maps/map_quartet_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_quartet_preview.jpg?v120"
 	},
 	{
 	"name": "map_vladislavich_preview",
-	"src": "maps/map_vladislavich_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_vladislavich_preview.jpg?v120"
 	},
 	{
 	"name": "map_arena_2_preview",
-	"src": "maps/map_arena_2.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_arena_2.jpg?v120"
 	},
 	{
 	"name": "map_astrella_preview",
-	"src": "maps/map_astrella.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_astrella.jpg?v120"
 	},
 	{
 	"name": "map_atra_2_preview",
-	"src": "maps/map_atra_2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_2_preview.jpg?v120"
 	},
 	{
 	"name": "map_atra_2_old_preview",
-	"src": "maps/map_atra_2_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_2_old_preview.jpg?v120"
 	},
 	{
 	"name": "map_atra-2_preview",
-	"src": "maps/map_atra-2_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra-2_preview.jpg?v120"
 	},
 	{
 	"name": "map_chernobyl_preview",
-	"src": "maps/map_chernobyl_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_chernobyl_preview.jpg?v120"
 	},
 	{
 	"name": "map_citadel_preview",
-	"src": "maps/map_citadel_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_citadel_preview.jpg?v120"
 	},
 	{
 	"name": "map_duality_preview",
-	"src": "maps/map_duality_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duality_preview.jpg?v120"
 	},
 	{
 	"name": "map_duality_old_preview",
-	"src": "maps/map_duality_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duality_old_preview.jpg?v120"
 	},
 	{
 	"name": "map_highways_preview",
-	"src": "maps/map_highways_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highways_preview.jpg?v120"
 	},
 	{
 	"name": "map_kingdom_preview",
-	"src": "maps/map_kingdom_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kingdom_preview.jpg?v120"
 	},
 	{
 	"name": "map_kingdom_space_preview",
-	"src": "maps/map_kingdom_space_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kingdom_space_preview.jpg?v120"
 	},
 	{
 	"name": "map_rift_preview",
-	"src": "maps/map_rift_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_rift_preview.jpg?v120"
 	},
 	{
 	"name": "map_rift_old_preview",
-	"src": "maps/map_rift_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_rift_old_preview.jpg?v120"
 	},
 	{
 	"name": "map_halloween_preview",
-	"src": "maps/map_halloween_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_halloween_preview.jpg?v120"
 	},
 	{
 	"name": "map_persia_preview",
-	"src": "maps/map_persia_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_persia_preview.jpg?v120"
 	},
 	{
 	"name": "map_seaport_preview",
-	"src": "maps/map_seaport_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_seaport_preview.jpg?v120"
 	},
 	{
 	"name": "map_podium_preview",
-	"src": "maps/map_podium_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_podium_preview.jpg?v120"
 	},
 	{
 	"name": "map_arena_winter_preview",
-	"src": "maps/map_arena_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_arena_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_atra_2_winter_preview",
-	"src": "maps/map_atra_2_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_2_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_atra_2_old_winter_preview",
-	"src": "maps/map_atra_2_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_2_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_atra_winter_preview",
-	"src": "maps/map_atra_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_atra_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_barda_winter_preview",
-	"src": "maps/map_barda_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_barda_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_berlin_winter_preview",
-	"src": "maps/map_berlin_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_berlin_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_bobruisk_winter_preview",
-	"src": "maps/map_bobruisk_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_bobruisk_winter_preview.jpg?v120"
 	},						
 	{
 	"name": "map_boombox_winter_preview",
-	"src": "maps/map_boombox_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_boombox_winter_preview.jpg?v120"
+	},		
+	{
+	"name": "map_boombox_2_winter_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_boombox_2_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_brest_2_winter_preview",
-	"src": "maps/map_brest_2_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_2_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_brest_2_old_winter_preview",
-	"src": "maps/map_brest_2_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_2_old_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_brest_winter_preview",
-	"src": "maps/map_brest_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_brest_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_bridges_winter_preview",
-	"src": "maps/map_bridges_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_bridges_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_camp_winter_preview",
-	"src": "maps/map_camp_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_camp_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_canyon_winter_preview",
-	"src": "maps/map_canyon_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_canyon_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_canyon_old_winter_preview",
-	"src": "maps/map_canyon_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_canyon_old_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_chernobyl_winter_preview",
-	"src": "maps/map_chernobyl_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_chernobyl_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_combe_winter_preview",
-	"src": "maps/map_combe_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_combe_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_courage_winter_preview",
-	"src": "maps/map_courage_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_courage_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_deathtrack_winter_preview",
-	"src": "maps/map_deathtrack_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deathtrack_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_deck9_winter_preview",
-	"src": "maps/map_deck9_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deck9_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_deck9_old_winter_preview",
-	"src": "maps/map_deck9_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_deck9_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_duality_winter_preview",
-	"src": "maps/map_duality_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duality_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_duality_old_winter_preview",
-	"src": "maps/map_duality_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duality_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_duel_winter_preview",
-	"src": "maps/map_duel_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_duel_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_dusseldorf_winter_preview",
-	"src": "maps/map_dusseldorf_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_dusseldorf_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_farm_winter_preview",
-	"src": "maps/map_farm_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_farm_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_farm_old_winter_preview",
-	"src": "maps/map_farm_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_farm_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_forest_winter_preview",
-	"src": "maps/map_forest_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_forest_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_fortknox_winter_preview",
-	"src": "maps/map_fortknox_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknox_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_fortknox_old_winter_preview",
-	"src": "maps/map_fortknox_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknox_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_fortknox_II_winter_preview",
-	"src": "maps/map_fortknox_II_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fortknox_II_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_garder_winter_preview",
-	"src": "maps/map_garder_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_garder_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_gravity_winter_preview",
-	"src": "maps/map_gravity_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gravity_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_gubakha_winter_preview",
-	"src": "maps/map_gubakha_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_gubakha_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_highland_II_winter_preview",
-	"src": "maps/map_highland_II_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_II_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_highland_II_old_winter_preview",
-	"src": "maps/map_highland_II_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_II_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_highland_winter_preview",
-	"src": "maps/map_highland_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highland_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_highways_winter_preview",
-	"src": "maps/map_highways_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_highways_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_industrial_zone_winter_preview",
-	"src": "maps/map_industrial_zone_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_industrial_zone_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_island_winter_preview",
-	"src": "maps/map_island_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_island_winter_preview.jpg?v120"
 	} ,	
 	{
 	"name": "map_kolhoz_winter_preview",
-	"src": "maps/map_kolhoz_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kolhoz_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_kolhoz_old_winter_preview",
-	"src": "maps/map_kolhoz_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kolhoz_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_kungur_winter_preview",
-	"src": "maps/map_kungur_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_kungur_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_losttemple_winter_preview",
-	"src": "maps/map_losttemple_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_losttemple_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_losttemple_old_winter_preview",
-	"src": "maps/map_losttemple_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_losttemple_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_magadan_winter_preview",
-	"src": "maps/map_magadan_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_magadan_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_magistral_winter_preview",
-	"src": "maps/map_magistral_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_magistral_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_massacre_winter_preview",
-	"src": "maps/map_massacre_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_massacre_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_molotov_winter_preview",
-	"src": "maps/map_molotov_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_molotov_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_molotov_old_winter_preview",
-	"src": "maps/map_molotov_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_molotov_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_montecarlo_winter_preview",
-	"src": "maps/map_montecarlo_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_montecarlo_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_noise_winter_preview",
-	"src": "maps/map_noise_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_noise_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_novel_winter_preview",
-	"src": "maps/map_novel_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_novel_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_opposition_winter_preview",
-	"src": "maps/map_opposition_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_opposition_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_opposition_old_winter_preview",
-	"src": "maps/map_opposition_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_opposition_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_osa_winter_preview",
-	"src": "maps/map_osa_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_osa_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_parma_winter_preview",
-	"src": "maps/map_parma_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_parma_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_pass_winter_preview",
-	"src": "maps/map_pass_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pass_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_pingpong_winter_preview",
-	"src": "maps/map_pingpong_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_pingpong_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_polygon_winter_preview",
-	"src": "maps/map_polygon_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_polygon_ctf_winter_preview",
-	"src": "maps/map_polygon_ctf_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_polygon_ctf_winter_preview.jpg?v120"
 	},
 	{
 	"name": "map_redalert_winter_preview",
-	"src": "maps/map_redalert_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_redalert_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_redalert_old_winter_preview",
-	"src": "maps/map_redalert_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_redalert_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_sandal_winter_preview",
-	"src": "maps/map_sandal_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandal_winter_preview.jpg?v120"
+	},	
+	{
+	"name": "map_sandal_2_winter_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandal_2_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_sandbox_winter_preview",
-	"src": "maps/map_sandbox_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandbox_winter_preview.jpg?v120"
+	},	
+	{
+	"name": "map_sandbox_2_winter_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_sandbox_2_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_scope_winter_preview",
-	"src": "maps/map_scope_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_scope_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_scope_old_winter_preview",
-	"src": "maps/map_scope_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_scope_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_serpuhov_winter_preview",
-	"src": "maps/map_serpuhov_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_serpuhov_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_serpuhov_old_winter_preview",
-	"src": "maps/map_serpuhov_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_serpuhov_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_siege_winter_preview",
-	"src": "maps/map_siege_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_siege_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_silence_II_winter_preview",
-	"src": "maps/map_silence_II_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_II_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_silence_II_winter_evening_preview",
-	"src": "maps/map_silence_II_winter_evening_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_II_winter_evening_preview.jpg?v120"
 	},	
 	{
 	"name": "map_silence_winter_preview",
-	"src": "maps/map_silence_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_silence_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_skylark_winter_preview",
-	"src": "maps/map_skylark_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_skylark_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_skylark_old_winter_preview",
-	"src": "maps/map_skylark_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_skylark_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_solikamsk_winter_preview",
-	"src": "maps/map_solikamsk_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_solikamsk_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_solikamsk_old_winter_preview",
-	"src": "maps/map_solikamsk_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_solikamsk_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_stadium_winter_preview",
-	"src": "maps/map_stadium_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_stadium_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_stadium_old_winter_preview",
-	"src": "maps/map_stadium_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_stadium_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_station_winter_preview",
-	"src": "maps/map_station_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_station_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_station_old_winter_preview",
-	"src": "maps/map_station_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_station_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_subway_winter_preview",
-	"src": "maps/map_subway_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_subway_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_subway_old_winter_preview",
-	"src": "maps/map_subway_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_subway_old_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_tribute_winter_preview",
-	"src": "maps/map_tribute_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_tribute_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_valley_winter_preview",
-	"src": "maps/map_valley_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_valley_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_valley_old_winter_preview",
-	"src": "maps/map_valley_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_valley_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_trains_preview",
-	"src": "maps/map_trains_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_trains_preview.jpg?v120"
 	},	
 	{
 	"name": "map_trains_old_preview",
-	"src": "maps/map_trains_old_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_trains_old_preview.jpg?v120"
 	},	
 	{
 	"name": "map_trains_winter_preview",
-	"src": "maps/map_trains_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_trains_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_wave_winter_preview",
-	"src": "maps/map_wave_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wave_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_wolfenstein_winter_preview",
-	"src": "maps/map_wolfenstein_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wolfenstein_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_wolfenstein_old_winter_preview",
-	"src": "maps/map_wolfenstein_old_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_wolfenstein_old_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_zone_winter_preview",
-	"src": "maps/map_zone_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_zone_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_desert_winter_preview",
-	"src": "maps/map_desert_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_desert_winter_preview.jpg?v120"
 	},	
 	{
 	"name": "map_fort_knox_III_winter_preview",
-	"src": "maps/map_fort_knox_III_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_fort_knox_III_winter_preview.jpg?v120"
 	},	
 	{
-	"name": "map_shortbridge_winter_preview",
-	"src": "maps/map_shortbridge_winter_preview.jpg?v120"
+	"name": "map_shortbridge_2_winter_preview",
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_shortbridge_2_winter_preview.jpg?v120"
 	},		
 	{
 	"name": "map_2042_winter_preview",
-	"src": "maps/map_2042_winter_preview.jpg?v120"
+	"src": "https://old-tanks.github.io/2010/resources/maps/map_2042_winter_preview.jpg?v120"
 	},
 	{
 	"name": "map_sandbox_noob_preview",
@@ -3236,578 +3324,578 @@
 	},		
 	{
 	"name": "railgun_m0_shot",
-	"src": "effects/railgun1/railgun.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun1/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m1_shot",
-	"src": "effects/railgun2/railgun.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun2/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m2_shot",
-	"src": "effects/railgun3/railgun.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun3/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m3_shot",
-	"src": "effects/railgun4/railgun.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun4/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart1",
-	"src": "effects/railgun1/charge_part1.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun1/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart2",
-	"src": "effects/railgun1/charge_part2.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun1/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart3",
-	"src": "effects/railgun1/charge_part3.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun1/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart1",
-	"src": "effects/railgun2/charge_part1.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun2/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart2",
-	"src": "effects/railgun2/charge_part2.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun2/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart3",
-	"src": "effects/railgun2/charge_part3.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun2/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart1",
-	"src": "effects/railgun3/charge_part1.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun3/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart2",
-	"src": "effects/railgun3/charge_part2.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun3/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart3",
-	"src": "effects/railgun3/charge_part3.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun3/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m3_chargingPart1",
-	"src": "effects/railgun4/charge_part1.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun4/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m3_chargingPart2",
-	"src": "effects/railgun4/charge_part2.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun4/charge_part2.png?v1"
 	} ,
 	{
 	"name": "railgun_m3_chargingPart3",
-	"src": "effects/railgun4/charge_part3.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/railgun4/charge_part3.png?v1"
 	},
 	{
 	"name": "smoky_m0_shot",
-	"src": "effects/gun1/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun1/shot.png?v1"
 	},
 	{
 	"name": "smoky_m1_shot",
-	"src": "effects/gun2/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun2/shot.png?v1"
 	},
 	{
 	"name": "smoky_m2_shot",
-	"src": "effects/gun3/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun3/shot.png?v1"
 	},
 	{
 	"name": "smoky_m3_shot",
-	"src": "effects/gun4/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun4/shot.png?v1"
 	},
 	{
 	"name": "smokyxt_m0_explosion",
-	"src": "effects/gun4/fire.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun4/fire.png?v1"
 	},
 	{
 	"name": "smokyxt_m0_shot",
-	"src": "effects/gun4/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun4/shot.png?v1"
 	},
 	{
 	"name": "smoky_m0_explosion",
-	"src": "effects/gun1/fire.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun1/fire.png?v1"
 	},
 	{
 	"name": "smoky_m1_explosion",
-	"src": "effects/gun2/fire.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun2/fire.png?v1"
 	}
 	,
 	{
 	"name": "smoky_m2_explosion",
-	"src": "effects/gun3/fire.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun3/fire.png?v1"
 	}
 	,
 	{
 	"name": "smoky_m3_explosion",
-	"src": "effects/gun4/fire.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/gun4/fire.png?v1"
 	},
 	{
 	"name": "flamethrower_m0_fire",
-	"src": "effects/flamethrower1/fireball.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/flamethrower1/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m1_fire",
-	"src": "effects/flamethrower2/fireball.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/flamethrower2/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m2_fire",
-	"src": "effects/flamethrower3/fireball.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/flamethrower3/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m3_fire",
-	"src": "effects/flamethrower4/fireball.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/flamethrower4/fireball.png?v1"
 	},
 	{
 	"name": "twins_m0_explosionTexture",
-	"src": "effects/plasma1/explosion.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma1/explosion.png?v1"
 	},
 	{
 	"name": "twins_m1_explosionTexture",
-	"src": "effects/plasma2/explosion.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma2/explosion.png?v1"
 	},
 	{
 	"name": "twins_m2_explosionTexture",
-	"src": "effects/plasma3/explosion.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma3/explosion.png?v1"
 	},
 	{
 	"name": "twins_m3_explosionTexture",
-	"src": "effects/plasma4/explosion.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma4/explosion.png?v1"
 	},
 	{
 	"name": "twins_m0_plasmaTexture",
-	"src": "effects/plasma1/charge.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma1/charge.png?v1"
 	},
 	{
 	"name": "twins_m1_plasmaTexture",
-	"src": "effects/plasma2/charge.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma2/charge.png?v1"
 	},
 	{
 	"name": "twins_m2_plasmaTexture",
-	"src": "effects/plasma3/charge.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma3/charge.png?v1"
 	},
 	{
 	"name": "twins_m3_plasmaTexture",
-	"src": "effects/plasma4/charge.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma4/charge.png?v1"
 	},
 	{
 	"name": "twins_m0_shotTexture",
-	"src": "effects/plasma1/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma1/shot.png?v1"
 	},
 	{
 	"name": "twins_m1_shotTexture",
-	"src": "effects/plasma2/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma2/shot.png?v1"
 	},
 	{
 	"name": "twins_m2_shotTexture",
-	"src": "effects/plasma3/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma3/shot.png?v1"
 	},
 	{
 	"name": "twins_m3_shotTexture",
-	"src": "effects/plasma4/shot.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/plasma4/shot.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingRayId",
-	"src": "effects/healing1/damage_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingTargetBallId",
-	"src": "effects/healing1/damage_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingWeaponBallId",
-	"src": "effects/healing1/damage_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m0_healingRayId",
-	"src": "effects/healing1/heal_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m0_healingTargetBallId",
-	"src": "effects/healing1/heal_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m0_healingWeaponBallId",
-	"src": "effects/healing1/heal_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m0_idleWeaponBallId",
-	"src": "effects/healing1/idle_spark.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing1/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingRayId",
-	"src": "effects/healing2/damage_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingTargetBallId",
-	"src": "effects/healing2/damage_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingWeaponBallId",
-	"src": "effects/healing2/damage_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m1_healingRayId",
-	"src": "effects/healing2/heal_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m1_healingTargetBallId",
-	"src": "effects/healing2/heal_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m1_healingWeaponBallId",
-	"src": "effects/healing2/heal_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m1_idleWeaponBallId",
-	"src": "effects/healing2/idle_spark.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing2/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingRayId",
-	"src": "effects/healing3/damage_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingTargetBallId",
-	"src": "effects/healing3/damage_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingWeaponBallId",
-	"src": "effects/healing3/damage_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m2_healingRayId",
-	"src": "effects/healing3/heal_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m2_healingTargetBallId",
-	"src": "effects/healing3/heal_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m2_healingWeaponBallId",
-	"src": "effects/healing3/heal_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m2_idleWeaponBallId",
-	"src": "effects/healing3/idle_spark.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing3/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingRayId",
-	"src": "effects/healing4/damage_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingTargetBallId",
-	"src": "effects/healing4/damage_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingWeaponBallId",
-	"src": "effects/healing4/damage_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m3_healingRayId",
-	"src": "effects/healing4/heal_shaft.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m3_healingTargetBallId",
-	"src": "effects/healing4/heal_end.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m3_healingWeaponBallId",
-	"src": "effects/healing4/heal_start.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m3_idleWeaponBallId",
-	"src": "effects/healing4/idle_spark.png?v1"
+	"src": "https://old-tanks.github.io/2010/resources/effects/healing4/idle_spark.png?v1"
 	},
 	{
 	"name": "thunder_m0_explosionResourceId",
-	"src": "effects/thunder1/fire.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder1/fire.png"
 	},
 	{
 	"name": "thunder_m0_shotResourceId",
-	"src": "effects/thunder1/shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder1/shot.png"
 	},
 	{
 	"name": "thunder_m1_explosionResourceId",
-	"src": "effects/thunder2/fire.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder2/fire.png"
 	},
 	{
 	"name": "thunder_m1_shotResourceId",
-	"src": "effects/thunder2/shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder2/shot.png"
 	},
 	{
 	"name": "thunder_m2_explosionResourceId",
-	"src": "effects/thunder3/fire.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder3/fire.png"
 	},
 	{
 	"name": "thunder_m2_shotResourceId",
-	"src": "effects/thunder3/shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder3/shot.png"
 	},
 	{
 	"name": "thunder_m3_explosionResourceId",
-	"src": "effects/thunder4/fire.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder4/fire.png"
 	},
 	{
 	"name": "thunder_m3_shotResourceId",
-	"src": "effects/thunder4/shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/thunder4/shot.png"
 	},
 	{
 	"name": "frezee_m0_particleTextureResourceId",
-	"src": "effects/freeze/m0/snow_flake.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m0/snow_flake.png"
 	},
 	{
 	"name": "frezee_m0_planeTextureResourceId",
-	"src": "effects/freeze/m0/snow_breeze.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m0/snow_breeze.png"
 	},
 	{
 	"name": "frezee_m1_particleTextureResourceId",
-	"src": "effects/freeze/m1/snow_flake.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m1/snow_flake.png"
 	},
 	{
 	"name": "frezee_m1_planeTextureResourceId",
-	"src": "effects/freeze/m1/snow_breeze.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m1/snow_breeze.png"
 	},
 	{
 	"name": "frezee_m2_particleTextureResourceId",
-	"src": "effects/freeze/m2/snow_flake.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m2/snow_flake.png"
 	},
 	{
 	"name": "frezee_m2_planeTextureResourceId",
-	"src": "effects/freeze/m2/snow_breeze.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m2/snow_breeze.png"
 	},
 	{
 	"name": "frezee_m3_particleTextureResourceId",
-	"src": "effects/freeze/m3/snow_flake.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m3/snow_flake.png"
 	},
 	{
 	"name": "frezee_m3_planeTextureResourceId",
-	"src": "effects/freeze/m3/snow_breeze.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/freeze/m3/snow_breeze.png"
 	},
 	{
 	"name": "ricochet_m0_bumpFlashTextureId",
-	"src": "effects/ricochet/m0/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m0_explosionTextureId",
-	"src": "effects/ricochet/m0/ricochet_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_explosion.png"
 	},
 	{
 	"name": "ricochet_m0_shotFlashTextureId",
-	"src": "effects/ricochet/m0/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m0_shotTextureId",
-	"src": "effects/ricochet/m0/ricochet_shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_shot.png"
 	},
 	{
 	"name": "ricochet_m0_tailTrailTextureId",
-	"src": "effects/ricochet/m0/ricochet_shot_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_shot_trail.png"
 	},
 	{
 	"name": "ricochet_m1_bumpFlashTextureId",
-	"src": "effects/ricochet/m1/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m1/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m1_explosionTextureId",
-	"src": "effects/ricochet/m1/ricochet_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m1/ricochet_explosion.png"
 	},
 	{
 	"name": "ricochet_m1_shotFlashTextureId",
-	"src": "effects/ricochet/m1/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m1/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m1_shotTextureId",
-	"src": "effects/ricochet/m1/ricochet_shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m1/ricochet_shot.png"
 	},
 	{
 	"name": "ricochet_m1_tailTrailTextureId",
-	"src": "effects/ricochet/m1/ricochet_shot_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m1/ricochet_shot_trail.png"
 	},
 	{
 	"name": "ricochet_m2_bumpFlashTextureId",
-	"src": "effects/ricochet/m2/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m2/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m2_explosionTextureId",
-	"src": "effects/ricochet/m2/ricochet_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m2/ricochet_explosion.png"
 	},
 	{
 	"name": "ricochet_m2_shotFlashTextureId",
-	"src": "effects/ricochet/m2/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m2/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m2_shotTextureId",
-	"src": "effects/ricochet/m2/ricochet_shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m2/ricochet_shot.png"
 	},
 	{
 	"name": "ricochet_m2_tailTrailTextureId",
-	"src": "effects/ricochet/m2/ricochet_shot_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m2/ricochet_shot_trail.png"
 	},
 	{
 	"name": "ricochet_m3_bumpFlashTextureId",
-	"src": "effects/ricochet/m3/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m3/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m3_explosionTextureId",
-	"src": "effects/ricochet/m3/ricochet_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m3/ricochet_explosion.png"
 	},
 	{
 	"name": "ricochet_m3_shotFlashTextureId",
-	"src": "effects/ricochet/m3/ricochet_shot_flash.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m3/ricochet_shot_flash.png"
 	},
 	{
 	"name": "ricochet_m3_shotTextureId",
-	"src": "effects/ricochet/m3/ricochet_shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m3/ricochet_shot.png"
 	},
 	{
 	"name": "ricochet_m3_tailTrailTextureId",
-	"src": "effects/ricochet/m3/ricochet_shot_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m3/ricochet_shot_trail.png"
 	},
 	{
 	"name": "shaft_m0_explosionTexture",
-	"src": "effects/shaft/m0/shaft_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/shaft_explosion.png"
 	},
 	{
 	"name": "shaft_m0_shot",
-	"src": "effects/shaft/m0/shaft_shot.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/shaft_shot.png"
 	},
 	{
 	"name": "shaft_m0_trail",
-	"src": "effects/shaft/m0/shaft_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/shaft_trail.png"
 	},
 	{
     "name": "shaft_m1_explosionTexture",
-    "src": "effects/shaft/m1/shaft_explosion.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m1/shaft_explosion.png"
     },
     {
     "name": "shaft_m1_shot",
-    "src": "effects/shaft/m1/shaft_shot.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m1/shaft_shot.png"
     },
 	{
 	"name": "shaft_m1_trail",
-	"src": "effects/shaft/m1/shaft_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m1/shaft_trail.png"
 	},
     {
     "name": "shaft_m2_shot",
-    "src": "effects/shaft/m2/shaft_shot.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m2/shaft_shot.png"
     },
     {
     "name": "shaft_m2_explosionTexture",
-    "src": "effects/shaft/m2/shaft_explosion.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m2/shaft_explosion.png"
     },
 	{
 	"name": "shaft_m2_trail",
-	"src": "effects/shaft/m2/shaft_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m2/shaft_trail.png"
 	},
     {
     "name": "shaft_m3_explosionTexture",
-    "src": "effects/shaft/m3/shaft_explosion.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m3/shaft_explosion.png"
     },
     {
     "name": "shaft_m3_shot",
-    "src": "effects/shaft/m3/shaft_shot.png"
+    "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m3/shaft_shot.png"
     },
 	{
 	"name": "shaft_m3_trail",
-	"src": "effects/shaft/m3/shaft_trail.png"
+	"src": "https://old-tanks.github.io/2010/resources/effects/shaft/m3/shaft_trail.png"
 	},
 	{
 	"name": "health_m0_preview",
-	"src": "item/preview/inventory_health.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_health.png"
 	},
 	{
 	"name": "armor_m0_preview",
-	"src": "item/preview/inventory_armor.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_armor.png"
 	},
 	{
 	"name": "double_damage_m0_preview",
-	"src": "item/preview/inventory_badaboom.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_badaboom.png"
 	}
 	,
 	{
 	"name": "n2o_m0_preview",
-	"src": "item/preview/inventory_nitro.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_nitro.png"
 	},
 	{
 	"name": "repair_m0_preview",
-	"src": "item/preview/inventory_repair.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_repair.png"
 	},
 	{
 	"name": "mine_m0_preview",
-	"src": "item/preview/inventory_mine.png"
+	"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_mine.png"
 	},
 	{
 	"name": "blueMineTexture",
-	"src": "mines/mine1/mine_blue.jpg"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/mine_blue.jpg"
 	},
 	{
 	"name": "enemyMineTexture",
-	"src": "mines/mine1/mine_yellow.jpg"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/mine_yellow.jpg"
 	},
 	{
 	"name": "friendlyMineTexture_mine",
-	"src": "mines/mine1/mine_green.jpg"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/mine_green.jpg"
 	},
 	{
 	"name": "idleExplosionTexture_mine",
-	"src": "mines/mine1/idle_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/idle_explosion.png"
 	},
 	{
 	"name": "mainExplosionTextureId_mine",
-	"src": "mines/mine1/main_explosion.png"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/main_explosion.png"
 	}, 
 	{
 	"name": "redMineTexture_mine",
-	"src": "mines/mine1/mine_red.jpg"
+	"src": "https://old-tanks.github.io/2010/resources/mines/mine1/mine_red.jpg"
 	},
 		{
 			"name": "double_crystalls_m0_preview",
-			"src": "item/preview/crystal_discount.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/crystal_discount.png"
 		},
 		{
 			"name": "up_score_start_m0_preview",
-			"src": "item/preview/double_score.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/double_score.png"
 		},
 		{
 			"name": "up_score_start2_m0_preview",
-			"src": "item/preview/double_score2.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/double_score2.png"
 		},
 		{
 			"name": "no_supplies_m0_preview",
-			"src": "item/preview/no-supplies.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/no-supplies.png"
 		},
 		{
 			"name": "no_supplies_on_day_m0_preview",
-			"src": "item/preview/no-supplies.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/no-supplies.png"
 		},
 		{
 			"name": "up_score_m0_preview",
-			"src": "item/preview/up-score.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/up-score.png"
 		},
 		{
 			"name": "up_score_small_m0_preview",
-			"src": "item/preview/bronze_score.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/bronze_score.png"
 		},
 		{
 			"name": "blue_ball_m0_preview",
-			"src": "item/preview/blue_ball.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/blue_ball.png"
 		},
 		{
 			"name": "christmas_tree_m0_preview",
-			"src": "item/preview/christmas_tree.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/christmas_tree.png"
 		},
 		{
 			"name": "valentine_m0_preview",
-			"src": "item/preview/valentine.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/valentine.png"
 		},
 		{
 			"name": "balloon_m0_preview",
-			"src": "item/preview/balloon.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/balloon.png"
 		},
 		{
 			"name": "1000_scores_m0_preview",
-			"src": "item/preview/1000scores.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/1000scores.png"
 		},
 		{
 			"name": "triangle_m0_preview",
-			"src": "item/preview/inventory_triangle.png"
+			"src": "https://old-tanks.github.io/2010/resources/item/preview/inventory_triangle.png"
 		}
 	]
 }

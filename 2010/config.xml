@@ -1,58 +1,58 @@
 <config>
 <proplibs>
-<proplib url="resources/proplibs/bdquest.tara"/>
-<proplib url="resources/proplibs/buildings_v1.tara"/>
-<proplib url="resources/proplibs/buildings_v1_winter.tara"/>
-<proplib url="resources/proplibs/builds.tara"/>
-<proplib url="resources/proplibs/builds_v2.tara"/>
-<proplib url="resources/proplibs/builds_winter.tara"/>
-<!proplib url="resources/proplibs/Cave_Rocks.tara"/>
-<!proplib url="resources/proplibs/Cave_Tiles.tara"/>
-<proplib url="resources/proplibs/castle.tara"/>
-<proplib url="resources/proplibs/castle_winter.tara"/>
-<proplib url="resources/proplibs/complex_build_v1.tara"/>
-<proplib url="resources/proplibs/complex_build_v1_winter.tara"/>
-<proplib url="resources/proplibs/crash.tara"/>
-<proplib url="resources/proplibs/elements_v1.tara"/>
-<proplib url="resources/proplibs/elements_v1_winter.tara"/>
-<!proplib url="resources/proplibs/func.tara"/>
-<proplib url="resources/proplibs/Halloween.tara"/> 
-<!proplib url="resources/proplibs/IndustrialZone2.0.tara"/> 
-<proplib url="resources/proplibs/kahgel.tara"/>
-<proplib url="resources/proplibs/kahgel_Winter.tara"/>
-<proplib url="resources/proplibs/kariz.tara"/>
-<proplib url="resources/proplibs/kariz_Winter.tara"/>
-<proplib url="resources/proplibs/landscape.tara"/>
-<proplib url="resources/proplibs/landscape_v2.tara"/>
-<proplib url="resources/proplibs/landscape_winter.tara"/>
-<proplib url="resources/proplibs/land_v1.tara"/>
-<proplib url="resources/proplibs/land_v1_winter.tara"/>
-<!proplib url="resources/proplibs/proplibs1.tara"/>
-<proplib url="resources/proplibs/megaLand.tara"/>
-<proplib url="resources/proplibs/MegaProps.tara"/>
-<proplib url="resources/proplibs/NY.tara"/>
-<proplib url="resources/proplibs/Noob.tara"/>
-<!proplib url="resources/proplibs/Novel2.0.tara"/>
-<proplib url="resources/proplibs/rocks.tara"/>
-<!proplib url="resources/proplibs/shits.tara?v70"/>
-<!proplib url="resources/proplibs/Silence2.0.tara?v70"/>
-<!proplib url="resources/proplibs/Tanks2008map.tara"/>
-<!proplib url="resources/proplibs/TanksMap.tara"/>
-<proplib url="resources/proplibs/Test.tara"/>
-<!--proplib url="resources/proplibs/water.tara"/--> 
-<proplib url="resources/proplibs/yonje.tara"/>
-<proplib url="resources/proplibs/yonje_Winter.tara"/>
-<proplib url="resources/proplibs/zamin.tara"/>
-<proplib url="resources/proplibs/zamin_Winter.tara"/>
-<!proplib url="resources/proplibs/Zone2.0.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/bdquest.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/buildings_v1.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/buildings_v1_winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/builds.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/builds_v2.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/builds_winter.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Cave_Rocks.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Cave_Tiles.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/castle.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/castle_winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/complex_build_v1.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/complex_build_v1_winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/crash.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/elements_v1.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/elements_v1_winter.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/func.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/Halloween.tara"/> 
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/IndustrialZone2.0.tara"/> 
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/kahgel.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/kahgel_Winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/kariz.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/kariz_Winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/landscape.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/landscape_v2.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/landscape_winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/land_v1.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/land_v1_winter.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/proplibs1.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/megaLand.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/MegaProps.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/NY.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/Noob.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Novel2.0.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/rocks.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/shits.tara?v70"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Silence2.0.tara?v70"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Tanks2008map.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/TanksMap.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/Test.tara"/>
+<!--proplib url="https://old-tanks.github.io/2010/resources/proplibs/water.tara"/--> 
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/yonje.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/yonje_Winter.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/zamin.tara"/>
+<proplib url="https://old-tanks.github.io/2010/resources/proplibs/zamin_Winter.tara"/>
+<!proplib url="https://old-tanks.github.io/2010/resources/proplibs/Zone2.0.tara"/>
 <!--
 
- <proplib url="resources/proplibs/CastleWinter.tara"/> 
+ <proplib url="https://old-tanks.github.io/2010/resources/proplibs/CastleWinter.tara"/> 
 -->
 </proplibs>
-<map url="map.xml"/>
-<!--  	<map url="map_industrial_zone.xml"/>   -->
-<!--  	<map url="map_novel.xml"/>  -->
+<map url="https://old-tanks.github.io/2010/map.xml"/>
+<!--  	<map url="https://old-tanks.github.io/2010/map_industrial_zone.xml"/>   -->
+<!--  	<map url="https://old-tanks.github.io/2010/map_novel.xml"/>  -->
 <options>
 <tank-explosion>
 <fps>20</fps>
@@ -84,52 +84,52 @@
 <animation frameSize="128" animationId="flame2"/>
 <animation frameSize="128" animationId="flame3"/>
 </flamethrower>
-<textures baseUrl="data/images/">
-<texture id="skybox_1" url="skybox1/01.jpg"/>
-<texture id="skybox_2" url="skybox1/02.jpg"/>
-<texture id="skybox_3" url="skybox1/03.jpg"/>
-<texture id="skybox_4" url="skybox1/04.jpg"/>
-<texture id="skybox_5" url="skybox1/05.jpg"/>
-<texture id="skybox_6" url="skybox1/06.jpg"/>
-<texture id="red_square" url="red_square.gif"/>
-<texture id="green_square" url="green_square.gif"/>
-<texture id="teal_triangle" url="teal_triangle.gif"/>
-<texture id="active_spawn_marker" url="green_triangle.gif"/>
-<texture id="dm_spawn_marker" url="yellow_marker.gif"/>
-<texture id="red_spawn_marker" url="red_marker.gif"/>
-<texture id="blue_spawn_marker" url="blue_marker.gif"/>
-<texture id="blue_flag" url="blue_flag-2.gif"/>
-<texture id="red_flag" url="red_flag.gif"/>
-<texture id="smoky_muzzle_flash" url="smoky/smoky_shot.png"/>
-<texture id="smoky_explosion1" url="smoky/smoky_explosion1.png"/>
-<texture id="smoky_explosion2" url="smoky/smoky_explosion2.png"/>
-<texture id="flamethrower/flame1" url="flamethrower/fireball1_square.png"/>
-<texture id="flamethrower/flame2" url="flamethrower/fireball2_square.png"/>
-<texture id="flamethrower/flame3" url="flamethrower/fireball3_square.png"/>
-<texture id="thunder_explosion1" url="smoky/thunder_explosion1.png"/>
-<texture id="thunder_explosion2" url="smoky/thunder_explosion2.png"/>
-<texture id="banner1" url="banner1.jpg"/>
-<texture id="banner2" url="banner2.jpg"/>
-<texture id="banner3" url="banner3.jpg"/>
-<texture id="banner4" url="banner4.jpg"/>
-<texture id="billboard" url="billboard.jpg"/>
-<texture id="plasma/muzzle_flash" url="plasma/muzzle_flash.png"/>
-<texture id="plasma/shot" url="plasma/shot.png"/>
-<texture id="plasma/fade" url="plasma/fade.png"/>
-<texture id="plasma/explosion" url="plasma/explosion.png"/>
-<texture id="flamethrower/fireball" url="flamethrower/fireball.png"/>
-<texture id="tank_explosion/shockwave" url="tank_explosion/shock_wave.png"/>
-<texture id="tank_explosion/explosion" url="tank_explosion/explosion.png"/>
-<texture id="tank_explosion/smoke" url="tank_explosion/smoke.png"/>
+<textures baseurl="https://old-tanks.github.io/2010/data/images/">
+<texture id="skybox_1" url="https://old-tanks.github.io/2010/skybox1/01.jpg"/>
+<texture id="skybox_2" url="https://old-tanks.github.io/2010/skybox1/02.jpg"/>
+<texture id="skybox_3" url="https://old-tanks.github.io/2010/skybox1/03.jpg"/>
+<texture id="skybox_4" url="https://old-tanks.github.io/2010/skybox1/04.jpg"/>
+<texture id="skybox_5" url="https://old-tanks.github.io/2010/skybox1/05.jpg"/>
+<texture id="skybox_6" url="https://old-tanks.github.io/2010/skybox1/06.jpg"/>
+<texture id="red_square" url="https://old-tanks.github.io/2010/red_square.gif"/>
+<texture id="green_square" url="https://old-tanks.github.io/2010/green_square.gif"/>
+<texture id="teal_triangle" url="https://old-tanks.github.io/2010/teal_triangle.gif"/>
+<texture id="active_spawn_marker" url="https://old-tanks.github.io/2010/green_triangle.gif"/>
+<texture id="dm_spawn_marker" url="https://old-tanks.github.io/2010/yellow_marker.gif"/>
+<texture id="red_spawn_marker" url="https://old-tanks.github.io/2010/red_marker.gif"/>
+<texture id="blue_spawn_marker" url="https://old-tanks.github.io/2010/blue_marker.gif"/>
+<texture id="blue_flag" url="https://old-tanks.github.io/2010/blue_flag-2.gif"/>
+<texture id="red_flag" url="https://old-tanks.github.io/2010/red_flag.gif"/>
+<texture id="smoky_muzzle_flash" url="https://old-tanks.github.io/2010/smoky/smoky_shot.png"/>
+<texture id="smoky_explosion1" url="https://old-tanks.github.io/2010/smoky/smoky_explosion1.png"/>
+<texture id="smoky_explosion2" url="https://old-tanks.github.io/2010/smoky/smoky_explosion2.png"/>
+<texture id="flamethrower/flame1" url="https://old-tanks.github.io/2010/flamethrower/fireball1_square.png"/>
+<texture id="flamethrower/flame2" url="https://old-tanks.github.io/2010/flamethrower/fireball2_square.png"/>
+<texture id="flamethrower/flame3" url="https://old-tanks.github.io/2010/flamethrower/fireball3_square.png"/>
+<texture id="thunder_explosion1" url="https://old-tanks.github.io/2010/smoky/thunder_explosion1.png"/>
+<texture id="thunder_explosion2" url="https://old-tanks.github.io/2010/smoky/thunder_explosion2.png"/>
+<texture id="banner1" url="https://old-tanks.github.io/2010/banner1.jpg"/>
+<texture id="banner2" url="https://old-tanks.github.io/2010/banner2.jpg"/>
+<texture id="banner3" url="https://old-tanks.github.io/2010/banner3.jpg"/>
+<texture id="banner4" url="https://old-tanks.github.io/2010/banner4.jpg"/>
+<texture id="billboard" url="https://old-tanks.github.io/2010/billboard.jpg"/>
+<texture id="plasma/muzzle_flash" url="https://old-tanks.github.io/2010/plasma/muzzle_flash.png"/>
+<texture id="plasma/shot" url="https://old-tanks.github.io/2010/plasma/shot.png"/>
+<texture id="plasma/fade" url="https://old-tanks.github.io/2010/plasma/fade.png"/>
+<texture id="plasma/explosion" url="https://old-tanks.github.io/2010/plasma/explosion.png"/>
+<texture id="flamethrower/fireball" url="https://old-tanks.github.io/2010/flamethrower/fireball.png"/>
+<texture id="tank_explosion/shockwave" url="https://old-tanks.github.io/2010/tank_explosion/shock_wave.png"/>
+<texture id="tank_explosion/explosion" url="https://old-tanks.github.io/2010/tank_explosion/explosion.png"/>
+<texture id="tank_explosion/smoke" url="https://old-tanks.github.io/2010/tank_explosion/smoke.png"/>
 <!--
 
 
-		<texture id="skybox1_up" url="skybox1/up.jpg"/>
-		<texture id="skybox1_down" url="skybox1/down.jpg"/>
-		<texture id="skybox1_left" url="skybox1/left.jpg"/>
-		<texture id="skybox1_right" url="skybox1/right.jpg"/>
-		<texture id="skybox1_front" url="skybox1/front.jpg"/>
-		<texture id="skybox1_back" url="skybox1/back.jpg"/>
+		<texture id="skybox1_up" url="https://old-tanks.github.io/2010/skybox1/up.jpg"/>
+		<texture id="skybox1_down" url="https://old-tanks.github.io/2010/skybox1/down.jpg"/>
+		<texture id="skybox1_left" url="https://old-tanks.github.io/2010/skybox1/left.jpg"/>
+		<texture id="skybox1_right" url="https://old-tanks.github.io/2010/skybox1/right.jpg"/>
+		<texture id="skybox1_front" url="https://old-tanks.github.io/2010/skybox1/front.jpg"/>
+		<texture id="skybox1_back" url="https://old-tanks.github.io/2010/skybox1/back.jpg"/>
 	
 -->
 </textures>
