@@ -5,382 +5,382 @@
 	  
 	  {
 		"name": "flagBlueModel_pedestal",
-		"src": "https://old-tanks.github.io/2010/resources/ctf/pedestal/blue_pedestal/flag_stand_blue.3ds"
+		"src": "ctf/pedestal/blue_pedestal/flag_stand_blue.3ds"
 	  },
 	  {
 		"name": "flagRedModel_pedestal",
-		"src": "https://old-tanks.github.io/2010/resources/ctf/pedestal/red_pedestal/flag_stand_red.3ds"
+		"src": "ctf/pedestal/red_pedestal/flag_stand_red.3ds"
 	  },
 	  {
 		"name": "garage_box_model",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/garage_box/box/garage.3DS"
+		"src": "tank_parts/garage_box/box/garage.3DS"
 	  },
 	  {
 		"name": "viking_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6/hull.3ds"
+		"src": "tank_parts/hulls/hull6/hull.3ds"
 	  },
 	  {
 		"name": "viking_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull6_m1/hull.3ds"
 	  },
 	  {
 		"name": "viking_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull6_m2/hull.3ds"
 	  },
 	  {
 		"name": "viking_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull6_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull6_m3/hull.3ds"
 	  }
 	  ,
 	  {
 		"name": "thunder_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6/turret.3ds"
+		"src": "tank_parts/turrets/turret6/turret.3ds"
 	  },
 	  {
 		"name": "thunder_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret6_m1/turret.3ds"
 	  },
 	  {
 		"name": "thunder_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret6_m2/turret.3ds"
 	  },
 	  {
 		"name": "thunder_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret6_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret6_m3/turret.3ds"
 	  } ,
 	  {
 		"name": "frezee_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7/turret.3ds"
+		"src": "tank_parts/turrets/turret7/turret.3ds"
 	  },
 	  {
 		"name": "frezee_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret7_m1/turret.3ds"
 	  },
 	  {
 		"name": "frezee_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret7_m2/turret.3ds"
 	  },
 	  {
 		"name": "frezee_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret7_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret7_m3/turret.3ds"
 	  },
 	  {
 		"name": "smokyxt_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_xt/turret.3ds"
+		"src": "tank_parts/turrets/turret1_xt/turret.3ds"
 	  },
 	  {
 		"name": "smoky_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1/turret.3ds"
+		"src": "tank_parts/turrets/turret1/turret.3ds"
 	  },
 	  {
 		"name": "smoky_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret1_m1/turret.3ds"
 	  },
 	  {
 		"name": "smoky_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret1_m2/turret.3ds"
 	  },
 	  {
 		"name": "smoky_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret1_m3/turret.3ds"
 	  },
 	  {
 		"name": "twins_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2/turret.3ds"
+		"src": "tank_parts/turrets/turret2/turret.3ds"
 	  },
 	  {
 		"name": "twins_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret2_m1/turret.3ds"
 	  },
 	  {
 		"name": "twins_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret2_m2/turret.3ds"
 	  },
 	  {
 		"name": "twins_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret2_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret2_m3/turret.3ds"
 	  },
 	  {
 		"name": "flamethrower_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3/turret.3ds"
+		"src": "tank_parts/turrets/turret3/turret.3ds"
 	  },
 	  {
 		"name": "flamethrower_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret3_m1/turret.3ds"
 	  },
 	  {
 		"name": "flamethrower_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret3_m2/turret.3ds"
 	  },
 	  {
 		"name": "flamethrower_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret3_m3/turret.3ds?v2"
+		"src": "tank_parts/turrets/turret3_m3/turret.3ds?v2"
 	  },
 	  {
 		"name": "isida_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5/turret.3ds"
+		"src": "tank_parts/turrets/turret5/turret.3ds"
 	  },
 	  {
 		"name": "isida_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret5_m1/turret.3ds"
 	  },
 	  {
 		"name": "isida_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret5_m2/turret.3ds"
 	  },
 	  {
 		"name": "isida_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret5_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret5_m3/turret.3ds"
 	  },
 	  {
 		"name": "ricochet_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8/turret.3ds"
+		"src": "tank_parts/turrets/turret8/turret.3ds"
 	  },
 	  {
 		"name": "ricochet_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret8_m1/turret.3ds"
 	  },
 	  {
 		"name": "ricochet_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret8_m2/turret.3ds"
 	  },
 	  {
 		"name": "ricochet_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret8_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret8_m3/turret.3ds"
 	  }
 	  ,
 	  {
 		"name": "railgun_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4/turret.3ds"
+		"src": "tank_parts/turrets/turret4/turret.3ds"
 	  },
 	  {
 		"name": "railgun_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret4_m1/turret.3ds"
 	  },
 	  {
 		"name": "railgun_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret4_m2/turret.3ds"
 	  },
 	  {
 		"name": "railgun_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret4_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret4_m3/turret.3ds"
 	  },
 	  {
 		"name": "shaft_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9/turret.3ds"
+		"src": "tank_parts/turrets/turret9/turret.3ds"
 	  },
 	  {
 		"name": "shaft_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m1/turret.3ds"
+		"src": "tank_parts/turrets/turret9_m1/turret.3ds"
 	  },
 	  {
 		"name": "shaft_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m2/turret.3ds"
+		"src": "tank_parts/turrets/turret9_m2/turret.3ds"
 	  },
 	  {
 		"name": "shaft_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret9_m3/turret.3ds"
+		"src": "tank_parts/turrets/turret9_m3/turret.3ds"
 	  },
 	  {
 		"name": "snowman_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/turret.3ds"
+		"src": "tank_parts/turrets/turret1_ny/turret.3ds"
 	  },
 	  {
 		"name": "snowman_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/turret.3ds"
+		"src": "tank_parts/turrets/turret1_ny/turret.3ds"
 	  },
 	  {
 		"name": "snowman_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/turret.3ds"
+		"src": "tank_parts/turrets/turret1_ny/turret.3ds"
 	  },
 	  {
 		"name": "snowman_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/turrets/turret1_ny/turret.3ds"
+		"src": "tank_parts/turrets/turret1_ny/turret.3ds"
 	  },
 	  {
 		"name": "wasp_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1/hull.3DS"
+		"src": "tank_parts/hulls/hull1/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m1/hull.3DS"
+		"src": "tank_parts/hulls/hull1_m1/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m2/hull.3DS"
+		"src": "tank_parts/hulls/hull1_m2/hull.3DS"
 	  },
 	  {
 		"name": "wasp_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull1_m3/hull.3DS"
+		"src": "tank_parts/hulls/hull1_m3/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2/hull.3DS"
+		"src": "tank_parts/hulls/hull2/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m1/hull.3DS"
+		"src": "tank_parts/hulls/hull2_m1/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m2/hull.3DS"
+		"src": "tank_parts/hulls/hull2_m2/hull.3DS"
 	  },
 	  {
 		"name": "hunter_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull2_m3/hull.3DS"
+		"src": "tank_parts/hulls/hull2_m3/hull.3DS"
 	  },
 	  {
 		"name": "titan_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3/hull.3DS"
+		"src": "tank_parts/hulls/hull3/hull.3DS"
 	  },
 	  {
 		"name": "titan_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m1/hull.3DS"
+		"src": "tank_parts/hulls/hull3_m1/hull.3DS"
 	  },
 	  {
 		"name": "titan_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m2/hull.3DS"
+		"src": "tank_parts/hulls/hull3_m2/hull.3DS"
 	  },
 	  {
 		"name": "titan_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull3_m3/hull.3DS"
+		"src": "tank_parts/hulls/hull3_m3/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4/hull.3DS"
+		"src": "tank_parts/hulls/hull4/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m1/hull.3DS"
+		"src": "tank_parts/hulls/hull4_m1/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m2/hull.3DS"
+		"src": "tank_parts/hulls/hull4_m2/hull.3DS"
 	  },
 	  {
 		"name": "dictator_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull4_m3/hull.3DS"
+		"src": "tank_parts/hulls/hull4_m3/hull.3DS"
 	  },
 	  {
 		"name": "hornet_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5/hull.3ds"
+		"src": "tank_parts/hulls/hull5/hull.3ds"
 	  },
 	  {
 		"name": "hornet_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull5_m1/hull.3ds"
 	  },
 	  {
 		"name": "hornet_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull5_m2/hull.3ds"
 	  },
 	  {
 		"name": "hornet_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull5_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull5_m3/hull.3ds"
 	  },
 	  {
 		"name": "mamont_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7/hull.3ds"
+		"src": "tank_parts/hulls/hull7/hull.3ds"
 	  },
 	  {
 		"name": "mamont_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull7_m1/hull.3ds"
 	  },
 	  {
 		"name": "mamont_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull7_m2/hull.3ds"
 	  },
 	  {
 		"name": "mamont_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull7_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull7_m3/hull.3ds"
 	  },
 	  {
 		"name": "ufo_m0",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8/hull.3ds"
+		"src": "tank_parts/hulls/hull8/hull.3ds"
 	  },
 	  {
 		"name": "ufo_m1",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m1/hull.3ds"
+		"src": "tank_parts/hulls/hull8_m1/hull.3ds"
 	  },
 	  {
 		"name": "ufo_m2",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m2/hull.3ds"
+		"src": "tank_parts/hulls/hull8_m2/hull.3ds"
 	  },
 	  {
 		"name": "ufo_m3",
-		"src": "https://old-tanks.github.io/2010/resources/tank_parts/hulls/hull8_m3/hull.3ds"
+		"src": "tank_parts/hulls/hull8_m3/hull.3ds"
 	  },
 	  {
 		"name": "bonus_box_crystall",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal/box.3ds"
+		"src": "bonuses/boxes/crystal/box.3ds"
 	  },
 	  {
 		"name": "bonus_box_megagold",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal1000/box.3ds"
+		"src": "bonuses/boxes/crystal1000/box.3ds"
 	  },
 	  {
 		"name": "bonus_box_gold",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/crystal100/box.3ds"
+		"src": "bonuses/boxes/crystal100/box.3ds"
 	  },
 	  {
 		"name": "bonus_box_money",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/money/box.3ds"
+		"src": "bonuses/boxes/money/box.3ds"
 	  },
 	  {
 		"name": "bonus_box_damage",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/shot/box_shot.3ds"
+		"src": "bonuses/boxes/shot/box_shot.3ds"
 	  },
 	  {
 		"name": "bonus_box_health",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/med/box_med.3ds"
+		"src": "bonuses/boxes/med/box_med.3ds"
 	  },
 	  {
 		"name": "bonus_box_armor",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/armor/box_armor.3ds"
+		"src": "bonuses/boxes/armor/box_armor.3ds"
 	  }
 	  ,
 	  {
 		"name": "bonus_box_nitro",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/nos/box_nos.3ds"
+		"src": "bonuses/boxes/nos/box_nos.3ds"
 	  },
 	  {
 		"name": "bonus_box_repair",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/repair/box_repair.3ds"
+		"src": "bonuses/boxes/repair/box_repair.3ds"
 	  },
 	  {
 		"name": "bonus_box_holiday_crystall_2",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  }, 
 	  {
 		"name": "bonus_box_holiday_crystall_5",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  }, 
 	  {
 		"name": "bonus_box_holiday_armor",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  },
 	  {
 		"name": "bonus_box_holiday_health",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  },
 	  {
 		"name": "bonus_box_holiday_damage",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  },
 	  {
 		"name": "bonus_box_holiday_nitro",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/boxes/holiday/box.3ds?v1"
+		"src": "bonuses/boxes/holiday/box.3ds?v1"
 	  },
 	  {
 		"name": "parachute",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/parachutes/parachute1/parachute.3ds"
+		"src": "bonuses/parachutes/parachute1/parachute.3ds"
 	  },
 	  {
 		"name": "parachute_inner",
-		"src": "https://old-tanks.github.io/2010/resources/bonuses/parachutes/parachute1_inner/parachute_inner.3ds"
+		"src": "bonuses/parachutes/parachute1_inner/parachute_inner.3ds"
 	  },
 	  {
 		"name": "modelId_mine",
-		"src": "https://old-tanks.github.io/2010/resources/mines/mine1/model/mine.3ds"
+		"src": "mines/mine1/model/mine.3ds"
 	  }
 	  
 	]

@@ -3,167 +3,167 @@
 	"items":[
 	  {
 	    "name": "turret", 
-	    "src": "https://old-tanks.github.io/2010/resources/sfx/turret.mp3"
+	    "src": "sfx/turret.mp3"
 	  },
 	  {
         "name": "flagDropSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/flag-lost.mp3?v1"		
+        "src": "sfx/flag-lost.mp3?v1"		
 	  },
 	  {
         "name": "flagReturnSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/flag-return.mp3?v1"		
+        "src": "sfx/flag-return.mp3?v1"		
 	  },
 	  {
         "name": "flagTakeSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/flag-slole.mp3?v1"		
+        "src": "sfx/flag-slole.mp3?v1"		
 	  },
 	  {
         "name": "winSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/flag-win.mp3?v1"		
+        "src": "sfx/flag-win.mp3?v1"		
 	  },
 	  {
 		"name": "default_ambient_sound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/fon.mp3?v1"	
+        "src": "sfx/fon.mp3?v1"	
 	  },
 	  {
 		"name": "track01_sound_id",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/track01.mp3?v1"	
+        "src": "sfx/track01.mp3?v1"	
 	  },
 	  {
 		"name": "halloween_sound_id",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/halloween.mp3"	
+        "src": "sfx/halloween.mp3"	
 	  },
 	  {
 		"name": "new_year_sound_id",
-		"src": "https://old-tanks.github.io/2010/resources/sfx/new_year.mp3"
+		"src": "sfx/new_year.mp3"
 	  },		
 	  {
 		"name": "bonusTakenSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/bonus.mp3"	
+        "src": "sfx/bonus.mp3"	
 	  },
 	  {
 		"name": "battleFinishSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/stopgame.mp3"	
+        "src": "sfx/stopgame.mp3"	
 	  },
 	  {
 		"name": "killSound",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/explosion-tnk.mp3"	
+        "src": "sfx/explosion-tnk.mp3"	
 	  },
 	  {
 		"name": "smoky_shot",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/tankshot.mp3"	
+        "src": "sfx/tankshot.mp3"	
 	  },
 	  {
 		"name": "smoky_exp",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/explosion.mp3"	
+        "src": "sfx/explosion.mp3"	
 	  },
 	  {
 		"name": "flamethrower_sound",
-        "src": "https://old-tanks.github.io/2010/resources/effects/flamethrower1/flamethrower.mp3"	
+        "src": "effects/flamethrower1/flamethrower.mp3"	
 	  },
 	  {
 		"name": "twins_explosionSound",
-        "src": "https://old-tanks.github.io/2010/resources/effects/plasma1/plazma_shot.mp3"	
+        "src": "effects/plasma1/plazma_shot.mp3"	
 	  },
 	  {
 		"name": "twins_shotSound",
-        "src": "https://old-tanks.github.io/2010/resources/effects/plasma1/plazma_shot.mp3"	
+        "src": "effects/plasma1/plazma_shot.mp3"	
 	  },
 	  {
 		"name": "damagingSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/healing1/damage.mp3?v1"	
+        "src": "effects/healing1/damage.mp3?v1"	
 	  },
 	  {
 		"name": "healingSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/healing1/healing.mp3?v1"	
+        "src": "effects/healing1/healing.mp3?v1"	
 	  },
 	  {
 		"name": "idleSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/healing1/idle.mp3?v1"	
+        "src": "effects/healing1/idle.mp3?v1"	
 	  },
 	  {
 		"name": "thunder_explosionSoundResourceId",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/thunder_fire.mp3"	
+        "src": "sfx/thunder_fire.mp3"	
 	  },
 	  {
 		"name": "thunder_shotSoundResourceId",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/thunder_shot.mp3"	
+        "src": "sfx/thunder_shot.mp3"	
 	  },
 	  {
 		"name": "frezee_sound",
-        "src": "https://old-tanks.github.io/2010/resources/effects/freeze/m0/freeze.mp3"	
+        "src": "effects/freeze/m0/freeze.mp3"	
 	  },
 	  {
 		"name": "ricochet_explosionSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_explosion.mp3"	
+        "src": "effects/ricochet/m0/ricochet_explosion.mp3"	
 	  },
 	  {
 		"name": "ricochetSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_ricochet.mp3"	
+        "src": "effects/ricochet/m0/ricochet_ricochet.mp3"	
 	  },
 	  {
 		"name": "ricochet_shotSoundId",
-        "src": "https://old-tanks.github.io/2010/resources/effects/ricochet/m0/ricochet_shot.mp3"	
+        "src": "effects/ricochet/m0/ricochet_shot.mp3"	
 	  },
 	  {
 		"name": "activationSound_mine",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/mine_activation.mp3"	
+        "src": "sfx/mine_activation.mp3"	
 	  },
 	  {
 		"name": "deactivationSound_mine",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/mine_deactivation.mp3"	
+        "src": "sfx/mine_deactivation.mp3"	
 	  },
 	  {
 		"name": "explosionSound_mine",
-        "src": "https://old-tanks.github.io/2010/resources/sfx/mine_explosion.mp3"	
+        "src": "sfx/mine_explosion.mp3"	
 	  },
 	  {
 		"name": "shaft_shot",
-        "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/shot.wav"	
+        "src": "effects/shaft/m0/shot.wav"	
 	  },
 	  {
 		"name": "snowman_shotSound",
-        "src": "https://old-tanks.github.io/2010/resources/effects/snow/shot.wav"	
+        "src": "effects/snow/shot.wav"	
 	  },
 	  {
 		"name": "snowman_shotExplosion",
-        "src": "https://old-tanks.github.io/2010/resources/effects/snow/expl.wav"	
+        "src": "effects/snow/expl.wav"	
 	  },
         {
             "name": "shaft_zoomModeSound",
-            "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/zoomMode.wav"
+            "src": "effects/shaft/m0/zoomMode.wav"
         },
         {
             "name": "shaft_targetingSound",
-            "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/targetingSound.wav"
+            "src": "effects/shaft/m0/targetingSound.wav"
         },
 		{
             "name": "shaft_explosion_sound",
-            "src": "https://old-tanks.github.io/2010/resources/effects/shaft/m0/hit.wav"
+            "src": "effects/shaft/m0/hit.wav"
         },
         {
             "name": "space_ambient_sound",
-            "src": "https://old-tanks.github.io/2010/resources/sfx/space.mp3"
+            "src": "sfx/space.mp3"
         },
         {
             "name": "railgun_shot",
-            "src": "https://old-tanks.github.io/2010/resources/effects/railgun1/railgun.mp3"
+            "src": "effects/railgun1/railgun.mp3"
         },
         {
             "name": "engineidle_sound",
-            "src": "https://old-tanks.github.io/2010/resources/sfx/engineidle.mp3"
+            "src": "sfx/engineidle.mp3"
         },
         {
             "name": "startmoving_sound",
-            "src": "https://old-tanks.github.io/2010/resources/sfx/startmoving.mp3"
+            "src": "sfx/startmoving.mp3"
         },
         {
             "name": "move_sound",
-            "src": "https://old-tanks.github.io/2010/resources/sfx/move.mp3"
+            "src": "sfx/move.mp3"
         },
         {
             "name": "turret_sound",
-            "src": "https://old-tanks.github.io/2010/resources/sfx/turret.mp3"
+            "src": "sfx/turret.mp3"
         }
 	]
 }
