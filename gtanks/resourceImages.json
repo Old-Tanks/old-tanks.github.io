@@ -470,6 +470,18 @@
 			"src": "resources/turret/ricochet/m3/preview.png?v1"
 		},
 		{
+			"name":"smokyxt_m0_preview",
+			"src":"resources/turret/smoky_xt/preview.png"
+		},
+		{
+			"name":"smokyxt_m0_lightmap",
+			"src":"resources/turret/smoky_xt/lightmap.jpg"
+		},
+		{
+			"name":"smokyxt_m0_details",
+			"src":"resources/turret/smoky_xt/details.png"
+		},
+		{
 			"name": "shaft_m0_preview",
 			"src": "resources/turret/shaft/m0/preview.png"
 		},
@@ -1493,6 +1505,10 @@
 			"src": "resources/bonus/boxes/crystal100/box.jpg?v1"
 		},
 		{
+			"name": "bonus_box_megagold",
+			"src": "resources/bonus/boxes/crystal100/box.jpg?v1"
+		},
+		{
 			"name": "bonus_box_crystall",
 			"src": "resources/bonus/boxes/crystal/box.jpg?v1"
 		},
@@ -2361,6 +2377,14 @@
 			"src": "resources/turret/smoky/m3/shot.png?v1"
 		},
 		{
+			"name":"smokyxt_m0_shot",
+			"src":"resources/turret/smoky/m3/shot.png"
+		},
+		{
+			"name":"smokyxt_m0_explosion",
+			"src":"resources/turret/smoky/m3/fire.png"
+		},
+		{
 			"name": "smoky_m0_explosion",
 			"src": "resources/turret/smoky/m0/fire.png?v1"
 		},
@@ -2697,7 +2721,7 @@
 			"src": "resources/turret/ricochet/m3/ricochet_shot_trail.png"
 		},
 		{
-			"name": "shaft_m0_explosion",
+			"name": "shaft_m1_explosionTexture",
 			"src": "resources/turret/shaft/m0/shaft_explosion.png"
 		},
 		{
@@ -2777,6 +2801,222 @@
 			"src": "resources/mines/mine_red.jpg"
 		},
 		{
+			"name":"double_crystalls_m0_preview",
+			"src":"resources/effects/Crystal_discount.png"
+		},
+		{
+			"name":"up_score_start_m0_preview",
+			"src":"resources/effects/Double_score.png"
+		},
+		{
+			"name":"no_supplies_m0_preview",
+			"src":"resources/effects/No-supplies.png"
+		},
+		{
+			"name":"up_score_m0_preview",
+			"src":"resources/effects/gold_score.png"
+		},
+		{
+			"name":"up_score_small_m0_preview",
+			"src":"resources/effects/bronze_score.png"
+		},
+		{
+			"name":"1000_scores_m0_preview",
+			"src":"resources/inventory/scores/1000scores.png"
+		},
+		{
+			"name":"skybox_default_01",
+			"src":"resources/skyboxes/default/01.jpg"
+		},
+		{
+			"name":"skybox_default_02",
+			"src":"resources/skyboxes/default/02.jpg"
+		},
+		{
+			"name":"skybox_default_03",
+			"src":"resources/skyboxes/default/03.jpg"
+		},
+		{
+			"name":"skybox_default_04",
+			"src":"resources/skyboxes/default/04.jpg"
+		},
+		{
+			"name":"skybox_default_05",
+			"src":"resources/skyboxes/default/05.jpg"
+		},
+		{
+			"name":"skybox_default_06",
+			"src":"resources/skyboxes/default/06.jpg"
+		},
+		{
+			"name":"skybox_desert_01",
+			"src":"resources/skyboxes/desert/01.jpg"
+		},
+		{
+			"name":"skybox_desert_02",
+			"src":"resources/skyboxes/desert/02.jpg"
+		},
+		{
+			"name":"skybox_desert_03",
+			"src":"resources/skyboxes/desert/03.jpg"
+		},
+		{
+			"name":"skybox_desert_04",
+			"src":"resources/skyboxes/desert/04.jpg"
+		},
+		{
+			"name":"skybox_desert_05",
+			"src":"resources/skyboxes/desert/05.jpg"
+		},
+		{
+			"name":"skybox_desert_06",
+			"src":"resources/skyboxes/desert/06.jpg"
+		},
+		{
+			"name":"skybox_grey_01",
+			"src":"resources/skyboxes/grey/01.jpg"
+		},
+		{
+			"name":"skybox_grey_02",
+			"src":"resources/skyboxes/grey/02.jpg"
+		},
+		{
+			"name":"skybox_grey_03",
+			"src":"resources/skyboxes/grey/03.jpg"
+		},
+		{
+			"name":"skybox_grey_04",
+			"src":"resources/skyboxes/grey/04.jpg"
+		},
+		{
+			"name":"skybox_grey_05",
+			"src":"resources/skyboxes/grey/05.jpg"
+		},
+		{
+			"name":"skybox_grey_06",
+			"src":"resources/skyboxes/grey/06.jpg"
+		},
+		{
+			"name":"skybox_iran_01",
+			"src":"resources/skyboxes/iran/01.jpg"
+		},
+		{
+			"name":"skybox_iran_02",
+			"src":"resources/skyboxes/iran/02.jpg"
+		},
+		{
+			"name":"skybox_iran_03",
+			"src":"resources/skyboxes/iran/03.jpg"
+		},
+		{
+			"name":"skybox_iran_04",
+			"src":"resources/skyboxes/iran/04.jpg"
+		},
+		{
+			"name":"skybox_iran_05",
+			"src":"resources/skyboxes/iran/05.jpg"
+		},
+		{
+			"name":"skybox_iran_06",
+			"src":"resources/skyboxes/iran/06.jpg"
+		},
+		{
+			"name":"skybox_monte_01",
+			"src":"resources/skyboxes/monte/01.jpg"
+		},
+		{
+			"name":"skybox_monte_02",
+			"src":"resources/skyboxes/monte/02.jpg"
+		},
+		{
+			"name":"skybox_monte_03",
+			"src":"resources/skyboxes/monte/03.jpg"
+		},
+		{
+			"name":"skybox_monte_04",
+			"src":"resources/skyboxes/monte/04.jpg"
+		},
+		{
+			"name":"skybox_monte_05",
+			"src":"resources/skyboxes/monte/05.jpg"
+		},
+		{
+			"name":"skybox_monte_06",
+			"src":"resources/skyboxes/monte/06.jpg"
+		},
+		{
+			"name":"skybox_ny_01",
+			"src":"resources/skyboxes/ny/01.jpg"
+		},
+		{
+			"name":"skybox_ny_02",
+			"src":"resources/skyboxes/ny/02.jpg"
+		},
+		{
+			"name":"skybox_ny_03",
+			"src":"resources/skyboxes/ny/03.jpg"
+		},
+		{
+			"name":"skybox_ny_04",
+			"src":"resources/skyboxes/ny/04.jpg"
+		},
+		{
+			"name":"skybox_ny_05",
+			"src":"resources/skyboxes/ny/05.jpg"
+		},
+		{
+			"name":"skybox_ny_06",
+			"src":"resources/skyboxes/ny/06.jpg"
+		},
+		{
+			"name":"skybox_plato_01",
+			"src":"resources/skyboxes/plato/01.jpg"
+		},
+		{
+			"name":"skybox_plato_02",
+			"src":"resources/skyboxes/plato/02.jpg"
+		},
+		{
+			"name":"skybox_plato_03",
+			"src":"resources/skyboxes/plato/03.jpg"
+		},
+		{
+			"name":"skybox_plato_04",
+			"src":"resources/skyboxes/plato/04.jpg"
+		},
+		{
+			"name":"skybox_plato_05",
+			"src":"resources/skyboxes/plato/05.jpg"
+		},
+		{
+			"name":"skybox_plato_06",
+			"src":"resources/skyboxes/plato/06.jpg"
+		},
+		{
+			"name":"skybox_winter_01",
+			"src":"resources/skyboxes/winter/01.jpg"
+		},
+		{
+			"name":"skybox_winter_02",
+			"src":"resources/skyboxes/winter/02.jpg"
+		},
+		{
+			"name":"skybox_winter_03",
+			"src":"resources/skyboxes/winter/03.jpg"
+		},
+		{
+			"name":"skybox_winter_04",
+			"src":"resources/skyboxes/winter/04.jpg"
+		},
+		{
+			"name":"skybox_winter_05",
+			"src":"resources/skyboxes/winter/05.jpg"
+		},
+		{
+			"name":"skybox_winter_06",
+			"src":"resources/skyboxes/winter/06.jpg"
+		},
+		{
 			"name": "waspny_m0_lightmap",
 			"src": "resources/hull/wasp/m0/lightmap.jpg"
 		},
@@ -2820,58 +3060,6 @@
 			"name": "alternativahull_m0_preview",
 			"src": "resources/hull/alternativa/preview.png?v1"
 		},
-		{
-			"name": "smokyxt_m0_lightmap",
-			"src": "resources/turret/smoky_xt/lightmap.jpg?v1"
-		},
-		{
-			"name": "smokyxt_m0_details",
-			"src": "resources/turret/smoky_xt/details.png?v1"
-		},
-		{
-			"name": "smokyxt_m0_preview",
-			"src": "resources/turret/smoky_xt/preview.png?v1"
-		},
-		{
-			"name": "smokyxt_m0_shot",
-			"src": "resources/turret/smoky_xt/shot.png?v1"
-		},
-		{
-			"name": "smokyxt_m0_explosion",
-			"src": "resources/turret/smoky_xt/fire.png?v1"
-		},
-		{
-			"name": "bonus_box_megagold",
-			"src": "resources/bonus/boxes/crystal100/box.jpg?v1"
-		},
-		{
-			"name": "skybox_desert_01",
-			"src": "resources/skyboxes/desert/01.jpg"
-		},
-		{
-			"name": "skybox_desert_02",
-			"src": "resources/skyboxes/desert/02.jpg"
-		},
-		{
-			"name": "skybox_desert_03",
-			"src": "resources/skyboxes/desert/03.jpg"
-		},
-		{
-			"name": "skybox_desert_04",
-			"src": "resources/skyboxes/desert/04.jpg"
-		},
-		{
-			"name": "skybox_desert_05",
-			"src": "resources/skyboxes/desert/05.jpg"
-		},
-		{
-			"name": "skybox_desert_06",
-			"src": "resources/skyboxes/desert/06.jpg"
-		},
-		{
-         	   "name": "double_crystalls_m0_preview",
-       	     "src": "resources/effects/Crystal_discount.png"
-       		 },
 		{
          	"name": "serf_m0_preview",
        	    "src": "resources/engine/diesel/engine_diesel1.png"
