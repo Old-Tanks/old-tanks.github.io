@@ -1506,7 +1506,7 @@
 		},
 		{
 			"name": "bonus_box_megagold",
-			"src": "resources/bonus/boxes/crystal100/box.jpg?v1"
+			"src": "resources/bonus/boxes/crystal1000/box.jpg?v1"
 		},
 		{
 			"name": "bonus_box_crystall",
