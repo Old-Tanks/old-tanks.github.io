@@ -1490,11 +1490,11 @@
 		},
 		{
 			"name": "iddqd_m0_preview",
-			"src": "colormaps/iddqd/preview.png"
+			"src": "resources/colormaps/iddqd/preview.png"
 		},
 		{
 			"name": "iddqd_m0",
-			"src": "colormaps/iddqd/image.jpg",
+			"src": "resources/colormaps/iddqd/image.jpg",
 			"multiframe": true,
 			"fps": 20,
 			"frame_heigth": 256,
