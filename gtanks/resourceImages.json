@@ -3074,6 +3074,18 @@
 			"src": "resources/hull/alternativa/preview.png?v1"
 		},
 		{
+			"name": "bigtanks_m0_lightmap",
+			"src": "resources/hull/alternativa/lightmapbig.jpg?v1"
+		},
+		{
+			"name": "bigtanks_m0_details",
+			"src": "resources/hull/alternativa/detailsbig.png?v1"
+		},
+		{
+			"name": "bigtanks_m0_preview",
+			"src": "resources/hull/alternativa/previewbig.png?v1"
+		},
+		{
          	"name": "serf_m0_preview",
        	    "src": "resources/engine/diesel/engine_diesel1.png"
 		},

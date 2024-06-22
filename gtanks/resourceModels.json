@@ -351,7 +351,11 @@
 		},
 		{
 			"name": "alternativahull_m0",
-			"src": "resources/hull/alternativa/tank_heavy_alternativa.3ds"
+			"src": "resources/hull/alternativa/small.3ds"
+		},
+		{
+			"name": "bigtanks_m0",
+			"src": "resources/hull/alternativa/big.3ds"
 		},
 		{
 			"name": "smokyxt_m0",
