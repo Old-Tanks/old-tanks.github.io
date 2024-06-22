@@ -1489,6 +1489,19 @@
 			"src":"resources/colormaps/spectr/preview.png"
 		},
 		{
+			"name": "iddqd_m0_preview",
+			"src": "colormaps/iddqd/preview.png"
+		},
+		{
+			"name": "iddqd_m0",
+			"src": "colormaps/iddqd/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 256,
+			"frame_width": 256,
+			"num_frames": 72
+		},
+		{
 			"name": "cords",
 			"src": "resources/bonus/cords.png?v1"
 		},
@@ -3018,15 +3031,15 @@
 		},
 		{
 			"name": "waspny_m0_lightmap",
-			"src": "resources/hull/wasp/m0/lightmap.jpg"
+			"src": "resources/hull/waspny/lightmap.jpg"
 		},
 		{
 			"name": "waspny_m0_details",
-			"src": "resources/hull/wasp/6eaf8c5a93751ae9.webp"
+			"src": "resources/hull/waspny/details.png"
 		},
 		{
 			"name": "waspny_m0_preview",
-			"src": "resources/hull/wasp/m0/preview.png"
+			"src": "resources/hull/waspny/preview.png"
 		},
 		{
 			"name": "alternativa_m0_explosionResourceId",
