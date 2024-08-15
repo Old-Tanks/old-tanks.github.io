@@ -1199,11 +1199,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "tank_parts/colorings/holiday_br.jpg"
+		"src": "tank_parts/colorings/checker.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "item/preview/coloring_holiday_br.png"
+		"src": "item/preview/coloring_holiday.png"
 	 },
 	 {
 		"name": "red_m0",
