@@ -3446,6 +3446,14 @@
 	"src":  "maps/map_3thlibrary_preview.jpg?v120"
 	},
 	{
+	"name": "map_unicorns_n_rainbow_preview",
+	"src":  "maps/map_test_preview.jpg?v120"
+	},
+	{
+	"name": "map_testbox_preview",
+	"src":  "maps/map_test_preview.jpg?v120"
+	},
+	{
 	"name": "map_headspinners_race_preview",
 	"src":  "maps/map_headspinners_race_preview.jpg?v120"
 	},
