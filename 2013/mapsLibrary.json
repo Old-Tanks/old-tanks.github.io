@@ -45,6 +45,7 @@
             "name": "map_unicorns_n_rainbow.xml",
             "libs": [
                 "resources/library/Summer/LandTiles.tara?v=MypCak",
+                "resources/library/Summer/LandRise.tara?v=MypCak",
                 "resources/library/Summer/LandRocks.tara?v=MypCak"
             ]
         },
