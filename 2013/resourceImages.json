@@ -2656,6 +2656,11 @@
 	}
 	,
 	{
+	"name": "map_highland_evening_preview",
+	"src": "maps/map_highland_evening_preview.jpg?v120"
+	}
+	,
+	{
 	"name": "map_hill_preview",
 	"src": "maps/map_hill_preview.jpg?v120"
 	}
@@ -2952,6 +2957,10 @@
 	"src": "maps/map_silence_II_preview.jpg?v120"
 	},
 	{
+	"name": "map_silence_II_evening_preview",
+	"src": "maps/map_silence_II_evening_preview.jpg?v120"
+	},
+	{
 	"name": "map_gladiator_preview",
 	"src": "maps/map_gladiator_preview.jpg?v120"
 	}
@@ -3190,6 +3199,10 @@
 	"src": "maps/map_highland_II_winter_preview.jpg?v120"
 	},	
 	{
+	"name": "map_highland_winter_evening_preview",
+	"src": "maps/map_highland_winter_evening_preview.jpg?v120"
+	},
+	{
 	"name": "map_highland_winter_preview",
 	"src": "maps/map_highland_winter_preview.jpg?v120"
 	},	
@@ -3300,6 +3313,10 @@
 	{
 	"name": "map_silence_II_winter_preview",
 	"src": "maps/map_silence_II_winter_preview.jpg?v120"
+	},	
+	{
+	"name": "map_silence_II_winter_evening_preview",
+	"src": "maps/map_silence_II_winter_evening_preview.jpg?v120"
 	},	
 	{
 	"name": "map_silence_winter_preview",
@@ -3444,6 +3461,10 @@
 	{
 	"name": "map_3thlibrary_preview",
 	"src":  "maps/map_3thlibrary_preview.jpg?v120"
+	},
+	{
+	"name": "map_silence_space_preview",
+	"src": "maps/map_silence_space_preview.jpg?v120"
 	},
 	{
 	"name": "map_unicorns_n_rainbow_preview",

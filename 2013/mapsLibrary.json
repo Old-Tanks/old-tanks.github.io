@@ -1157,6 +1157,42 @@
                 "resources/library/v1Summer/land_v1.tara?v=MypCak"
             ]
         },
+	    {
+		    "name": "map_highland_evening.xml",
+		    "libs": [
+				"resources/library/Summer/LandRocks.tara",
+				"resources/library/Summer/LandTiles.tara",
+				"resources/library/Summer/OuterWalls.tara",
+				"resources/library/Summer/WaffleFence.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialElements.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/DesertHouses.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/CityBuildings.tara"
+			]
+	    },
+        {
+            "name": "map_highland_winter_evening.xml",
+            "libs": [
+				"resources/library/Winter/LandRocks.tara",
+				"resources/library/Winter/LandTiles.tara",
+				"resources/library/Winter/OuterWalls.tara",
+				"resources/library/Winter/WaffleFence.tara",
+				"resources/library/Winter/Bush.tara",
+				"resources/library/Winter/IndustrialElements.tara",
+				"resources/library/Winter/IndustrialBridge.tara",
+				"resources/library/Winter/NuBu9.tara",
+				"resources/library/Winter/Promotion.tara",
+				"resources/library/Winter/DesertHouses.tara",
+				"resources/library/Winter/NuBu12.tara",
+				"resources/library/Winter/Stuffs.tara",
+				"resources/library/Winter/CityBuildings.tara"
+            ]
+        },
         {
             "name": "map_highland.xml",
             "libs": [
@@ -1831,6 +1867,27 @@
                 "resources/library/v1Summer/land_v1.tara?v=MypCak"
             ]
         },
+	    {
+		    "name": "map_silence_space.xml",
+		    "libs": [
+                "resources/library/v1Summer/buildings_v1.tara?v=MypCak",
+				"resources/library/Summer/LandRocks.tara",
+				"resources/library/Summer/LandTiles.tara",
+				"resources/library/Summer/OuterWalls.tara",
+				"resources/library/Summer/BrokenWalls.tara",
+				"resources/library/Summer/WaffleFence.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialElements.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/DesertHouses.tara",
+				"resources/library/Summer/NuBu6.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/CityBuildings.tara"
+			]
+	    },
         {
             "name": "map_silence_II.xml",
             "libs": [
@@ -1847,6 +1904,46 @@
                 "resources/library/v1Winter/complex_build_v1_winter.tara?v=MypCak",
                 "resources/library/v1Winter/elements_v1_winter.tara?v=MypCak",
                 "resources/library/v1Winter/land_v1_winter.tara?v=MypCak"
+            ]
+        },
+        {
+            "name": "map_silence_II_evening.xml",
+            "libs": [
+				"resources/library/Summer/LandRocks.tara",
+				"resources/library/Summer/LandTiles.tara",
+				"resources/library/Summer/OuterWalls.tara",
+				"resources/library/Summer/BrokenWalls.tara",
+				"resources/library/Summer/WaffleFence.tara",
+				"resources/library/Summer/Bush.tara",
+				"resources/library/Summer/IndustrialElements.tara",
+				"resources/library/Summer/IndustrialBridge.tara",
+				"resources/library/Summer/NuBu9.tara",
+				"resources/library/Summer/Promotion.tara",
+				"resources/library/Summer/DesertHouses.tara",
+				"resources/library/Summer/NuBu6.tara",
+				"resources/library/Summer/NuBu12.tara",
+				"resources/library/Summer/Stuffs.tara",
+				"resources/library/Summer/CityBuildings.tara"
+            ]
+        },
+        {
+            "name": "map_silence_II_winter_evening.xml",
+            "libs": [
+				"resources/library/Winter/LandRocks.tara",
+				"resources/library/Winter/LandTiles.tara",
+				"resources/library/Winter/OuterWalls.tara",
+				"resources/library/Winter/BrokenWalls.tara",
+				"resources/library/Winter/WaffleFence.tara",
+				"resources/library/Winter/Bush.tara",
+				"resources/library/Winter/IndustrialElements.tara",
+				"resources/library/Winter/IndustrialBridge.tara",
+				"resources/library/Winter/NuBu9.tara",
+				"resources/library/Winter/Promotion.tara",
+				"resources/library/Winter/DesertHouses.tara",
+				"resources/library/Winter/NuBu6.tara",
+				"resources/library/Winter/NuBu12.tara",
+				"resources/library/Winter/Stuffs.tara",
+				"resources/library/Winter/CityBuildings.tara"
             ]
         },
         {
