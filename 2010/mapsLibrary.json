@@ -1,0 +1,2554 @@
+{
+    "items": [
+            {
+                "name": "map_2042.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_2042_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_2042_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_abyss.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_abyss_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_abyss_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_alpha.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_alpha_new.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_arena.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_arena_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_arena_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_arena_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_astrella.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra-2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_2_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_2_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_atra_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_babylon.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_barda.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_barda_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_barda_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_berlin.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_berlin_quest.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/bdquest.tara"
+                        ]
+            },
+            {
+                "name": "map_berlin_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_big.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_big_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_bobruisk.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_bobruisk_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_boombox.xml",
+                "libs": [
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_boombox_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_boombox_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_boombox_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_boombox_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_brest.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_brest_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_brest_2_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_brest_2_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_brest_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_brest_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_bridges.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_bridges_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_camp.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_camp_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_camp_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_canyon.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_canyon_figishe.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_canyon_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_canyon_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_canyon_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_carrousel.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_carrousel_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_cave.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/Test.tara"
+                        ]
+            },
+            {
+                "name": "map_chernobyl.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_chernobyl_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_citadel.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_combe.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_combe_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_combe_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_courage.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_courage_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_crash.xml",
+                "libs": [
+                    "resources/proplibs/crash.tara"
+                        ]
+            },
+            {
+                "name": "map_cross.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_crossroad.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_crossroad_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_deathtrack.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_deathtrack_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_deathtrack_test.xml",
+                "libs": [
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_deathtrack_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_deck9.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_deck9_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_deck9_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_deck9_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_desert.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_desert_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_dm2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_duality.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_duality_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_duality_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_duality_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_duel.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_duel_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_dusseldorf.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_dusseldorf_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_dusseldorf_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_eldorado.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_esplanade.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_esplanade_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_factory.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_factory_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_farm.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_farm_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_farm_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_farm_winter.xml",
+                "libs": [
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_flying_test.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_forest.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_forest_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknox.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknoxII.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/castle.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknox_II_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara",
+                    "resources/proplibs/castle_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknox_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknox_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/castle_winter.tara",
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_fortknox_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/castle_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_fort_knox_III.xml",
+                "libs": [
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_fort_knox_III_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/castle.tara"
+                        ]
+            },
+            {
+                "name": "map_fort_knox_III_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/castle_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_garder.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_garder_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_gladiator.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_gorodok.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_gravity.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_gravity_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_gravity_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_gubakha.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_gubakha_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_halloween.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/Halloween.tara",
+                    "resources/proplibs/castle.tara"
+                        ]
+            },
+            {
+                "name": "map_hangars.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_hangars_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_happy_new_year.xml",
+                "libs": [
+                    "resources/proplibs/builds_winter.tara",
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/NY.tara"
+                        ]
+            },
+            {
+                "name": "map_happy_new_year2012.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/NY.tara"
+                        ]
+            },
+            {
+                "name": "map_happy_new_year2012_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/NY.tara"
+                        ]
+            },
+            {
+                "name": "map_hes.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_II.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_II_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_II_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_II_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_highland_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_highways.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_highways_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_hill.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_industrial_zone.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_industrial_zone2.0.xml",
+                "libs": [
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_industrial_zone20.xml",
+                "libs": [
+                    "resources/proplibs/Industrial_zone_2.0"
+                        ]
+            },
+            {
+                "name": "map_industrial_zone_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_iran.xml",
+                "libs": [
+                    "resources/proplibs/zamin.tara",
+                    "resources/proplibs/yonje.tara",
+                    "resources/proplibs/kahgel.tara",
+                    "resources/proplibs/kariz.tara"
+                        ]
+            },
+            {
+                "name": "map_iran_old.xml",
+                "libs": [
+                    "resources/proplibs/zamin.tara",
+                    "resources/proplibs/kahgel.tara",
+                    "resources/proplibs/yonje.tara",
+                    "resources/proplibs/kariz.tara"
+                        ]
+            },
+            {
+                "name": "map_iran_winter.xml",
+                "libs": [
+                    "resources/proplibs/zamin_Winter.tara",
+                    "resources/proplibs/yonje_Winter.tara",
+                    "resources/proplibs/kahgel_Winter.tara",
+                    "resources/proplibs/kariz_Winter.tara"
+                        ]
+            },
+            {
+                "name": "map_island.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_island_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_kingdom.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/castle.tara"
+                        ]
+            },
+            {
+                "name": "map_kingdom_space.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/castle.tara"
+                        ]
+            },
+            {
+                "name": "map_kolhoz.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_kolhoz_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_kolhoz_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_kolhoz_winter.xml",
+                "libs": [
+                    "resources/proplibs/builds_winter.tara",
+                    "resources/proplibs/landscape_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur_ftc.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur_ftc_normal.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur_remake.xml",
+                "libs": [
+                    "resources/proplibs/megaLand.tara",
+                    "resources/proplibs/MegaProps.tara",
+                    "resources/proplibs/rocks.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_kungur_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_labirint.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_labyrinth.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_losttemple.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_losttemple_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_losttemple_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_losttemple_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_madness.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_madness_ctf.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_madness_dm.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_madness_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_madness_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_madness_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_magadan.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_magadan_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_magistral.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_magistral_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_massacre.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_massacre_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_megaprops1.xml",
+                "libs": [
+                    "resources/proplibs/MegaProps.tara"
+                        ]
+            },
+            {
+                "name": "map_middle.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_mini_brest.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_molotov.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_molotov_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_molotov_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_molotov_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_montecarlo.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_montecarlo_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_montecarlo_space.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_montecarlo_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_mountain.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_mountain2.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_neboskreb.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_newprops.xml",
+                "libs": [
+                    "resources/proplibs/megaLand.tara",
+                    "resources/proplibs/MegaProps.tara",
+                    "resources/proplibs/rocks.tara"
+                        ]
+            },
+            {
+                "name": "map_newprops_2.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_new_format.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_new_sandbox.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_new_tribute.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_noise.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_noise_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_noise_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_novel.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_novel2.0.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_novel20.xml",
+                "libs": [
+                    "resources/proplibs/Novel_2.0"
+                        ]
+            },
+            {
+                "name": "map_novel_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_opposition.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_opposition_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_opposition_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_opposition_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_osa.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_osa_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_parma.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_parma_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_pass.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pass_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pass_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_pereval.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pereval_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pereval_v.1.2.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pereval_v.1.2b.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_persia.xml",
+                "libs": [
+                    "resources/proplibs/kahgel.tara",
+                    "resources/proplibs/zamin.tara",
+                    "resources/proplibs/yonje.tara",
+                    "resources/proplibs/kariz.tara"
+                        ]
+            },
+            {
+                "name": "map_pingpong.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_pingpong_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_plant.xml",
+                "libs": [
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_plato.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_podium.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon_ctf.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon_ctf_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_polygon_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_position.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_quartet.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_raven.xml",
+                "libs": [
+                    "resources/proplibs/MegaProps.tara"
+                        ]
+            },
+            {
+                "name": "map_redalert.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_redalert_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_redalert_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_redalert_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_resheto.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_rift.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_rift_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_rov.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_ruins.xml",
+                "libs": [
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_sandal.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_sandal_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_sandal_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_sandal_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_sandal_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_noob.xml",
+                "libs": [
+                    "resources/proplibs/Noob.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_noob_ftc.xml",
+                "libs": [
+                    "resources/proplibs/Noob.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_sandbox_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_scope.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_scope_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_scope_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_scope_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_seaport.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_serpuhov.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_serpuhov_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_serpuhov_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_serpuhov_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_shortbridge.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_shortbridge_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_shortbridge_2_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_shortbridge_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_shortbridge_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_siams.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_siege.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_siege_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_silence.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence20.xml",
+                "libs": [
+                    "resources/proplibs/Silence_2.0"
+                        ]
+            },
+            {
+                "name": "map_silence2test.xml",
+                "libs": [
+                    "resources/proplibs/Silence2test_2.0"
+                        ]
+            },
+            {
+                "name": "map_silence_II.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_II_evening.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_II_ftc.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_II_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_II_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_II_winter_evening.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_v.1.0.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_v.1.2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_skylark.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_skylark_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_skylark_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_skylark_quest.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/bdquest.tara"
+                        ]
+            },
+            {
+                "name": "map_skylark_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_solikamsk.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_solikamsk_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_solikamsk_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_solikamsk_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_stadium.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_stadium_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_stadium_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_stadium_space.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_stadium_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_station.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_station_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_station_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_station_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_subway.xml",
+                "libs": [
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_subway_old.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_subway_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/buildings_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_subway_winter.xml",
+                "libs": [
+                    "resources/proplibs/buildings_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/complex_build_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_test.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/Test.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_1.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_1_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_1_v.1.0.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_1_v.1.1.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_1_v.1.2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_2.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_3.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_testing_ground_4.xml",
+                "libs": [
+                    "resources/proplibs/builds.tara",
+                    "resources/proplibs/landscape.tara"
+                        ]
+            },
+            {
+                "name": "map_test_new.xml",
+                "libs": [
+                    "resources/proplibs/Test.tara"
+                        ]
+            },
+            {
+                "name": "map_the_street.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_trains.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_trains_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_trains_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_tribute.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_tribute_v2.xml",
+                "libs": [
+                    "resources/proplibs/landscape_v2.tara",
+                    "resources/proplibs/builds_v2.tara"
+                        ]
+            },
+            {
+                "name": "map_tribute_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_valley.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_valley_old.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_valley_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_valley_quest.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/bdquest.tara"
+                        ]
+            },
+            {
+                "name": "map_valley_winter.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/land_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_vladislavich.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_wave.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_wave_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_wolfenstein.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_wolfenstein_old.xml",
+                "libs": [
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/castle.tara",
+                    "resources/proplibs/builds.tara"
+                        ]
+            },
+            {
+                "name": "map_wolfenstein_old_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/castle_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_wolfenstein_winter.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/castle_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
+                "name": "map_zone.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_zone2.0.xml",
+                "libs": [
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_zone20.xml",
+                "libs": [
+                    "resources/proplibs/Zone_2.0"
+                        ]
+            },
+            {
+                "name": "map_zone_winter.xml",
+                "libs": [
+                    "resources/proplibs/land_v1_winter.tara",
+                    "resources/proplibs/elements_v1_winter.tara",
+                    "resources/proplibs/buildings_v1.tara"
+                        ]
+            }
+    ]
+}

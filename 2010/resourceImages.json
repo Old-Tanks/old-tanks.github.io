@@ -2007,6 +2007,11 @@
 	}
 	,
 	{
+	"name": "map_combe_old_preview",
+	"src": "maps/map_combe_old_preview.jpg?v120"
+	}
+	,
+	{
 	"name": "map_courage_preview",
 	"src": "maps/map_courage_preview.jpg?v120"
 	}
@@ -2294,6 +2299,11 @@
 	{
 	"name": "map_madness_old_preview",
 	"src": "maps/map_madness_old_preview.jpg?v120"
+	}
+	,
+	{
+	"name": "map_madness_v.1.1_preview",
+	"src": "maps/map_madness_v.1.1_preview.jpg?v120"
 	}
 	,
 	{
