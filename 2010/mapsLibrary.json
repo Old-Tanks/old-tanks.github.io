@@ -1054,7 +1054,7 @@
             {
                 "name": "map_industrial_zone20.xml",
                 "libs": [
-                    "resources/proplibs/Industrial_zone_2.0.tara"
+                    "resources/proplibs/Industrial_zone2.0.tara"
                         ]
             },
             {
@@ -2035,13 +2035,13 @@
             {
                 "name": "map_silence20.xml",
                 "libs": [
-                    "resources/proplibs/Silence_2.0.tara"
+                    "resources/proplibs/Silence2.0.tara"
                         ]
             },
             {
                 "name": "map_silence2test.xml",
                 "libs": [
-                    "resources/proplibs/Silence2test_2.0.tara"
+                    "resources/proplibs/Silence2test2.0.tara"
                         ]
             },
             {
@@ -2539,7 +2539,7 @@
             {
                 "name": "map_zone20.xml",
                 "libs": [
-                    "resources/proplibs/Zone_2.0"
+                    "resources/proplibs/Zone2.0.tara"
                         ]
             },
             {
