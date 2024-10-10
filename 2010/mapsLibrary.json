@@ -2026,8 +2026,8 @@
             {
                 "name": "map_silence_test.xml",
                 "libs": [
-                    "resources/proplibs/landscape_winter.tara",
-                    "resources/proplibs/builds_winter.tara"
+                    "resources/proplibs/landscape.tara",
+                    "resources/proplibs/builds.tara"
                         ]
             },
             {
