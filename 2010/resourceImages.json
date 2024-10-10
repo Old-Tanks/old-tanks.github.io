@@ -2762,6 +2762,14 @@
 	"src": "maps/map_silence_v.1.2_preview.jpg?v120"
 	},
 	{
+	"name": "map_silence_v.1.3_preview",
+	"src": "maps/map_silence_v.1.3_preview.jpg?v120"
+	},
+	{
+	"name": "map_silence_test_preview",
+	"src": "maps/map_silence_test_preview.jpg?v120"
+	},
+	{
 	"name": "map_silence_II_old_preview",
 	"src": "maps/map_silence_II_old_preview.jpg?v120"
 	},

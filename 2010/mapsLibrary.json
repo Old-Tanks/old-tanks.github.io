@@ -2024,6 +2024,13 @@
                         ]
             },
             {
+                "name": "map_silence_test.xml",
+                "libs": [
+                    "resources/proplibs/landscape_winter.tara",
+                    "resources/proplibs/builds_winter.tara"
+                        ]
+            },
+            {
                 "name": "map_silence.xml",
                 "libs": [
                     "resources/proplibs/elements_v1.tara",
@@ -2127,6 +2134,15 @@
             },
             {
                 "name": "map_silence_v.1.2.xml",
+                "libs": [
+                    "resources/proplibs/elements_v1.tara",
+                    "resources/proplibs/land_v1.tara",
+                    "resources/proplibs/buildings_v1.tara",
+                    "resources/proplibs/complex_build_v1.tara"
+                        ]
+            },
+            {
+                "name": "map_silence_v.1.3.xml",
                 "libs": [
                     "resources/proplibs/elements_v1.tara",
                     "resources/proplibs/land_v1.tara",
