@@ -126,6 +126,38 @@
 		"src": "skyboxes/skybox_sky.jpg"
 	 },
 	 {
+		"name": "hunter+_m0_details",
+		"src": "tank_parts/hulls/hull6_old/details.png"
+	 },
+	 {
+		"name": "hunter+_m0_lightmap",
+		"src": "tank_parts/hulls/hull6_old/lightmap.jpg"
+	 },
+	 {
+		"name": "hunter+_m1_details",
+		"src": "tank_parts/hulls/hull6_old/details.png"
+	 },
+	 {
+		"name": "hunter+_m1_lightmap",
+		"src": "tank_parts/hulls/hull6_old/lightmap.jpg"
+	 },
+	 {
+		"name": "hunter+_m2_details",
+		"src": "tank_parts/hulls/hull6_old/details.png"
+	 },
+	 {
+		"name": "hunter+_m2_lightmap",
+		"src": "tank_parts/hulls/hull6_old/lightmap.jpg"
+	 },
+	 {
+		"name": "hunter+_m3_details",
+		"src": "tank_parts/hulls/hull6_old/details.png"
+	 },
+	 {
+		"name": "hunter+_m3_lightmap",
+		"src": "tank_parts/hulls/hull6_old/lightmap.jpg"
+	 },
+	 {
 		"name": "viking_m0_details",
 		"src": "tank_parts/hulls/hull6/details.png"
 	 },
@@ -208,6 +240,22 @@
 	 {
 		"name": "thunder_m3_preview",
 		"src": "item/preview/turret_thunder_m3.png"
+	 },
+	 {
+		"name": "hunter+_m0_preview",
+		"src": "item/preview/hull_hunter+.png"
+	 },
+	 {
+		"name": "hunter+_m1_preview",
+		"src": "item/preview/hull_hunter+.png"
+	 },
+	 {
+		"name": "hunter+_m2_preview",
+		"src": "item/preview/hull_hunter+.png"
+	 },
+	 {
+		"name": "hunter+_m3_preview",
+		"src": "item/preview/hull_hunter+.png"
 	 },
 	 {
 		"name": "viking_m0_preview",
@@ -956,6 +1004,54 @@
 	 {
 		"name": "hornet_m3_preview",
 		"src": "item/preview/hull_hornet_m3.png"
+	 },
+	 {
+		"name": "titan+_m0_lightmap",
+		"src": "tank_parts/hulls/hull7_old/lightmap.jpg"
+	 },
+	 {
+		"name": "titan+_m0_details",
+		"src": "tank_parts/hulls/hull7_old/details.png"
+	 },
+	 {
+		"name": "titan+_m0_preview",
+		"src": "item/preview/hull_titan_m0.png"
+	 },
+	 {
+		"name": "titan+_m1_lightmap",
+		"src": "tank_parts/hulls/hull7_old/lightmap.jpg"
+	 },
+	 {
+		"name": "titan+_m1_details",
+		"src": "tank_parts/hulls/hull7_old/details.png"
+	 },
+	 {
+		"name": "titan+_m1_preview",
+		"src": "item/preview/hull_titan_m1.png"
+	 },
+	 {
+		"name": "titan+_m2_lightmap",
+		"src": "tank_parts/hulls/hull7_old/lightmap.jpg"
+	 },
+	 {
+		"name": "titan+_m2_details",
+		"src": "tank_parts/hulls/hull7_old/details.png"
+	 },
+	 {
+		"name": "titan+_m2_preview",
+		"src": "item/preview/hull_titan_m2.png"
+	 },
+	 {
+		"name": "titan+_m3_lightmap",
+		"src": "tank_parts/hulls/hull7_old/lightmap.jpg"
+	 },
+	 {
+		"name": "titan+_m3_details",
+		"src": "tank_parts/hulls/hull7_old/details.png"
+	 },
+	 {
+		"name": "titan+_m3_preview",
+		"src": "item/preview/hull_titan_m3.png"
 	 },
 	 {
 		"name": "mamont_m0_lightmap",

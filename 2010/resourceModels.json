@@ -16,6 +16,22 @@
 		"src": "tank_parts/garage_box/box/garage.3DS"
 	  },
 	  {
+		"name": "hunter+_m0",
+		"src": "tank_parts/hulls/hull6_old/hull.3ds"
+	  },
+	  {
+		"name": "hunter+_m1",
+		"src": "tank_parts/hulls/hull6_old/hull.3ds"
+	  },
+	  {
+		"name": "hunter+_m2",
+		"src": "tank_parts/hulls/hull6_old/hull.3ds"
+	  },
+	  {
+		"name": "hunter+_m3",
+		"src": "tank_parts/hulls/hull6_old/hull.3ds"
+	  },
+	  {
 		"name": "viking_m0",
 		"src": "tank_parts/hulls/hull6/hull.3ds"
 	  },
@@ -276,6 +292,22 @@
 	  {
 		"name": "hornet_m3",
 		"src": "tank_parts/hulls/hull5_m3/hull.3ds"
+	  },
+	  {
+		"name": "titan+_m0",
+		"src": "tank_parts/hulls/hull7_old/hull.3ds"
+	  },
+	  {
+		"name": "titan+_m1",
+		"src": "tank_parts/hulls/hull7_old/hull.3ds"
+	  },
+	  {
+		"name": "titan+_m2",
+		"src": "tank_parts/hulls/hull7_old/hull.3ds"
+	  },
+	  {
+		"name": "titan+_m3",
+		"src": "tank_parts/hulls/hull7_old/hull.3ds"
 	  },
 	  {
 		"name": "mamont_m0",
