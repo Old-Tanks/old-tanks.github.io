@@ -43,7 +43,7 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue.png",
+		"src": "ctf/flag_blueh.png",
 		"multiframe": true,
 		"fps": 5,
 		"frame_heigth": 256,
@@ -52,7 +52,7 @@
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red.png",
+		"src": "ctf/flag_redh.png",
 		"multiframe": true,
 		"fps": 5,
 		"frame_heigth": 256,
