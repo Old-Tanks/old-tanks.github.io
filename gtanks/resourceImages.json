@@ -1791,6 +1791,10 @@
 	"src": "maps/map_halloween_preview.jpg"
 	},
 	{
+	"name": "map_mysranks_preview",
+	"src": "maps/map_mysranks_preview.jpg"
+	},
+	{
 	"name": "railgun_m0_shot",
 	"src": "turret/railgun/m0/railgun.png"
 	},

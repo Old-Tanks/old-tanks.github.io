@@ -12,6 +12,8 @@
 		<proplib url="resources/library/Test.tara"/>
 		<proplib url="resources/library/Tunnels.tara"/>
 		<proplib url="resources/library/castle.tara"/>
+		<proplib url="resources/library/Halloween.tara"/>
+		<proplib url="resources/library/Govno.tara"/>
 		<!--<proplib url="resources/library/zamin.tara"/>
 		<proplib url="resources/library/yonje.tara"/>
 		<proplib url="resources/library/kariz.tara"/>
