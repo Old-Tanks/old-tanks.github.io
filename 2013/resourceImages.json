@@ -43,11 +43,11 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue_hl.png"
+		"src": "ctf/flag_blue.png"
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red_hl.png"
+		"src": "ctf/flag_red.png"
 	 },
 	 {
 		"name": "explosionTexture",
