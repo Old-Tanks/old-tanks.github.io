@@ -2308,7 +2308,7 @@
     },
 	 {
 		"name": "bonus_box_gold",
-		"src": "bonus/boxes/crystal100/box.jpg?v1"
+		"src": "bonus/boxes/crystal100/box_hl.jpg?v1"
 	 }, 
 	 {
 		"name": "bonus_box_megagold",
