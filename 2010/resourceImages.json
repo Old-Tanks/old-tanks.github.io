@@ -3518,7 +3518,7 @@
 	},
 	{
 	"name": "smokyxt_m0_explosion",
-	"src": "effects/winter/gun/fire.png?v1"
+	"src": "effects/winter/gun/fire.PNG?v1"
 	},
 	{
 	"name": "smokyxt_m0_shot",
@@ -3526,37 +3526,37 @@
 	},
 	{
 	"name": "smoky_m0_explosion",
-	"src": "effects/winter/gun/fire.png?v1"
+	"src": "effects/winter/gun/fire.PNG?v1"
 	},
 	{
 	"name": "smoky_m1_explosion",
-	"src": "effects/winter/gun/fire.png?v1"
+	"src": "effects/winter/gun/fire.PNG?v1"
 	}
 	,
 	{
 	"name": "smoky_m2_explosion",
-	"src": "effects/winter/gun/fire.png?v1"
+	"src": "effects/winter/gun/fire.PNG?v1"
 	}
 	,
 	{
 	"name": "smoky_m3_explosion",
-	"src": "effects/winter/gun/fire.png?v1"
+	"src": "effects/winter/gun/fire.PNG?v1"
 	},
 	{
 	"name": "flamethrower_m0_fire",
-	"src": "effects/winter/flamethrower/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.PNG?v1"
 	},
 	{
 	"name": "flamethrower_m1_fire",
-	"src": "effects/winter/flamethrower/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.PNG?v1"
 	},
 	{
 	"name": "flamethrower_m2_fire",
-	"src": "effects/winter/flamethrower/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.PNG?v1"
 	},
 	{
 	"name": "flamethrower_m3_fire",
-	"src": "effects/winter/flamethrower/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.PNG?v1"
 	},
 	{
 	"name": "twins_m0_explosionTexture",
