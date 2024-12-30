@@ -11,11 +11,21 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue.png"
+		"src": "ctf/flag_blue_ny.png",
+		"multiframe": true,
+		"fps": 3,
+		"frame_heigth": 255,
+		"frame_width": 176,
+		"num_frames": 3
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red.png"
+		"src": "ctf/flag_red_ny.png",
+		"multiframe": true,
+		"fps": 3,
+		"frame_heigth": 255,
+		"frame_width": 176,
+		"num_frames": 3
 	 },
 	 {
 		"name": "explosionTexture",
