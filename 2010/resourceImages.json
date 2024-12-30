@@ -615,15 +615,15 @@
 	 },
 	 {
 		 "name": "smokyxt_m0_preview",
-		 "src": "item/preview/turret_smoky_xt.png"
+		 "src": "item/preview/turret_snowman.png"
 	 },
 	 {
 		 "name": "smokyxt_m0_lightmap",
-		 "src": "tank_parts/turrets/turret1_xt/lightmap.jpg"
+		 "src": "tank_parts/turrets/turret1_ny/lightmap.jpg"
 	 },
 	 {
 		 "name": "smokyxt_m0_details",
-		 "src": "tank_parts/turrets/turret1_xt/details.png"
+		 "src": "tank_parts/turrets/turret1_ny/details.png"
 	 },
 	 {
 		"name": "shaft_m0_lightmap",
@@ -1871,7 +1871,7 @@
 	 },	
 	 {
 		"name": "cords",
-		"src": "bonuses/cords.png?v1"
+		"src": "bonuses/cords_winter.png?v1"
 	 }, 
 	 {
 		"name": "parachute",
@@ -3438,285 +3438,285 @@
 	},		
 	{
 	"name": "railgun_m0_shot",
-	"src": "effects/railgun1/railgun.png?v1"
+	"src": "effects/winter/railgun/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m1_shot",
-	"src": "effects/railgun2/railgun.png?v1"
+	"src": "effects/winter/railgun/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m2_shot",
-	"src": "effects/railgun3/railgun.png?v1"
+	"src": "effects/winter/railgun/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m3_shot",
-	"src": "effects/railgun4/railgun.png?v1"
+	"src": "effects/winter/railgun/railgun.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart1",
-	"src": "effects/railgun1/charge_part1.png?v1"
+	"src": "effects/winter/railgun/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart2",
-	"src": "effects/railgun1/charge_part2.png?v1"
+	"src": "effects/winter/railgun/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m0_chargingPart3",
-	"src": "effects/railgun1/charge_part3.png?v1"
+	"src": "effects/winter/railgun/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart1",
-	"src": "effects/railgun2/charge_part1.png?v1"
+	"src": "effects/winter/railgun/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart2",
-	"src": "effects/railgun2/charge_part2.png?v1"
+	"src": "effects/winter/railgun/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m1_chargingPart3",
-	"src": "effects/railgun2/charge_part3.png?v1"
+	"src": "effects/winter/railgun/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart1",
-	"src": "effects/railgun3/charge_part1.png?v1"
+	"src": "effects/winter/railgun/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart2",
-	"src": "effects/railgun3/charge_part2.png?v1"
+	"src": "effects/winter/railgun/charge_part2.png?v1"
 	},
 	{
 	"name": "railgun_m2_chargingPart3",
-	"src": "effects/railgun3/charge_part3.png?v1"
+	"src": "effects/winter/railgun/charge_part3.png?v1"
 	},
 	{
 	"name": "railgun_m3_chargingPart1",
-	"src": "effects/railgun4/charge_part1.png?v1"
+	"src": "effects/winter/railgun/charge_part1.png?v1"
 	},
 	{
 	"name": "railgun_m3_chargingPart2",
-	"src": "effects/railgun4/charge_part2.png?v1"
+	"src": "effects/winter/railgun/charge_part2.png?v1"
 	} ,
 	{
 	"name": "railgun_m3_chargingPart3",
-	"src": "effects/railgun4/charge_part3.png?v1"
+	"src": "effects/winter/railgun/charge_part3.png?v1"
 	},
 	{
 	"name": "smoky_m0_shot",
-	"src": "effects/gun1/shot.png?v1"
+	"src": "effects/winter/gun/shot.png?v1"
 	},
 	{
 	"name": "smoky_m1_shot",
-	"src": "effects/gun2/shot.png?v1"
+	"src": "effects/winter/gun/shot.png?v1"
 	},
 	{
 	"name": "smoky_m2_shot",
-	"src": "effects/gun3/shot.png?v1"
+	"src": "effects/winter/gun/shot.png?v1"
 	},
 	{
 	"name": "smoky_m3_shot",
-	"src": "effects/gun4/shot.png?v1"
+	"src": "effects/winter/gun/shot.png?v1"
 	},
 	{
 	"name": "smokyxt_m0_explosion",
-	"src": "effects/gun4/fire.png?v1"
+	"src": "effects/winter/gun/fire.png?v1"
 	},
 	{
 	"name": "smokyxt_m0_shot",
-	"src": "effects/gun4/shot.png?v1"
+	"src": "effects/winter/gun/shot.png?v1"
 	},
 	{
 	"name": "smoky_m0_explosion",
-	"src": "effects/gun1/fire.png?v1"
+	"src": "effects/winter/gun/fire.png?v1"
 	},
 	{
 	"name": "smoky_m1_explosion",
-	"src": "effects/gun2/fire.png?v1"
+	"src": "effects/winter/gun/fire.png?v1"
 	}
 	,
 	{
 	"name": "smoky_m2_explosion",
-	"src": "effects/gun3/fire.png?v1"
+	"src": "effects/winter/gun/fire.png?v1"
 	}
 	,
 	{
 	"name": "smoky_m3_explosion",
-	"src": "effects/gun4/fire.png?v1"
+	"src": "effects/winter/gun/fire.png?v1"
 	},
 	{
 	"name": "flamethrower_m0_fire",
-	"src": "effects/flamethrower1/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m1_fire",
-	"src": "effects/flamethrower2/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m2_fire",
-	"src": "effects/flamethrower3/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.png?v1"
 	},
 	{
 	"name": "flamethrower_m3_fire",
-	"src": "effects/flamethrower4/fireball.png?v1"
+	"src": "effects/winter/flamethrower/fireball.png?v1"
 	},
 	{
 	"name": "twins_m0_explosionTexture",
-	"src": "effects/plasma1/explosion.png?v1"
+	"src": "effects/winter/plasma/explosion.png?v1"
 	},
 	{
 	"name": "twins_m1_explosionTexture",
-	"src": "effects/plasma2/explosion.png?v1"
+	"src": "effects/winter/plasma/explosion.png?v1"
 	},
 	{
 	"name": "twins_m2_explosionTexture",
-	"src": "effects/plasma3/explosion.png?v1"
+	"src": "effects/winter/plasma/explosion.png?v1"
 	},
 	{
 	"name": "twins_m3_explosionTexture",
-	"src": "effects/plasma4/explosion.png?v1"
+	"src": "effects/winter/plasma/explosion.png?v1"
 	},
 	{
 	"name": "twins_m0_plasmaTexture",
-	"src": "effects/plasma1/charge.png?v1"
+	"src": "effects/winter/plasma/charge.png?v1"
 	},
 	{
 	"name": "twins_m1_plasmaTexture",
-	"src": "effects/plasma2/charge.png?v1"
+	"src": "effects/winter/plasma/charge.png?v1"
 	},
 	{
 	"name": "twins_m2_plasmaTexture",
-	"src": "effects/plasma3/charge.png?v1"
+	"src": "effects/winter/plasma/charge.png?v1"
 	},
 	{
 	"name": "twins_m3_plasmaTexture",
-	"src": "effects/plasma4/charge.png?v1"
+	"src": "effects/winter/plasma/charge.png?v1"
 	},
 	{
 	"name": "twins_m0_shotTexture",
-	"src": "effects/plasma1/shot.png?v1"
+	"src": "effects/winter/plasma/shot.png?v1"
 	},
 	{
 	"name": "twins_m1_shotTexture",
-	"src": "effects/plasma2/shot.png?v1"
+	"src": "effects/winter/plasma/shot.png?v1"
 	},
 	{
 	"name": "twins_m2_shotTexture",
-	"src": "effects/plasma3/shot.png?v1"
+	"src": "effects/winter/plasma/shot.png?v1"
 	},
 	{
 	"name": "twins_m3_shotTexture",
-	"src": "effects/plasma4/shot.png?v1"
+	"src": "effects/winter/plasma/shot.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingRayId",
-	"src": "effects/healing1/damage_shaft.png?v1"
+	"src": "effects/winter/healing/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingTargetBallId",
-	"src": "effects/healing1/damage_end.png?v1"
+	"src": "effects/winter/healing/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m0_damagingWeaponBallId",
-	"src": "effects/healing1/damage_start.png?v1"
+	"src": "effects/winter/healing/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m0_healingRayId",
-	"src": "effects/healing1/heal_shaft.png?v1"
+	"src": "effects/winter/healing/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m0_healingTargetBallId",
-	"src": "effects/healing1/heal_end.png?v1"
+	"src": "effects/winter/healing/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m0_healingWeaponBallId",
-	"src": "effects/healing1/heal_start.png?v1"
+	"src": "effects/winter/healing/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m0_idleWeaponBallId",
-	"src": "effects/healing1/idle_spark.png?v1"
+	"src": "effects/winter/healing/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingRayId",
-	"src": "effects/healing2/damage_shaft.png?v1"
+	"src": "effects/winter/healing/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingTargetBallId",
-	"src": "effects/healing2/damage_end.png?v1"
+	"src": "effects/winter/healing/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m1_damagingWeaponBallId",
-	"src": "effects/healing2/damage_start.png?v1"
+	"src": "effects/winter/healing/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m1_healingRayId",
-	"src": "effects/healing2/heal_shaft.png?v1"
+	"src": "effects/winter/healing/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m1_healingTargetBallId",
-	"src": "effects/healing2/heal_end.png?v1"
+	"src": "effects/winter/healing/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m1_healingWeaponBallId",
-	"src": "effects/healing2/heal_start.png?v1"
+	"src": "effects/winter/healing/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m1_idleWeaponBallId",
-	"src": "effects/healing2/idle_spark.png?v1"
+	"src": "effects/winter/healing/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingRayId",
-	"src": "effects/healing3/damage_shaft.png?v1"
+	"src": "effects/winter/healing/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingTargetBallId",
-	"src": "effects/healing3/damage_end.png?v1"
+	"src": "effects/winter/healing/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m2_damagingWeaponBallId",
-	"src": "effects/healing3/damage_start.png?v1"
+	"src": "effects/winter/healing/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m2_healingRayId",
-	"src": "effects/healing3/heal_shaft.png?v1"
+	"src": "effects/winter/healing/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m2_healingTargetBallId",
-	"src": "effects/healing3/heal_end.png?v1"
+	"src": "effects/winter/healing/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m2_healingWeaponBallId",
-	"src": "effects/healing3/heal_start.png?v1"
+	"src": "effects/winter/healing/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m2_idleWeaponBallId",
-	"src": "effects/healing3/idle_spark.png?v1"
+	"src": "effects/winter/healing/idle_spark.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingRayId",
-	"src": "effects/healing4/damage_shaft.png?v1"
+	"src": "effects/winter/healing/damage_shaft.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingTargetBallId",
-	"src": "effects/healing4/damage_end.png?v1"
+	"src": "effects/winter/healing/damage_end.png?v1"
 	},
 	{
 	"name": "isida_m3_damagingWeaponBallId",
-	"src": "effects/healing4/damage_start.png?v1"
+	"src": "effects/winter/healing/damage_start.png?v1"
 	},
 	{
 	"name": "isida_m3_healingRayId",
-	"src": "effects/healing4/heal_shaft.png?v1"
+	"src": "effects/winter/healing/heal_shaft.png?v1"
 	},
 	{
 	"name": "isida_m3_healingTargetBallId",
-	"src": "effects/healing4/heal_end.png?v1"
+	"src": "effects/winter/healing/heal_end.png?v1"
 	},
 	{
 	"name": "isida_m3_healingWeaponBallId",
-	"src": "effects/healing4/heal_start.png?v1"
+	"src": "effects/winter/healing/heal_start.png?v1"
 	},
 	{
 	"name": "isida_m3_idleWeaponBallId",
-	"src": "effects/healing4/idle_spark.png?v1"
+	"src": "effects/winter/healing/idle_spark.png?v1"
 	},
 	{
 	"name": "thunder_m0_explosionResourceId",
