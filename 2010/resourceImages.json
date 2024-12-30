@@ -1295,11 +1295,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "tank_parts/colorings/checker.jpg"
+		"src": "tank_parts/colorings/holiday_winter.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "item/preview/coloring_holiday.png"
+		"src": "item/preview/coloring_holiday_winter.png"
 	 },
 	 {
 		"name": "red_m0",
@@ -1875,7 +1875,7 @@
 	 }, 
 	 {
 		"name": "parachute",
-		"src": "bonuses/parachutes/parachute1/para.jpg?v1"
+		"src": "bonuses/parachutes/parachute1/parany.jpg?v1"
 	 }, 
 	 {
 		"name": "parachute_inner",
@@ -1891,28 +1891,28 @@
 	 }, 
 	 {
 		"name": "bonus_box_gold",
-		"src": "bonuses/boxes/crystal100/box.jpg?v1"
+		"src": "bonuses/boxes/crystal100/box_ny.jpg?v1"
 	 }, 
 	 {
 		"name": "bonus_box_crystall",
-		"src": "bonuses/boxes/crystal/box.jpg?v1"
+		"src": "bonuses/boxes/crystal/box_ny.jpg?v1"
 	 }
 	 , 
 	 {
 		"name": "bonus_box_armor",
-		"src": "bonuses/boxes/armor/box_armr.jpg?v1"
+		"src": "bonuses/boxes/armor/box_armr_ny.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_health",
-		"src": "bonuses/boxes/med/box_med.jpg?v1"
+		"src": "bonuses/boxes/med/box_med_ny.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_damage",
-		"src": "bonuses/boxes/shot/box_shot.jpg?v1"
+		"src": "bonuses/boxes/shot/box_shot_ny.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_nitro",
-		"src": "bonuses/boxes/nos/box_nos.jpg?v1"
+		"src": "bonuses/boxes/nos/box_nos_ny.jpg?v1"
 	 },
 	 {
 		"name": "bonus_box_repair",
