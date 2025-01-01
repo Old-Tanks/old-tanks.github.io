@@ -30,6 +30,10 @@
         "src": "halloween.mp3"	
 	  },
 	  {
+		"name": "new_year_sound_id",
+        "src": "Fon-NY_2017.mp3"	
+	  },
+	  {
 		"name": "bonusTakenSound",
         "src": "bonus.mp3"	
 	  },
@@ -108,6 +112,18 @@
 	  {
 		"name": "explosionSound_mine",
         "src": "mines/mine_explosion.mp3"	
+	  },
+	  {
+		"name": "shaft_shot",
+        "src": "turret/shaft/shot.wav"	
+	  },
+	  {
+		"name": "snowman_shotSound",
+        "src": "turret/snowman/shot.wav"	
+	  },
+	  {
+		"name": "snowman_shotExplosion",
+        "src": "turret/snowman/expl.wav"	
 	  }
 	]
 }
