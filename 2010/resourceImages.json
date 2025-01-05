@@ -14,8 +14,8 @@
 		"src": "ctf/flag_blue_ny.png",
 		"multiframe": true,
 		"fps": 3,
-		"frame_heigth": 255,
-		"frame_width": 176,
+		"frame_heigth": 176,
+		"frame_width": 85,
 		"num_frames": 3
 	 },
 	 {
@@ -23,8 +23,8 @@
 		"src": "ctf/flag_red_ny.png",
 		"multiframe": true,
 		"fps": 3,
-		"frame_heigth": 255,
-		"frame_width": 176,
+		"frame_heigth": 176,
+		"frame_width": 85,
 		"num_frames": 3
 	 },
 	 {
@@ -1305,11 +1305,11 @@
 	 },	
 	 {
 		"name": "holiday_m0",
-		"src": "tank_parts/colorings/holiday_winter.jpg"
+		"src": "tank_parts/colorings/holiday_winter1.jpg"
 	 },
 	 {
 		"name": "holiday_m0_preview",
-		"src": "item/preview/coloring_holiday_winter.png"
+		"src": "item/preview/coloring_holiday_winter1.png"
 	 },
 	 {
 		"name": "red_m0",
@@ -2008,12 +2008,12 @@
 	}
 	,
 	{
-	"name": "map_happy_new_year_preview.jpg",
+	"name": "map_happy_new_year_preview",
 	"src": "maps/map_happy_new_year_preview.jpg?v120"
 	}
 	,
 	{
-	"name": "map_happy_new_year2012_preview.jpg",
+	"name": "map_happy_new_year2012_preview",
 	"src": "maps/map_happy_new_year2012_preview.jpg?v120"
 	}
 	,
