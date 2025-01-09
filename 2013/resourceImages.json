@@ -3639,7 +3639,7 @@
 	"src": "turret/smoky/m3/fire.png?v1"
 	},
 	{
-	"name": "fire_shot",
+	"name": "flamethrower_shot",
 	"src": "turret/flamethrower/shot.png"
 	},
 	{
