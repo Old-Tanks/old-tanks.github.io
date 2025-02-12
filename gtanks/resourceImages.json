@@ -11,21 +11,11 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue.png",
-		"multiframe": true,
-		"fps": 3,
-		"frame_heigth": 176,
-		"frame_width": 85,
-		"num_frames": 3
+		"src": "ctf/flag_blue.png"
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red.png",
-		"multiframe": true,
-		"fps": 3,
-		"frame_heigth": 176,
-		"frame_width": 85,
-		"num_frames": 3
+		"src": "ctf/flag_red.png"
 	 },
 	 {
 		"name": "explosionTexture",
@@ -46,10 +36,6 @@
 	 {
 		"name": "garage_box_img",
 		"src": "garage/garage.jpg"
-	 },
-	 {
-		"name": "garage_box_img2",
-		"src": "garage/garage_t.png"
 	 },
 	 {
 		"name": "viking_m0_details",
@@ -1445,11 +1431,11 @@
 	 }, 
 	 {
 		"name": "parachute",
-		"src": "bonus/parachute1/para.jpg"
+		"src": "bonus/parachute/para.jpg"
 	 }, 
 	 {
 		"name": "parachute_inner",
-		"src": "bonus/parachute1_inner/para_in.jpg"
+		"src": "bonus/parachute_inner/para_in.jpg"
 	 }, 
 	 {
 		"name": "bonus_box_gold",
@@ -2352,6 +2338,14 @@
 	"name": "map_2042_winter_preview",
 	"src": "maps/map_2042_winter_preview.jpg"
 	},		
+	{
+	"name": "map_silence_2_winter_evening_preview",
+	"src":  "maps/map_silence_2_winter_evening.jpg?v120"
+	},		
+	{
+	"name": "map_silence_2_evening_preview",
+	"src":  "maps/map_silence_2_evening_preview.jpg?v120"
+	},
 	{
 	"name": "railgun_m0_shot",
 	"src": "turret/railgun/m0/railgun.png"

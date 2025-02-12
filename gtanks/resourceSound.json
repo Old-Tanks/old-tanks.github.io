@@ -30,10 +30,6 @@
         "src": "halloween.mp3"	
 	  },
 	  {
-		"name": "new_year_sound_id",
-        "src": "Fon-NY_2017.mp3"	
-	  },
-	  {
 		"name": "bonusTakenSound",
         "src": "bonus.mp3"	
 	  },
