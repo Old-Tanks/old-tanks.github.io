@@ -914,6 +914,14 @@
 		"src": "colormaps/anubis/preview.png"
 	 },	
 	 {
+		"name": "arab_m0",
+		"src": "colormaps/arab/image.jpg"
+	 },
+	 {
+		"name": "arab_m0_preview",
+		"src": "colormaps/arab/preview.png"
+	 },
+	 {
 		"name": "green_m0",
 		"src": "colormaps/green/image.jpg"
 	 },
@@ -1375,7 +1383,7 @@
 	 },
 	 {
 		"name": "flow_m0",
-		"src": "colormaps/flow/image.jpg",
+		"src": "colormaps/flow/image.jpg?r=1",
 		"multiframe": true,
 		"fps": 25,
 		"frame_heigth": 250,
@@ -1408,6 +1416,33 @@
 		"name": "spectr_m0_preview",
 		"src": "colormaps/spectr/preview.png"
 	 },
+	 {
+		"name": "redl_m0",
+		"src": "colormaps/redl/image.jpg",
+		"multiframe": true, 
+		"fps": 25, 
+		"frame_heigth": 125, 
+		"frame_width": 125, 
+		"num_frames": 16
+	 },	
+	 {
+		"name": "redl_m0_preview",
+		"src": "colormaps/redl/preview.png"
+	 },
+	 {
+		"name": "radiance_m0",
+		"src": "colormaps/radiance/image.jpg",
+		"multiframe": true,
+		"fps": 14,
+		"frame_heigth": 200,
+		"frame_width": 200,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "radiance_m0_preview",
+		"src": "colormaps/radiance/preview.png"
+	 },
+
 	 {
 		"name": "garland_m0",
 		"src": "colormaps/garland/image.jpg",
@@ -2338,6 +2373,10 @@
 	"name": "map_2042_winter_preview",
 	"src": "maps/map_2042_winter_preview.jpg"
 	},		
+	{
+	"name": "map_koenigsberg_preview",
+	"src": "maps/keninsberg_preview.jpg?v120"
+	},
 	{
 	"name": "map_silence_2_winter_evening_preview",
 	"src":  "maps/map_silence_2_winter_evening.jpg?v120"
