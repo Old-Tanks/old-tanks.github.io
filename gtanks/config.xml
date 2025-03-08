@@ -1,37 +1,35 @@
 <config>
 <proplibs>
-<proplib url="resources/library/land_v1.tara"/>
-<proplib url="resources/library/complex_building_v1.tara"/>
-<proplib url="resources/library/buildings_v1.tara"/>
-<proplib url="resources/library/elements_v1.tara"/>
-<proplib url="resources/library/builds.tara"/>
-<proplib url="resources/library/landscape.tara"/>
-<proplib url="resources/library/LandscapeWinter.tara"/>
-<proplib url="resources/library/NY.tara"/>
-<proplib url="resources/library/WWW.tara"/>
-<proplib url="resources/library/Test.tara"/>
-<proplib url="resources/library/Tunnels.tara"/>
-<proplib url="resources/library/castle.tara"/>
-<proplib url="resources/library/Halloween.tara"/>
-<proplib url="resources/library/BuildsWinter.tara"/>
-<proplib url="resources/library/Buildingsv1Winter.tara"/>
-<proplib url="resources/library/Landv1Winter.tara"/>
-<proplib url="resources/library/Elementsv1Winter.tara"/>
-<proplib url="resources/library/ComplexBuildv1Winter.tara"/>
-<proplib url="resources/library/yonje.tara"/>
-<proplib url="resources/library/kariz.tara"/>
-<proplib url="resources/library/kahgel.tara"/>
-<proplib url="resources/library/zamin.tara"/>
-<proplib url="resources/library/Billboard.tara"/>
-<proplib url="resources/library/BillboardWinter.tara"/>
-<!--
 
+<proplib url="resources/library/Billboard.tara?v12"/>
+<proplib url="resources/library/BillboardWinter.tara?v12"/>
+<proplib url="resources/library/Buildingsv1.tara?v120"/>
+<proplib url="resources/library/Buildingsv1Winter.tara?v120"/>
+<proplib url="resources/library/Builds.tara?v120"/>
+<proplib url="resources/library/BuildsWinter.tara?v120"/>
+<proplib url="resources/library/Castle.tara?v120"/>
+<proplib url="resources/library/ComplexBuildv1.tara?v120"/>
+<proplib url="resources/library/ComplexBuildv1Winter.tara?v120"/>
+<proplib url="resources/library/Elementsv1.tara?v120"/>
+<proplib url="resources/library/Elementsv1Winter.tara?v120"/>
+<proplib url="resources/library/Kahgel.tara?v120"/>
+<proplib url="resources/library/Kariz.tara?v120"/>
+<proplib url="resources/library/Landscape.tara?v120"/>
+<proplib url="resources/library/LandscapeWinter.tara?v120"/>
+<proplib url="resources/library/Landv1.tara?v120"/>
+<proplib url="resources/library/Landv1Winter.tara?v120"/>
+<proplib url="resources/library/Yonje.tara?v120"/>
+<proplib url="resources/library/Zamin.tara?v120"/>
+
+<proplib url="resources/library/CastleWinter.tara?v120"/> 
+
+<!--
  <proplib url="resources/library/CastleWinter.tara"/> 
 -->
 </proplibs>
 <map url="map.xml"/>
-<!--  	<map url="map_industrial_zone.xml"/>   -->
-<!--  	<map url="map_novel.xml"/>  -->
+<!-- 	<map url="map_industrial_zone.xml"/>  -->
+<!-- 	<map url="map_novel.xml"/> -->
 <options>
 <tank-explosion>
 <fps>20</fps>
@@ -101,7 +99,6 @@
 <texture id="tank_explosion/explosion" url="tank_explosion/explosion.png"/>
 <texture id="tank_explosion/smoke" url="tank_explosion/smoke.png"/>
 <!--
-
 
 		<texture id="skybox1_up" url="skybox1/up.jpg"/>
 		<texture id="skybox1_down" url="skybox1/down.jpg"/>
