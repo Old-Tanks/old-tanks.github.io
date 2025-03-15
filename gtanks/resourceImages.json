@@ -931,16 +931,11 @@
 	 },	
 	 {
 		"name": "holiday_m0_preview",
-		"src": "colormaps/holiday/preview.png?v23"
+		"src": "colormaps/holiday/preview.png?v24"
 	 },
  	 {
 		"name": "holiday_m0",
-		"src": "colormaps/holiday/image.jpg?v25",
-		"multiframe": true,
-		"fps": 15,
-		"frame_heigth": 250,
-		"frame_width": 250,
-		"num_frames": 32
+		"src": "colormaps/holiday/image.jpg?v26"
 	 },
 	 {
 		"name": "red_m0",
