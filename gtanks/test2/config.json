@@ -1,0 +1,10 @@
+{
+    "VERSION_URL": "https://old-tanks.github.io/gtanks/test2/version.txt",
+    "VERSION_FILE_NAME": "version.txt",
+    "CORE_URL": "https://old-tanks.github.io/gtanks/test2/core.jar",
+    "CORE_FILE_NAME": "core.jar",
+    "ICON_PATH": "assets/logo.png",
+    "SOUND_PATH": "assets/startup.wav",
+    "LOGO_PATH": "assets/gtanks.png",
+    "SPIN_PATH": "assets/spin.png"
+}
