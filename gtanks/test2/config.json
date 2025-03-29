@@ -3,7 +3,7 @@
     "VERSION_LINK": "http://gtanksonline.rf.gd",
     "VERSION_URL": "https://old-tanks.github.io/gtanks/test2/version.txt",
     "VERSION_TEST_URL": "https://old-tanks.github.io/gtanks/test2/version_test.txt",
-    "CONFIG_FILE_NAME": "config.json",
+    "SETTINGS_FILE_NAME": "settings.json",
     "CORE_URL": "https://old-tanks.github.io/gtanks/test2/core.jar",
     "CORE_TEST_URL": "https://old-tanks.github.io/gtanks/test2/core_test.jar",
     "CORE_FILE_NAME": "core.jar",
