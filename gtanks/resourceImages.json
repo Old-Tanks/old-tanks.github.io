@@ -931,11 +931,16 @@
 	 },	
 	 {
 		"name": "holiday_m0_preview",
-		"src": "colormaps/holiday/preview.png?v24"
+		"src": "colormaps/holiday/preview.png?v25"
 	 },
  	 {
 		"name": "holiday_m0",
-		"src": "colormaps/holiday/image.jpg?v26"
+		"src": "colormaps/holiday/image.jpg?v27",
+		"multiframe": true, 
+		"fps": 15, 
+		"frame_heigth": 64, 
+		"frame_width": 64, 
+		"num_frames": 20
 	 },
 	 {
 		"name": "red_m0",
@@ -2061,7 +2066,7 @@
 	},
 	{
 	"name": "map_containers_preview",
-	"src": "maps/map_halloween_preview.jpg?v120"
+	"src": "maps/map_containers_preview.jpg?v120"
 	},
 	{
 	"name": "map_dust_preview",
