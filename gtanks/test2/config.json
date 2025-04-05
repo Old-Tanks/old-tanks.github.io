@@ -1,6 +1,6 @@
 {
-    "VERSION": "0.1.9.16",
-    "VERSION_SUPPORT": "0.7, 0.1.9.16",
+    "VERSION": "0.1.9.16.1",
+    "VERSION_SUPPORT": "0.7, 0.1.9.16, 0.1.9.16.1",
     "VERSION_LINK": "http://gtanksonline.rf.gd",
     "VERSION_URL": "https://old-tanks.github.io/gtanks/test2/version.txt",
     "VERSION_TEST_URL": "https://old-tanks.github.io/gtanks/test2/version_test.txt",
