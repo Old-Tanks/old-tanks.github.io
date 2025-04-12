@@ -7,23 +7,23 @@
 	  },
 	  {
         "name": "flagDropSound",
-        "src": "ctf/flag-lost.mp3?v1"		
+        "src": "ctf/flag-lost.mp3"		
 	  },
 	  {
         "name": "flagReturnSound",
-        "src": "ctf/flag-return.mp3?v1"		
+        "src": "ctf/flag-return.mp3"		
 	  },
 	  {
         "name": "flagTakeSound",
-        "src": "ctf/flag-slole.mp3?v1"		
+        "src": "ctf/flag-slole.mp3"		
 	  },
 	  {
         "name": "winSound",
-        "src": "ctf/flag-win.mp3?v1"		
+        "src": "ctf/flag-win.mp3"		
 	  },
 	  {
 		"name": "default_ambient_sound",
-        "src": "fon.mp3?v1"	
+        "src": "fon.mp3"	
 	  },
 	  {
 		"name": "halloween_sound_id",
@@ -63,15 +63,15 @@
 	  },
 	  {
 		"name": "damagingSoundId",
-        "src": "turret/isida/damage.mp3?v1"	
+        "src": "turret/isida/damage.mp3"	
 	  },
 	  {
 		"name": "healingSoundId",
-        "src": "turret/isida/healing.mp3?v1"	
+        "src": "turret/isida/healing.mp3"	
 	  },
 	  {
 		"name": "idleSoundId",
-        "src": "turret/isida/idle.mp3?v1"	
+        "src": "turret/isida/idle.mp3"	
 	  },
 	  {
 		"name": "thunder_explosionSoundResourceId",
@@ -120,6 +120,19 @@
 	  {
 		"name": "snowman_shotExplosion",
         "src": "turret/snowman/expl.wav"	
+	  },
+	  {
+		"name": "shaft_zoomModeSound",
+        "src": "turret/shaft/zoomMode.wav"	
+	  },
+	  {
+		"name": "shaft_targetingSound",
+        "src": "turret/shaft/targetingSound.wav"	
+	  },
+	  {
+		"name": "space_ambient_sound",
+        "src": "sounds/space.mp3"	
 	  }
+	  
 	]
 }
