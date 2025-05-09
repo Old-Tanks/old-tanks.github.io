@@ -1,6 +1,6 @@
 {
-    "VERSION": "0.1.9.16.1",
-    "VERSION_SUPPORT": "0.1.9.16.1",
+    "VERSION": "0.1.9.17",
+    "VERSION_SUPPORT": "0.1.9.16.1, 0.1.9.17",
     "VERSION_LINK": "http://gtanksonline.rf.gd",
     "VERSION_URL": "https://old-tanks.github.io/gtanks/test2/version.txt",
     "VERSION_TEST_URL": "https://old-tanks.github.io/gtanks/test2/version_test.txt",
@@ -12,5 +12,8 @@
     "SOUND_PATH": "assets/startup.wav",
     "LOGO_PATH": "assets/gtanks.png",
     "SPIN_PATH": "assets/spin.png",
+    "CHARGE_PATH": "assets/charge_part1.png",
+    "CHARGE2_PATH": "assets/charge_part2.png",
+    "CHARGE3_PATH": "assets/charge_part3.png",
     "TEST": true
 }
