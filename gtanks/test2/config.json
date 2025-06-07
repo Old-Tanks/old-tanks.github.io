@@ -17,7 +17,7 @@
     "CHARGE3_PATH": "assets/charge_part3.png",
     "TEST": true,
     "PROGRESS": false,
-    "TEXT_RU": "Типа, текст... test text.",
+    "TEXT_RU": "Типа, текст...\ntest text.",
     "TEXT_EN": "text",
     "TEXT_CHECK": true
 }
