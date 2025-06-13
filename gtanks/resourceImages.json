@@ -11,11 +11,11 @@
 	 },
 	 {
 		"name": "flagBlue",
-		"src": "ctf/flag_blue.png?v12"
+		"src": "ctf/flag_blue.png?v13"
 	 },
 	 {
 		"name": "flagRed",
-		"src": "ctf/flag_red.png?v12"
+		"src": "ctf/flag_red.png?v13"
 	 },
 	 {
 		"name": "explosionTexture",
