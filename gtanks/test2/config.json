@@ -1,6 +1,6 @@
 {
     "VERSION": "0.1.9.17",
-    "VERSION_SUPPORT": "0.1.9.16.1, 0.1.9.17",
+    "VERSION_SUPPORT": "0.1.9.16.1, 0.1.9.17, 0.1.9.18",
     "VERSION_LINK": "http://gtanksonline.rf.gd",
     "VERSION_URL": "https://old-tanks.github.io/gtanks/test2/version.txt",
     "VERSION_TEST_URL": "https://old-tanks.github.io/gtanks/test2/version_test.txt",
@@ -18,6 +18,10 @@
     "TEST": true,
     "PROGRESS": false,
     "TEXT_RU": "by scpacker",
-    "TEXT_EN": "scpacker, when is gtanks?",
-    "TEXT_CHECK": true
+    "TEXT_EN": "scpacker when is gtanks?",
+    "TEXT_CHECK": true,
+    "CHECK_SERVER": true,
+    "SERVER_URL": "http://85.192.20.120/",
+    "CHAT_URL": "http://t.me/gtanksonline",
+    "DONATE_URL": "http://gtanksonline.rf.gd/support"
 }
