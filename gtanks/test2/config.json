@@ -20,6 +20,7 @@
     "TEXT_RU": "by scpacker",
     "TEXT_EN": "scpacker when is gtanks?",
     "TEXT_CHECK": true,
+    "SHOW_SNOW": true,
     "CHECK_SERVER": true,
     "SERVER_URL": "http://85.192.20.120/",
     "CHAT_URL": "http://t.me/gtanksonline",
