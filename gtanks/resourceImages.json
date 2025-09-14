@@ -931,11 +931,11 @@
 	 },	
 	 {
 		"name": "holiday_m0_preview",
-		"src": "colormaps/holiday/preview.png?v29"
+		"src": "colormaps/holiday/preview.png?v24"
 	 },
  	 {
 		"name": "holiday_m0",
-		"src": "colormaps/holiday/image.jpg?v31"
+		"src": "colormaps/holiday/image.jpg?v26"
 	 },
 	 {
 		"name": "red_m0",
@@ -1503,7 +1503,7 @@
 	 }, 
 	 {
 		"name": "bonus_box_gold",
-		"src": "bonus/boxes/crystal100/box.jpg?v2"
+		"src": "bonus/boxes/crystal100/box.jpg"
 	 }, 
 	 {
 		"name": "bonus_box_crystall",
