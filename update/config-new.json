@@ -72,7 +72,7 @@
         "resourcesZipFull": "https://drive.usercontent.google.com/download?id=12L1iACmrvkNNrTGrZFoE05-Bmvf77ghz&export=download",
         "clientVersion": 2048,
         "resourcesVersion": 2048,
-        "client": "Tanki Online.exe?locale=",
+        "client": "Tanki Online.exe",
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%LOCALAPPDATA%\\Programs\\Tanki Online",
