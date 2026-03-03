@@ -228,13 +228,13 @@
         "website": "http://oldtanks.rf.gd",
         "donate": "http://oldtanks.rf.gd",
         "wiki": "https://tanki.fandom.com/ru/wiki/OldTanks",
-        "forum": null,
+        "forum": "",
         "discord": "http://discord.gg/ShYVKZxkEb",
         "youtube": "http://youtube.com/channel/UCrjNs7o60NW9ywcM0ROt-mg",
         "telegram": "http://t.me/fastoldtanks",
         "vk": "https://vk.com/oldtankstm?w=chats-217331657",
         "openvk": "http://openvk.su/oldtanks",
-        "vepurovk": null
+        "vepurovk": ""
       },
       "params": {
         "maxProxyAttempts": 1,
