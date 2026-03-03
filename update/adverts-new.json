@@ -1,0 +1,334 @@
+﻿{
+  "Items": [
+    {
+      "Id": "post_vk0",
+      "Enabled": false,
+      "Chance": 80,
+      "Title": {
+        "en": "Player of week!",
+        "ru": "Игрок недели!"
+      },
+      "Text": {
+        "en": "Meet The Most Active Players Of The Week! Prizes Awarded ❤️",
+        "ru": "Встречаем Самых Активных Игроков Недели! Призы Начислены ❤️"
+      },
+      "ImageUrl": "https://sun9-79.userapi.com/s/v1/if2/LAYxybmkeSiFT2exMQ-dxHmbQUukKod8txV3S41dMTTdniTOijW9eYEgLXHBgvhH2qfvPXvmZ8B7vK1uA0pU2-42.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x269,480x359,540x404,640x479,720x539,886x663&from=bu&u=aH59LIuRQZsyPq3mTC_8k0omPlCa5hf2xe8f8XJJDYY&cs=886x0",
+      "Actions": [
+        {
+          "Action": "open_vk",
+          "Text": {
+            "en": "Go to VK",
+            "ru": "Перейти в VK"
+          }
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "View post in VK",
+            "ru": "Просмотреть пост в ВК"
+          },
+          "Url": "https://vk.com/wall-191009742_356"
+        }
+      ],
+      "TimeoutSeconds": 20,
+      "StartDate": "2025-10-21T00:00:00",
+      "EndDate": "2025-10-29T23:59:59"
+    },
+    {
+      "Id": "stay_alert1",
+      "Enabled": true,
+      "Chance": 60,
+      "Title": {
+        "en": "Stay alert!",
+        "ru": "Будьте бдительны!"
+      },
+      "Text": {
+        "en": "Fake “MyTanks” project from Ovcharenko have appeared online; they contain a virus that grants remote control of your PC and steals your data. We strongly advise you not to download—let alone run—them. Such projects are made to abuse your trust; their main goal is your donations and personal data, and they may stop working at any moment. Play only our official MyTanks. In the future we might release a unified tank-game launcher that contains only verified, approved projects. Good luck on the battlefield!️",
+        "ru": "В сети появились фейковые «MyTanks» от овчарки, которые содержат вирус, позволяющий получить доступ к управлению вашим ПК и краже данных. Мы настоятельно не рекомендуем их скачивать, а тем более запускать: такие проекты создаются ради обмана вашего доверия, их главная цель - ваши донаты и данные, а сами проекты могут работать недолго. Играйте только в наши MyTanks; возможно, мы вскоре создадим общий лаунчер танковых проектов, где будут только проверенные и одобренные нами игры. Удачи на полях сражений!️"
+      },
+      "ImageUrl": "https://tankionline.com/ru/wp-content/uploads/2021/06/740.jpg",
+      "Actions": [
+        {
+          "Action": "close",
+          "Text": {
+            "en": "Close",
+            "ru": "Закрыть"
+          }
+        }
+      ],
+      "TimeoutSeconds": 30,
+      "StartDate": "2026-02-26T00:00:00",
+      "EndDate": "2026-04-02T23:59:59"
+    },
+    {
+      "Id": "launcher_update1",
+      "Enabled": true,
+      "Chance": 80,
+      "Title": {
+        "en": "Launcher Update 1.2 is live!",
+        "ru": "Лаунчер обновился до версии 1.2!"
+      },
+      "Text": {
+        "en": "It’s faster, more stable and packed with quality-of-life tweaks. Spotted a bug? Let us know and we’ll squash it ASAP.",
+        "ru": "Мы поработали над его стабильностью, добавили некоторые функции, а так же сделали его более комфортным для вас! Если вы найдёте ошибки, то сообщите нам."
+      },
+      "ImageUrl": "https://tankionline.com/ru/wp-content/uploads/2020/06/untitled-1.png",
+      "Actions": [
+        {
+          "Action": "url",
+          "Text": {
+            "en": "Report to developer",
+            "ru": "Сообщить разработчику"
+          },
+          "Url": "https://vk.com/mypcak"
+        },
+        {
+          "Action": "close",
+          "Text": {
+            "en": "Close",
+            "ru": "Закрыть"
+          }
+        }
+      ],
+      "TimeoutSeconds": 25,
+      "StartDate": "2026-02-26T00:00:00",
+      "EndDate": "2026-04-01T23:59:59"
+    },
+    {
+      "Id": "promo_discount",
+      "Enabled": false,
+      "Chance": 80,
+      "Title": {
+        "en": "Exclusive Discount!",
+        "ru": "Эксклюзивная скидка!"
+      },
+      "Text": {
+        "en": "Get 20% off on premium tanks this week. Click to claim!",
+        "ru": "Получите 20% скидку на премиум танки на этой неделе. Нажмите, чтобы воспользоваться!"
+      },
+      "ImageUrl": "https://example.com/images/promo_banner.jpg",
+      "Actions": [
+        {
+          "Action": "url",
+          "Text": {
+            "en": "Claim Now",
+            "ru": "Забрать сейчас"
+          },
+          "Url": "https://mytanks.com/discount"
+        },
+        {
+          "Action": "close",
+          "Text": {
+            "en": "Close",
+            "ru": "Закрыть"
+          }
+        }
+      ],
+      "TimeoutSeconds": 10,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-12-31T23:59:59"
+    },
+    {
+      "Id": "social_vk0",
+      "Enabled": true,
+      "Chance": 50,
+      "Title": {
+        "en": "Join Our VK Group!",
+        "ru": "Присоединяйтесь к нашей группе VK!"
+      },
+      "Text": {
+        "en": "Stay updated with the latest news and events.",
+        "ru": "Оставайтесь в курсе последних новостей и событий."
+      },
+      "ImageUrl": "https://example.com/images/vk_banner.pn1g",
+      "Actions": [
+        {
+          "Action": "open_vk",
+          "Text": {
+            "en": "Go to VK",
+            "ru": "Перейти в VK"
+          }
+        },
+        {
+          "Action": "show_next",
+          "Text": {
+            "en": "Next",
+            "ru": "Далее"
+          }
+        }
+      ],
+      "TimeoutSeconds": 15
+    },
+    {
+      "Id": "forum_announce",
+      "Enabled": false,
+      "Chance": 60,
+      "Title": {
+        "en": "New Forum Thread",
+        "ru": "Новая тема на форуме"
+      },
+      "Text": {
+        "en": "Discuss the latest updates with the community.",
+        "ru": "Обсудите последние обновления с сообществом."
+      },
+      "ImageUrl": "https://example.com/images/forum_banner.jpg",
+      "Actions": [
+        {
+          "Action": "open_forum",
+          "Text": {
+            "en": "Visit Forum",
+            "ru": "Перейти на форум"
+          }
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "View Thread",
+            "ru": "Просмотреть тему"
+          },
+          "Url": "http://mytanksforum.net/thread/123"
+        }
+      ],
+      "TimeoutSeconds": 12,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-30T23:59:59"
+    },
+    {
+      "Id": "discord_invite1",
+      "Enabled": true,
+      "Chance": 70,
+      "Title": {
+        "en": "Join Our Discord!",
+        "ru": "Присоединяйтесь к нашему Discord!"
+      },
+      "Text": {
+        "en": "Chat with players in real-time.",
+        "ru": "Общайтесь с игроками в реальном времени."
+      },
+      "ImageUrl": "https://oldtanks.rf.gd/img/discord.png",
+      "Actions": [
+        {
+          "Action": "open_discord",
+          "Text": {
+            "en": "Join Now",
+            "ru": "Присоединиться"
+          }
+        },
+        {
+          "Action": "copy_clipboard",
+          "Text": {
+            "en": "Copy Invite Link",
+            "ru": "Копировать ссылку"
+          },
+          "Url": "http://discord.gg/ShYVKZxkEb"
+        }
+      ],
+      "TimeoutSeconds": 8
+    },
+    {
+      "Id": "international_update",
+      "Enabled": false,
+      "Chance": 0,
+      "Title": {
+        "en": "Launcher Update Available",
+        "ru": "Доступно обновление лаунчера"
+      },
+      "Text": {
+        "en": "Update to the latest version for new features.",
+        "ru": "Обновитесь до последней версии для новых функций."
+      },
+      "ImageUrl": "https://example.com/images/update_banner.jpg",
+      "Actions": [
+        {
+          "Action": "internal_update",
+          "Text": {
+            "en": "Update Now",
+            "ru": "Обновить"
+          }
+        },
+        {
+          "Action": "internal_settings",
+          "Text": {
+            "en": "Settings",
+            "ru": "Настройки"
+          }
+        }
+      ],
+      "TimeoutSeconds": 20
+    },
+    {
+      "Id": "donate_prompt",
+      "Enabled": true,
+      "Chance": 40,
+      "Title": {
+        "en": "Support the Game",
+        "ru": "Поддержите игру"
+      },
+      "Text": {
+        "en": "Your donation helps improve the game experience.",
+        "ru": "Ваш донат помогает улучшить игровой опыт."
+      },
+      "ImageUrl": "https://example.com/images/donate_banner.jpg",
+      "Actions": [
+        {
+          "Action": "open_donate",
+          "Text": {
+            "en": "Donate",
+            "ru": "Донат"
+          }
+        },
+        {
+          "Action": "delay_close",
+          "Text": {
+            "en": "Close in 3s",
+            "ru": "Закрыть через 3с"
+          },
+          "DelaySeconds": 3
+        }
+      ],
+      "TimeoutSeconds": 0
+    },
+    {
+      "Id": "patch_notes",
+      "Enabled": false,
+      "Chance": 90,
+      "Title": {
+        "en": "Latest Patch Notes",
+        "ru": "Последние патчноуты"
+      },
+      "Text": {
+        "en": "Check out what's new in version 2.5.3.",
+        "ru": "Посмотрите, что нового в версии 2.5.3."
+      },
+      "ImageUrl": "https://example.com/images/patch_notes.jpg",
+      "Actions": [
+        {
+          "Action": "download_file",
+          "Text": {
+            "en": "Download Notes",
+            "ru": "Скачать нотсы"
+          },
+          "Url": "https://example.com/files/patchnotes_v253.pdf"
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "Full Changelog",
+            "ru": "Полные изменения"
+          },
+          "Url": "https://mytanks.com/changelog"
+        },
+        {
+          "Action": "show_next",
+          "Text": {
+            "en": "Next Ad",
+            "ru": "Следующее"
+          }
+        }
+      ],
+      "TimeoutSeconds": 25,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-30T23:59:59"
+    }
+  ]
+}
