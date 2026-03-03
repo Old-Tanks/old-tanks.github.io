@@ -28,6 +28,7 @@
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache"
   },
+  "testParams": null,
   "servers": [
     {
       "hidden": false,
