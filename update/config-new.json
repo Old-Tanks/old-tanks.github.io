@@ -40,7 +40,7 @@
         "descriptionEn": "Tanki Online — first multiplayer 3D-action. Participate in furious battles — destroy enemy tanks, help your team, advance your tank, make your military career! Wide choice of ammunition, several game modes and real players only."
       },
       "baseUrl": "http://tankionline.rf.gd",
-      "updateUrl": "https://old-tanks.github.io/update/",
+      "updateUrl": "https://old-tanks.github.io/update",
 	  "backgroundOpacity": 75,
       "background": "https://old-tanks.github.io/img/bg/fon_22.jpg",
       "logo": "https://old-tanks.github.io/img/logo/logotype.png",
