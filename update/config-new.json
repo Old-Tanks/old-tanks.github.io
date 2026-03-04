@@ -41,6 +41,7 @@
       },
       "baseUrl": "http://tankionline.rf.gd",
       "updateUrl": "https://old-tanks.github.io/update/",
+	  "backgroundOpacity": 15,
       "background": "https://old-tanks.github.io/img/bg/fon_22.jpg",
       "logo": "https://old-tanks.github.io/img/logo/logotype.png",
       "test": false,
