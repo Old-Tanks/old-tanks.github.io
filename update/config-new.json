@@ -1,6 +1,6 @@
 {
   "baseUrl": "http://oldtanks.rf.gd",
-  "updateUrl": "https://old-tanks.github.io/update/",
+  "updateUrl": "https://old-tanks.github.io/update",
   "launcherVersion": 1.2,
   "launcherZip": "AllTanks.exe",
   "test": false,
