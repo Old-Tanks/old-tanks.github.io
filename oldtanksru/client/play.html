@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Tanki Online</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="3; URL='https://oldtanksru.netlify.app/client/play.html'"/>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <style type="text/css" media="screen">
+      * {padding:0px; margin:0px;background-color: #1B1B19;}
+      html, body {height: 100%;}
+      body {margin: 0px; padding: 0px; color: #fff;}
+      a {color: #fff;}
+      #noflash {width:600px; margin:auto; padding-top:240px; text-align:left; background-image:url(images/fp.gif); background-repeat: no-repeat; background-position: left bottom ;height:120px; }
+      #noflash p { padding-left:120px; padding-top:10px; }
+    </style>
+    <script type="text/javascript" src="js/swfobject.js"></script>
+    <script type="text/javascript">
+    function getLang() {
+      var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage).substr(0, 2).toLowerCase();
+        if (lang == 'de' || lang == 'ru' || lang == 'zh') {
+            return lang;
+              }
+                return 'en';
+                }
+      var GALoaded = false;
+      function checkGALoaded() { if (window._gat && window._gat._getTracker) {GALoaded = true;} return GALoaded;}
+      function GATrackPageView(page) {
+        if (!GALoaded) {
+          checkGALoaded();
+        }
+        if (GALoaded) {
+          if (page == undefined) {
+            page = '';
+          }
+          try {
+            _gaq.push(['_trackPageview', page]);
+          } catch (e) {
+          }
+        }
+        return GALoaded;
+      }
+      function GATrackEvent(category, action, label) {
+        if (!GALoaded) {
+          checkGALoaded();
+        }
+        if (GALoaded) {
+          category = category == undefined ? '' : category;
+          action = action == undefined ? '' : action;
+          label = label == undefined ? '' : label;
+          try {
+            _gaq.push(['_trackEvent', category, action, label]);
+          } catch (e) {
+          }
+        }
+        return GALoaded;
+      }
+      var params = {
+        menu: false,
+        seamlesstabbing: false,
+        wmode: "direct",
+        bgcolor: "#1B1B19"
+      };
+      var flashvars = {};
+      var attributes = {};
+      swfobject.embedSWF("oldtanks.swf", "oldtanksloader", "100%", "100%", "9", "expressInstall.swf",flashvars, params, attributes);
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2354052-9']);
+      _gaq.push(['_setDomainName', 'tankionline.com']);
+      // _gaq.push(['_trackPageview', '/tutorial']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : '//www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+      var wactive = true;
+      _gaq.push(['_trackEvent', 'oldtanks', 'Window:Active']);
+      window.onblur = function() { //inactive
+        if (wactive == true) {
+          wactive = false;
+          GATrackEvent('oldtanks', 'Window:Inactive');
+        }
+      };
+      window.onfocus = function (){ //active
+        if (wactive == false) {
+          wactive = true;
+          GATrackEvent('oldtanks', 'Window:Active');
+        }
+      };
+      window.onbeforeunload = function() {
+        GATrackEvent('oldtanks', 'Window:Unload');
+      };
+
+    </script>
+  </head>
+  <body>
+    <div id="TutorialLoader">
+      <div id="noflash">
+        <p>Adobe Flash Player version 10.0.22.87 or higher is required. <br />Installation may take a minute. <a href="//www.adobe.com/go/getflashplayer">Install</a></p>
+        <p>Для игры требуется Adobe Flash Player версии 10.0.22.87 или выше. <br />Установка займет около минуты. <a href="//www.adobe.com/go/getflashplayer">Установить</a></p>
+      </div>
+      <noscript>Your browser does not support JavaScript!</noscript>
+    </div>
+    <!-- Yandex.Metrika counter -->
+    <div style="display:none;"><script type="text/javascript">
+      (function(w, c) {
+        (w[c] = w[c] || []).push(function() {
+          try {
+            w.yaCounter10288858 = new Ya.Metrika({id:10288858, enableAll: true, trackHash:true, webvisor:true});
+          }
+          catch(e) { }
+        });
+      })(window, "yandex_metrika_callbacks");
+      </script></div>
+    <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+    <noscript><div><img src="//mc.yandex.ru/watch/10288858" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+  </body>
+</html>

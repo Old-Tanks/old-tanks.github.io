@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<link rel="icon" type="image/ico" href="favicon.ico"/>
+	<meta charset="utf-8"/>
+	<title>Tanki Online</title>
+	<meta name="description" content="Играйте бесплатно в Старые Танки Онлайн! Play Old Tanki Online for free!"/>
+	
+	<script type="text/javascript" src="js/swfaddress.js">
+	</script>
+	<script src="js/swfobject.js"></script>
+	<script>
+	
+		var url = "AlternativaLoader.swf?locale=ru&rand="+Math.random();
+		
+		var flashvars = {
+		};
+		var params = {
+			menu: "true",
+			scale: "noScale",
+			allowFullscreen: "true",
+			allowScriptAccess: "always",
+			bgcolor: "",
+			wmode: "direct" // can cause issues with FP settings & webcam
+		};
+		var attributes = {
+			id:"tankionline"
+		};
+		swfobject.embedSWF(
+			url,
+			"altContent", "100%", "100%", "21.0.0", 
+			"expressInstall.swf", 
+			flashvars, params, attributes);
+	</script>
+	<style>
+   body {margin: 0; padding:0; border:0; overflow: hidden;}
+  </style>
+	<style type="text/css" media="screen">
+/*<![CDATA[*/
+* {
+	padding:0ox;
+	margin:0px;
+}
+
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(images/bg.jpg);
+	color: #fff;
+}
+a {
+	color: #fff;
+}
+#AlternativaLoader {
+	text-align:center;
+	min-width:1000px;
+	min-height:600px;
+	width:expression(document.body.clientWidth < 1000? "1000px": document.body.clientWidth );
+	height:expression(document.body.clientHeight < 600? "600px": document.body.clientHeight );
+}
+
+#noflash {
+	width:600px;
+	margin:auto;
+	padding-top:240px;
+	text-align:left;
+	background-image:url(images/fp.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom ;
+	height:120px;
+}
+
+#noflash p {
+	padding-left:120px;
+	padding-top:10px;
+}
+/*]]>*/
+</style>
+
+</head>
+<body> 
+
+	<div id="altContent">
+	
+<p>Adobe Flash Player version 10.0.22.87 or higher is required. <br/>Installation may take a minute. <a href="https://web.archive.org/web/20170623124709/http://www.adobe.com/go/getflashplayer">Install</a></p>
+<p>Для игры требуется Adobe Flash Player версии 10.0.22.87 или выше. <br/>Установка займет около минуты. <a href="https://web.archive.org/web/20170623124709/http://www.adobe.com/go/getflashplayer">Установить</a></p>
+<br>
+	</div>
+</body>
+</html>
